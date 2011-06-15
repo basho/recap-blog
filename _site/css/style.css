@@ -1,0 +1,538 @@
+/*
+  HTML5 ✰ Boilerplate
+
+  style.css contains a reset, font normalization and some base styles.
+
+  credit is left where credit is due.
+  much inspiration was taken from these projects:
+    yui.yahooapis.com/2.8.1/build/base/base.css
+    camendesign.com/design/
+    praegnanz.de/weblog/htmlcssjs-kickstart
+*/
+
+/*
+  html5doctor.com Reset Stylesheet (Eric Meyer's Reset Reloaded + HTML5 baseline)
+  v1.4 2009-07-27 | Authors: Eric Meyer & Richard Clark
+  html5doctor.com/html-5-reset-stylesheet/
+*/
+
+html, body, div, span, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+abbr, address, cite, code,
+del, dfn, em, img, ins, kbd, q, samp,
+small, strong, sub, sup, var,
+b, i,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section, summary,
+time, mark, audio, video {
+  margin:0;
+  padding:0;
+  border:0;
+  outline:0;
+  font-size:100%;
+  vertical-align:baseline;
+  background:transparent;
+}
+
+article, aside, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section {
+    display:block;
+}
+
+nav ul { list-style:none; }
+
+blockquote, q { quotes:none; }
+
+blockquote:before, blockquote:after,
+q:before, q:after { content:''; content:none; }
+
+a { margin:0; padding:0; font-size:100%; vertical-align:baseline; background:transparent; }
+
+ins { background-color:#ff9; color:#000; text-decoration:none; }
+
+mark { background-color:#ff9; color:#000; font-style:italic; font-weight:bold; }
+
+del { text-decoration: line-through; }
+
+abbr[title], dfn[title] { border-bottom:1px dotted; cursor:help; }
+
+/* tables still need cellspacing="0" in the markup */
+table { border-collapse:collapse; border-spacing:0; }
+
+hr { display:block; height:1px; border:0; border-top:1px solid #ccc; margin:1em 0; padding:0; }
+
+input, select { vertical-align:middle; }
+
+/* END RESET CSS */
+
+
+/* fonts.css from the YUI Library: developer.yahoo.com/yui/
+   Refer to developer.yahoo.com/yui/3/cssfonts/ for font sizing percentages
+
+  There are three custom edits:
+   * remove arial, helvetica from explicit font stack
+   * we normalize monospace styles ourselves
+   * table font-size is reset in the HTML5 reset above so there is no need to repeat
+*/
+body { font:13px/1.231 sans-serif; *font-size:small; } /* hack retained to preserve specificity */
+
+select, input, textarea, button { font:99% sans-serif; }
+
+/* normalize monospace sizing
+ * en.wikipedia.org/wiki/MediaWiki_talk:Common.css/Archive_11#Teletype_style_fix_for_Chrome
+ */
+pre, code, kbd, samp { font-family: monospace, sans-serif; }
+
+
+/*
+ * minimal base styles
+ */
+
+
+body, select, input, textarea {
+  /* #444 looks better than black: twitter.com/H_FJ/statuses/11800719859 */
+  color: #444;
+  /* set your base font here, to apply evenly */
+  /* font-family: Georgia, serif;  */
+}
+
+/* Headers (h1,h2,etc) have no default font-size or margin,
+   you'll want to define those yourself. */
+h1,h2,h3,h4,h5,h6 { font-weight: bold; }
+
+/* always force a scrollbar in non-IE */
+html { overflow-y: scroll; }
+
+
+/* Accessible focus treatment: people.opera.com/patrickl/experiments/keyboard/test */
+a:hover, a:active { outline: none; }
+
+a, a:active, a:visited { color: #607890; }
+a:hover { color: #036; }
+
+
+ul, ol { margin-left: 1.8em; }
+ol { list-style-type: decimal; }
+
+/* Remove margins for navigation lists */
+nav ul, nav li { margin: 0; }
+
+small { font-size: 85%; }
+strong, th { font-weight: bold; }
+
+td, td img { vertical-align: top; }
+
+sub { vertical-align: sub; font-size: smaller; }
+sup { vertical-align: super; font-size: smaller; }
+
+pre {
+  padding: 15px;
+
+  /* www.pathf.com/blogs/2008/05/formatting-quoted-code-in-blog-posts-css21-white-space-pre-wrap/ */
+  white-space: pre; /* CSS2 */
+  white-space: pre-wrap; /* CSS 2.1 */
+  white-space: pre-line; /* CSS 3 (and 2.1 as well, actually) */
+  word-wrap: break-word; /* IE */
+}
+
+textarea { overflow: auto; } /* thnx ivannikolic! www.sitepoint.com/blogs/2010/08/20/ie-remove-textarea-scrollbars/ */
+
+.ie6 legend, .ie7 legend { margin-left: -7px; } /* thnx ivannikolic! */
+
+/* align checkboxes, radios, text inputs with their label
+   by: Thierry Koblentz tjkdesign.com/ez-css/css/base.css  */
+input[type="radio"] { vertical-align: text-bottom; }
+input[type="checkbox"] { vertical-align: bottom; }
+.ie7 input[type="checkbox"] { vertical-align: baseline; }
+.ie6 input { vertical-align: text-bottom; }
+
+/* hand cursor on clickable input elements */
+label, input[type=button], input[type=submit], button { cursor: pointer; }
+
+/* webkit browsers add a 2px margin outside the chrome of form elements */
+button, input, select, textarea { margin: 0; }
+
+/* colors for form validity */
+input:valid, textarea:valid   {  }
+input:invalid, textarea:invalid {
+      border-radius: 1px; -webkit-border-radius: 1px; -moz-border-radius: 1px;
+    -moz-box-shadow: 0px 0px 5px red;
+ -webkit-box-shadow: 0px 0px 5px red;
+         box-shadow: 0px 0px 5px red;
+}
+.no-boxshadow input:invalid,
+.no-boxshadow textarea:invalid { background-color: #f0dddd; }
+
+
+/* These selection declarations have to be separate.
+   No text-shadow: twitter.com/miketaylr/status/12228805301
+   Also: hot pink. */
+::-moz-selection{ background: #fe9a27; color:#fff; text-shadow: none; }
+::selection { background:#fe9a27; color:#fff; text-shadow: none; }
+
+/*  j.mp/webkit-tap-highlight-color */
+a:link { -webkit-tap-highlight-color: #FF5E99; }
+
+/* make buttons play nice in IE:
+   www.viget.com/inspire/styling-the-button-element-in-internet-explorer/ */
+button {  width: auto; overflow: visible; }
+
+/* bicubic resizing for non-native sized IMG:
+   code.flickr.com/blog/2008/11/12/on-ui-quality-the-little-things-client-side-image-resizing/ */
+.ie7 img { -ms-interpolation-mode: bicubic; }
+
+
+
+/*
+ * Non-semantic helper classes
+ */
+
+/* for image replacement */
+.ir { display: block; text-indent: -999em; overflow: hidden; background-repeat: no-repeat; text-align: left; direction: ltr; }
+
+/* Hide for both screenreaders and browsers
+   css-discuss.incutio.com/wiki/Screenreader_Visibility */
+.hidden { display: none; visibility: hidden; }
+
+/* Hide only visually, but have it available for screenreaders
+   www.webaim.org/techniques/css/invisiblecontent/  &  j.mp/visuallyhidden  */
+.visuallyhidden { position: absolute !important;
+  clip: rect(1px 1px 1px 1px); /* IE6, IE7 */
+  clip: rect(1px, 1px, 1px, 1px); }
+
+/* Hide visually and from screenreaders, but maintain layout */
+.invisible { visibility: hidden; }
+
+/* >> The Magnificent CLEARFIX: Updated to prevent margin-collapsing on child elements << j.mp/bestclearfix */
+.clearfix:before, .clearfix:after {
+  content: "\0020"; display: block; height: 0; visibility: hidden;
+}
+
+.clearfix:after { clear: both; }
+/* Fix clearfix: blueprintcss.lighthouseapp.com/projects/15318/tickets/5-extra-margin-padding-bottom-of-page */
+.clearfix { zoom: 1; }
+
+
+
+.left { float: left; }
+.right { float: right; }
+
+
+ /* Primary Styles
+    Author: Davide Di Cillo
+ */
+
+body { background: #d7d7d7; }
+
+#container { background: #fff; width: 100%; padding-bottom: 30px; }
+
+#container header { width: 1000px; height: 89px; background: url(../images/bg_header.png) bottom no-repeat; margin: 0 auto; position: relative; margin-bottom: 30px; }
+
+  #container header h1 { position: absolute; top: 10px; left:20px; }
+
+  #container header nav { position: absolute; top: 34px; right: 186px; height: 55px; border-right: 1px solid #efefef; border-left: 1px solid #c5c5c5; }
+
+    #container header nav > ul { display: inline; padding: 0; margin: 0; }
+
+      #container header nav > ul > li { display: inline; }
+
+        #container header nav > ul > li > a { display: block; float: left; text-decoration: none; width: 103px; padding: 20px 0 19px; text-align: center; border-left: 1px solid #efefef; border-right: 1px solid #c5c5c5; color: #929292; text-shadow: #ffffff 1px 1px 1px; }
+        #container header nav > ul > li > a:hover { background: rgb(239, 239, 239); /* The Fallback */ background: rgba(255, 255, 255, 0.3); }
+
+  #container header .search { width: 153px; height: 20px; background: #fff; position: absolute; right: 15px; top: 49px; padding: 2px 0 1px 5px; border-radius: 4px; -webkit-border-radius: 4px; -moz-border-radius: 4px; border: 1px solid #d0d0d0;  }
+
+    #container header .search input[type=text] { width: 123px; border: none; }
+      #container header .search input[type=text]:focus { outline: 0 none; }
+
+
+/*
+  LEVEL ONE
+*/
+ul.dropdown                         { position: relative; }
+ul.dropdown li                      { float: left; zoom: 1; }
+ul.dropdown a:hover                { }
+ul.dropdown a:active                { color: #ffa500; }
+ul.dropdown li a                    { display: block; padding: 8px 0; border-right: 1px solid #333;  color: #929292; text-shadow: #ffffff 1px 1px 1px; text-align: center; text-decoration: none; }
+ul.dropdown li:last-child a         { border-right: none; } /* Doesn't work in IE */
+ul.dropdown li.hover,
+ul.dropdown li:hover                { position: relative; }
+ul.dropdown li.hover a              {  color: #929292; text-shadow: #ffffff 1px 1px 1px;; }
+
+
+/*
+  LEVEL TWO
+*/
+ul.dropdown ul             { width: 104px; visibility: hidden; position: absolute; top: 100%; left: 0; }
+ul.dropdown ul li         { font-weight: normal; background: #fefefe;  color: #929292; text-shadow: #ffffff 1px 1px 1px; border-bottom: 1px solid #ccc; float: none; }
+
+                                    /* IE 6 & 7 Needs Inline Block */
+ul.dropdown ul li a          { border-right: none; width: 104px; display: inline-block; background: #ddd; font-size: 12px; }
+  ul.dropdown ul li a:hover { background: #eee; }
+
+/*
+  LEVEL THREE
+*/
+ul.dropdown ul ul           { left: 100%; top: 0; }
+ul.dropdown li:hover > ul   { visibility: visible; }
+
+
+
+
+
+#container #main { width: 1000px; margin: 0 auto; }
+
+  #container #main nav { width: 190px; float: left; margin-right: 15px; }
+    #container #main nav ul li a { font-weight: bold; color: #595c61; padding: 10px 10px 10px 25px; border-bottom: 1px solid #f4f4f4; display: block; text-decoration: none; }
+      #container #main nav ul li:last-child a { border: none; }
+
+
+
+/* Wiki sidebar */
+
+#container #main nav#sidebar li {
+        list-style-image: url("../images/arrow-spacer.png"); padding: 5px 5px; border-bottom: 1px solid #f4f4f4; margin-left: 20px;
+    }
+    #container #main nav#sidebar li.collapsed {
+        list-style-image: url("../images/collapsed-arrow.png");
+    }
+    #container #main nav#sidebar li.expanded {
+        list-style-image: url("../images/expanded-arrow.png");
+    }
+    
+    #container #main nav#sidebar ul li a { font-weight: bold; color: #595c61; padding: 0; border: none; display: inline; text-decoration: none; }
+
+		#container #main nav#sidebar ul li ul li a { font-weight: normal; }
+
+
+/* home page */
+
+.home_featured { width: 623px; height: 216px; border-radius: 4px; -moz-border-radius: 4px; -webkit-border-radius: 4px; background: #f1f1f1; float: left; padding: 30px 10px 10px 20px; }
+  .home_featured .left { width: 230px; font-size: 14px; }
+    .home_featured .left p { margin-top: 20px; }
+  .home_featured .right { width: 388px; }
+    .home_featured .right img { margin-top: 10px; }
+
+.home_featured .right ul { margin: 0 0 0 8px; padding: 0; }
+        .home_featured .right li { background-image: -moz-linear-gradient( center top, rgb(233,233,233) 0%, rgb(208,208,208) 80%); background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0, rgb(233,233,233)), color-stop(0.8, rgb(208,208,208)) ); font-size: 10px; border: 1px solid #cfcfcf; border-radius: 5px; -webkit-border-radius: 5px; -moz-border-radius: 5px; color: #666666; text-shadow: #e5e5e5 1px 1px 1px; font-weight: bold; width: 110px; padding: 0; text-align: left; margin: 4px 0; display: block; text-decoration: none; list-style: none; float: left; display: inline; margin-left: 10px; }
+          .home_featured .right a { font-size: 10px; border-radius: 5px; -webkit-border-radius: 5px; -moz-border-radius: 5px; color: #666666; text-shadow: #e5e5e5 1px 1px 1px; font-weight: bold; width: 110px; padding: 8px 0; text-align: center; display: block; text-decoration: none; list-style: none; }
+            .home_featured .right a:hover { background-color: rgb(239, 239, 239); /* The Fallback */ background-color: rgba(255, 255, 255, 0.3); }
+
+        .home_featured .right li.orange { background-image: -moz-linear-gradient( center top, rgb(255,196,128) 0%, rgb(255,155,41) 80%); background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0, rgb(255,196,128)), color-stop(0.8, rgb(255,155,41)) ); font-size: 10px; border: 1px solid #e89143; border-radius: 5px; -webkit-border-radius: 5px; -moz-border-radius: 5px; color: #9d5e17; text-shadow: #ffb96b 1px 1px 1px; font-weight: bold; width: 110px; padding: 0; text-align: left; margin: 4px 0; display: block; text-decoration: none; list-style: none; float: left; display: inline; margin-left: 10px; }
+          .home_featured .right li.orange a { font-size: 10px; border-radius: 5px; -webkit-border-radius: 5px; -moz-border-radius: 5px; color: #9d5e17; text-shadow: #ffb96b 1px 1px 1px; font-weight: bold; width: 110px; padding: 8px 0; text-align: center; display: block; text-decoration: none; list-style: none; }
+            .home_featured .right li.orange a:hover { background-color: rgb(239, 239, 239); /* The Fallback */ background-color: rgba(255, 255, 255, 0.3); }
+
+
+.home_side_feat { width: 306px; height: 101px; border-radius: 4px; -moz-border-radius: 4px; -webkit-border-radius: 4px; margin-bottom: 14px; background: #f1f1f1; float: right; padding: 10px; font-size: 12px; }
+  .home_side_feat p { margin: 5px 0; }
+
+.home_block { width: 305px; float: left; margin-left: 22px; }
+  .home_block h2 { font-size: 18px; padding: 10px 0; }
+  .home_block p { font-size: 12px; }
+  .home_block ul { margin: 0; padding: 0; }
+    .home_block li { list-style: none; }
+
+.webinars_block li { height: 70px; margin-bottom: 10px; }
+  .webinars_block h4 a { font-size: 14px; color: #54575c; font-weight: bold; text-decoration: none; }
+    .webinars_block h4 a:hover { text-decoration: underline; }
+  .webinars_block img { float: left; margin-right: 10px; }
+
+.news_block h5 { font-size: 10px; color: #7e7e7e; border-bottom: 1px solid #eee; margin: 0 0 5px; }
+.news_block p { padding: 0px 0 5px; }
+
+.spotlight_block { margin-right: 0; }
+  .spotlight_block img { padding: 10px 0; }
+
+h2.home_block { font-size: 18px; padding: 10px 0; float: none; }
+
+.clients_logos { background: #f4f4f4; border-radius: 4px; -moz-border-radius: 4px; -webkit-border-radius: 4px; text-align: center; padding: 10px 0; }
+
+p.more { text-align: right; margin: -5px 0 5px; }
+  p.more a { font-size: 10px; }
+
+
+/* interior pages */
+
+
+  #container #main article { width: 795px; float: left; }
+
+    #container #main article hgroup { padding-bottom: 20px; }
+
+      #container #main article hgroup h1 { float: left; font-size: 30px; font-weight: normal; }
+      #container #main article hgroup h3 { float: right; margin: 50px 15px 0 0; }
+
+    #container #main article h2 { font-size: 22px; line-height: 24px; color: #404348; padding: 20px 0 5px; font-weight: normal; }
+
+    #container #main article p { font-size: 12px; line-height: 18px; color: #7e7e7e; padding: 6px 0; }
+
+    #container #main article ul { margin-bottom: 20px; }
+      #container #main article li { font-size: 12px; line-height: 18px; color: #7e7e7e; }
+
+/* Featured area */
+    #container #main article .featured { width: 100%; background: #f1f1f1; border-radius: 4px; -webkit-border-radius: 4px; -moz-border-radius: 4px; padding: 0; margin-bottom: 30px; }
+      #container #main article .featured ul { padding: 0; margin: 0; }
+        #container #main article .featured ul li { width: 169px; height: 33px; background: #fff; border-radius: 4px; -webkit-border-radius: 4px; -moz-border-radius: 4px; display: block; float: left; margin: 12px 0 0 12px; font-size: 14px; color: #242424; padding: 22px 0 22px 80px; font-weight: bold; }
+
+          #container #main article .featured ul li.riak1 { background: url(../images/icn_riak_feat1.png) #fff no-repeat 28px 19px; }
+          #container #main article .featured ul li.riak2 { background: url(../images/icn_riak_feat2.png) #fff no-repeat 28px 19px; }
+          #container #main article .featured ul li.riak3 { background: url(../images/icn_riak_feat3.png) #fff no-repeat 28px 19px; }
+
+      #container #main article .featured h3 { font-size: 14px; color: #242424; text-align: center; padding: 20px 0 15px; clear: both; }
+        #container #main article .featured h3 a { text-decoration: none; color: #fe9a27; }
+          #container #main article .featured h3 a:hover { text-decoration: underline; }
+
+    #container #main article blockquote { background: url(../images/bg_blockquote.png) repeat-y; padding: 5px 0; margin: 10px 0; font-size: 18px; line-height: 20px; color: #7e7e7e; text-align: center; }
+
+
+/* project block */
+  #container #main section.project { width: 100%; background: url(../images/bg_aside.png) right repeat-y #f8f8f8; border-radius: 4px; -webkit-border-radius: 4px; -moz-border-radius: 4px; margin-bottom: 15px; border: 1px solid #e7e7e7; }
+
+    #container #main section.project article { width: 570px; padding: 15px 20px; }
+      #container #main section.project article h1 { font-size: 30px; color: #595c61; font-weight: bold; padding-bottom: 8px; }
+
+    #container #main section.project aside { float: right; width: 150px; padding: 15px 17px 15px 0; }
+      #container #main section.project aside h3 { font-size: 18px; color: #595c61; font-weight: normal; padding: 5px 0 10px }
+      #container #main section.project aside ul { margin: 0; padding: 0; }
+        #container #main section.project aside li { background-image: -moz-linear-gradient( center top, rgb(233,233,233) 0%, rgb(208,208,208) 80%); background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0, rgb(233,233,233)), color-stop(0.8, rgb(208,208,208)) ); font-size: 10px; border: 1px solid #cfcfcf; border-radius: 5px; -webkit-border-radius: 5px; -moz-border-radius: 5px; color: #666666; text-shadow: #e5e5e5 1px 1px 1px; font-weight: bold; width: 150px; padding: 0; text-align: left; margin: 4px 0; display: block; text-decoration: none; list-style: none; }
+          #container #main section.project aside a { font-size: 10px; border-radius: 5px; -webkit-border-radius: 5px; -moz-border-radius: 5px; color: #666666; text-shadow: #e5e5e5 1px 1px 1px; font-weight: bold; width: 128px; padding: 2px 0 2px 22px; text-align: left; display: block; text-decoration: none; list-style: none; }
+            #container #main section.project aside a:hover { background-color: rgb(239, 239, 239); /* The Fallback */ background-color: rgba(255, 255, 255, 0.3); }
+
+        #container #main section.project aside li.orange { background-image: -moz-linear-gradient( center top, rgb(255,196,128) 0%, rgb(255,155,41) 80%); background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0, rgb(255,196,128)), color-stop(0.8, rgb(255,155,41)) ); font-size: 10px; border: 1px solid #e89143; border-radius: 5px; -webkit-border-radius: 5px; -moz-border-radius: 5px; color: #9d5e17; text-shadow: #ffb96b 1px 1px 1px; font-weight: bold; width: 150px; padding: 0; text-align: left; margin: 4px 0; display: block; text-decoration: none; list-style: none; }
+          #container #main section.project aside li.orange a { font-size: 10px; border-radius: 5px; -webkit-border-radius: 5px; -moz-border-radius: 5px; color: #9d5e17; text-shadow: #ffb96b 1px 1px 1px; font-weight: bold; width: 128px; padding: 2px 0 2px 22px; text-align: left; display: block; text-decoration: none; list-style: none; }
+            #container #main section.project aside li.orange a:hover { background-color: rgb(239, 239, 239); /* The Fallback */ background-color: rgba(255, 255, 255, 0.3); }
+
+
+
+/* who uses it block */
+  #container #main section.client { width: 100%; background: #f8f8f8; border-radius: 4px; -webkit-border-radius: 4px; -moz-border-radius: 4px; margin-bottom: 15px; border: 1px solid #e7e7e7; }
+
+    #container #main section.client article { width: 570px; padding: 15px 20px; }
+      #container #main section.client article h1 { font-size: 22px; color: #595c61; font-weight: normal; padding-bottom: 8px; }
+
+    #container #main section.client aside { float: right; width: 150px; padding: 15px 17px 15px 0; }
+      #container #main section.client aside img { border: 1px solid #dcdcdc; padding: 11px; background: #fff; }
+      #container #main section.client aside ul { margin: 0; padding: 0; }
+        #container #main section.client aside li { background-image: -moz-linear-gradient( center top, rgb(233,233,233) 0%, rgb(208,208,208) 80%); background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0, rgb(233,233,233)), color-stop(0.8, rgb(208,208,208)) ); font-size: 10px; border: 1px solid #cfcfcf; border-radius: 5px; -webkit-border-radius: 5px; -moz-border-radius: 5px; color: #666666; text-shadow: #e5e5e5 1px 1px 1px; font-weight: bold; width: 150px; padding: 0; text-align: left; margin: 4px 0; display: block; text-decoration: none; list-style: none; }
+          #container #main section.client aside a { font-size: 10px; border-radius: 5px; -webkit-border-radius: 5px; -moz-border-radius: 5px; color: #666666; text-shadow: #e5e5e5 1px 1px 1px; font-weight: bold; width: 128px; padding: 2px 0 2px 22px; text-align: left; display: block; text-decoration: none; list-style: none; }
+            #container #main section.client aside a:hover { background-color: rgb(239, 239, 239); /* The Fallback */ background-color: rgba(255, 255, 255, 0.3); }
+
+        #container #main section.client aside li.orange { background-image: -moz-linear-gradient( center top, rgb(255,196,128) 0%, rgb(255,155,41) 80%); background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0, rgb(255,196,128)), color-stop(0.8, rgb(255,155,41)) ); font-size: 10px; border: 1px solid #e89143; border-radius: 5px; -webkit-border-radius: 5px; -moz-border-radius: 5px; color: #9d5e17; text-shadow: #ffb96b 1px 1px 1px; font-weight: bold; width: 150px; padding: 0; text-align: left; margin: 4px 0; display: block; text-decoration: none; list-style: none; }
+          #container #main section.client aside li.orange a { font-size: 10px; border-radius: 5px; -webkit-border-radius: 5px; -moz-border-radius: 5px; color: #9d5e17; text-shadow: #ffb96b 1px 1px 1px; font-weight: bold; width: 128px; padding: 2px 0 2px 22px; text-align: left; display: block; text-decoration: none; list-style: none; }
+            #container #main section.client aside li.orange a:hover { background-color: rgb(239, 239, 239); /* The Fallback */ background-color: rgba(255, 255, 255, 0.3); }
+
+
+/* getting started block */
+  #container #main section.step { width: 100%; background: url(../images/bg_aside.png) right repeat-y #f8f8f8; border-radius: 4px; -webkit-border-radius: 4px; -moz-border-radius: 4px; margin-bottom: 15px; border: 1px solid #e7e7e7; }
+
+    #container #main section.step article { width: 570px; padding: 15px 20px; }
+      #container #main section.step article h1 { font-size: 22px; color: #595c61; font-weight: normal; padding-bottom: 8px; }
+
+    #container #main section.step aside { float: right; width: 150px; padding: 15px 17px 15px 0; }
+      #container #main section.step aside h3 { font-size: 18px; color: #595c61; font-weight: normal; padding: 5px 0 10px }
+      #container #main section.step aside ul { margin: 0; padding: 0; }
+        #container #main section.step aside li { background-image: -moz-linear-gradient( center top, rgb(233,233,233) 0%, rgb(208,208,208) 80%); background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0, rgb(233,233,233)), color-stop(0.8, rgb(208,208,208)) ); font-size: 10px; border: 1px solid #cfcfcf; border-radius: 5px; -webkit-border-radius: 5px; -moz-border-radius: 5px; color: #666666; text-shadow: #e5e5e5 1px 1px 1px; font-weight: bold; width: 150px; padding: 0; text-align: left; margin: 4px 0; display: block; text-decoration: none; list-style: none; }
+          #container #main section.step aside a { font-size: 10px; border-radius: 5px; -webkit-border-radius: 5px; -moz-border-radius: 5px; color: #666666; text-shadow: #e5e5e5 1px 1px 1px; font-weight: bold; width: 128px; padding: 2px 0 2px 22px; text-align: left; display: block; text-decoration: none; list-style: none; }
+            #container #main section.step aside a:hover { background-color: rgb(239, 239, 239); /* The Fallback */ background-color: rgba(255, 255, 255, 0.3); }
+
+        #container #main section.step aside li.orange { background-image: -moz-linear-gradient( center top, rgb(255,196,128) 0%, rgb(255,155,41) 80%); background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0, rgb(255,196,128)), color-stop(0.8, rgb(255,155,41)) ); font-size: 10px; border: 1px solid #e89143; border-radius: 5px; -webkit-border-radius: 5px; -moz-border-radius: 5px; color: #9d5e17; text-shadow: #ffb96b 1px 1px 1px; font-weight: bold; width: 150px; padding: 0; text-align: left; margin: 4px 0; display: block; text-decoration: none; list-style: none; }
+          #container #main section.step aside li.orange a { font-size: 10px; border-radius: 5px; -webkit-border-radius: 5px; -moz-border-radius: 5px; color: #9d5e17; text-shadow: #ffb96b 1px 1px 1px; font-weight: bold; width: 128px; padding: 2px 0 2px 22px; text-align: left; display: block; text-decoration: none; list-style: none; }
+            #container #main section.step aside li.orange a:hover { background-color: rgb(239, 239, 239); /* The Fallback */ background-color: rgba(255, 255, 255, 0.3); }
+
+
+/* team block */
+  #container #main section.team { width: 100%; background: #f8f8f8; border-radius: 4px; -webkit-border-radius: 4px; -moz-border-radius: 4px; margin-bottom: 15px; border: 1px solid #e7e7e7; }
+
+    #container #main section.team article { width: 570px; padding: 15px 20px; }
+      #container #main section.team article h1 { font-size: 22px; color: #595c61; font-weight: normal; padding-bottom: 8px; }
+
+    #container #main section.team aside { float: right; width: 150px; padding: 15px 17px 15px 0; }
+      #container #main section.team aside img { border: 1px solid #dcdcdc; padding: 0; background: #fff; }
+      #container #main section.team aside ul { margin: 0; padding: 0; }
+        #container #main section.team aside li { background-image: -moz-linear-gradient( center top, rgb(233,233,233) 0%, rgb(208,208,208) 80%); background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0, rgb(233,233,233)), color-stop(0.8, rgb(208,208,208)) ); font-size: 10px; border: 1px solid #cfcfcf; border-radius: 5px; -webkit-border-radius: 5px; -moz-border-radius: 5px; color: #666666; text-shadow: #e5e5e5 1px 1px 1px; font-weight: bold; width: 150px; padding: 0; text-align: left; margin: 4px 0; display: block; text-decoration: none; list-style: none; }
+          #container #main section.team aside a { font-size: 10px; border-radius: 5px; -webkit-border-radius: 5px; -moz-border-radius: 5px; color: #666666; text-shadow: #e5e5e5 1px 1px 1px; font-weight: bold; width: 128px; padding: 2px 0 2px 22px; text-align: left; display: block; text-decoration: none; list-style: none; }
+            #container #main section.team aside a:hover { background-color: rgb(239, 239, 239); /* The Fallback */ background-color: rgba(255, 255, 255, 0.3); }
+
+        #container #main section.team aside li.orange { background-image: -moz-linear-gradient( center top, rgb(255,196,128) 0%, rgb(255,155,41) 80%); background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0, rgb(255,196,128)), color-stop(0.8, rgb(255,155,41)) ); font-size: 10px; border: 1px solid #e89143; border-radius: 5px; -webkit-border-radius: 5px; -moz-border-radius: 5px; color: #9d5e17; text-shadow: #ffb96b 1px 1px 1px; font-weight: bold; width: 150px; padding: 0; text-align: left; margin: 4px 0; display: block; text-decoration: none; list-style: none; }
+          #container #main section.team aside li.orange a { font-size: 10px; border-radius: 5px; -webkit-border-radius: 5px; -moz-border-radius: 5px; color: #9d5e17; text-shadow: #ffb96b 1px 1px 1px; font-weight: bold; width: 128px; padding: 2px 0 2px 22px; text-align: left; display: block; text-decoration: none; list-style: none; }
+            #container #main section.team aside li.orange a:hover { background-color: rgb(239, 239, 239); /* The Fallback */ background-color: rgba(255, 255, 255, 0.3); }
+
+
+
+
+/* button icons */
+.orange a.download { background: url(../images/icn_download_orange.png) no-repeat 2px 1px; }
+a.link { background: url(../images/icn_link.png) no-repeat 2px 1px; }
+a.documentation { background: url(../images/icn_documentation.png) no-repeat 2px 1px; }
+a.pdf { background: url(../images/icn_pdf.png) no-repeat 2px 1px; }
+a.mail { background: url(../images/icn_mail.png) no-repeat 2px 1px; }
+a.video { background: url(../images/icn_video.png) no-repeat 2px 1px; }
+a.twitter { background: url(../images/icn_twitter.png) no-repeat 2px 2px; }
+
+
+
+
+.address { float: right; padding: 20px; background: #f1f1f1; border-radius: 4px; -moz-border-radius: 4px; -webkit-border-radius: 4px; }
+
+form.contact td { padding: 5px; text-align: right; }
+form.contact input[type=text]  { width: 200px; }
+form.contact select  { width: 200px; }
+form.contact textarea  { width: 200px; }
+
+
+
+footer { width: 1000px; margin: 0 auto; text-align: center; }
+
+  footer p { font-size: 10px; font-weight: bold; color: #8c8c8c; text-shadow: #fcfcfc 1px 1px 1px; margin: 10px 0 90px; }
+
+
+#floating_footer { height: 55px; width: 100%; background: url(../images/bg_footer.png) repeat-x; position: fixed; bottom: 0; text-align: center; padding: 0; }
+  #floating_footer p { margin: 22px 0 0; }
+  #floating_footer a { background-image: -moz-linear-gradient( center top, rgb(255,196,128) 0%, rgb(255,155,41) 80%); background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0, rgb(255,196,128)), color-stop(0.8, rgb(255,155,41)) ); border: 1px solid #e89143; border-radius: 5px; -webkit-border-radius: 5px; -moz-border-radius: 5px; color: #9d5e17; text-shadow: #ffb96b 1px 1px 1px; font-weight: bold; width: 128px; padding: 8px 10px; text-align: left; margin: 4px 0 0 10px; display: block; text-decoration: none; display: inline; text-align: center; }
+
+
+
+/*
+ * Media queries for responsive design
+ * These follow after primary styles so they will successfully override.
+ */
+
+@media all and (orientation:portrait) {
+  /* Style adjustments for portrait mode goes here */
+
+}
+
+@media all and (orientation:landscape) {
+  /* Style adjustments for landscape mode goes here */
+
+}
+
+/* Grade-A Mobile Browsers (Opera Mobile, iPhone Safari, Android Chrome)
+   Consider this: www.cloudfour.com/css-media-query-for-mobile-is-fools-gold/ */
+@media screen and (max-device-width: 480px) {
+
+
+  /* Uncomment if you don't want iOS and WinMobile to mobile-optimize the text for you
+     j.mp/textsizeadjust
+  html { -webkit-text-size-adjust:none; -ms-text-size-adjust:none; } */
+}
+
+/*
+ * print styles
+ * inlined to avoid required HTTP connection www.phpied.com/delay-loading-your-print-css/
+ */
+@media print {
+  * { background: transparent !important; color: #444 !important; text-shadow: none !important; }
+  a, a:visited { color: #444 !important; text-decoration: underline; }
+  a:after { content: " (" attr(href) ")"; }
+  abbr:after { content: " (" attr(title) ")"; }
+  .ir a:after { content: ""; }  /* Don't show links for images */
+  pre, blockquote { border: 1px solid #999; page-break-inside: avoid; }
+  thead { display: table-header-group; } /* css-discuss.incutio.com/wiki/Printing_Tables */
+  tr, img { page-break-inside: avoid; }
+  @page { margin: 0.5cm; }
+  p, h2, h3 { orphans: 3; widows: 3; }
+  h2, h3{ page-break-after: avoid; }
+}
+

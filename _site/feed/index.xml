@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>The Basho Blog</title>
+ <link href="http://blog.basho.com/feed/" rel="self"/>
+ <link href="http://blog.basho.com/"/>
+ <updated>2011-06-13T15:15:31-07:00</updated>
+ <id>http://blog.basho.com/</id>
+ <author>
+   <name>Basho Technologies</name>
+   <email>mark@basho.com</email>
+ </author>
+
+ 
+ <entry>
+   <title>this is some new shit</title>
+   <link href="http://blog.basho.com/2011/06/13/test-post"/>
+   <updated>2011-06-13T00:00:00-07:00</updated>
+   <id>http://blog.basho.com/2011/06/13/test-post</id>
+   <content type="html">&lt;p&gt;&lt;strong&gt;Yes Yes Yes&lt;/strong&gt;&lt;/p&gt;</content>
+ </entry>
+ 
+
+</feed>

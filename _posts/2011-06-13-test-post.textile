@@ -1,0 +1,6 @@
+---
+layout: newpost
+title: this is some new shit
+---
+
+*Yes Yes Yes*
