@@ -1,0 +1,8 @@
+---
+layout: newpost
+title: Riak Recap for June 27 - 28
+categories:
+	-Recap
+---
+
+Nothing to see here yet. But you just wait..
