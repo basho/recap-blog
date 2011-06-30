@@ -1,0 +1,18 @@
+---
+layout: newpost
+title: Welcome to the Riak Recap Blog
+categories:
+---
+
+*Posted on June 30, 2011*
+
+This is the Riak Recap Blog. The Recap is a thrice-weekly email, typically delivered each Monday, Wednesday, and Friday to the "Riak Users Mailing List":http://lists.basho.com/mailman/listinfo/riak-users_lists.basho.com to keep list subscribers up-to-date on what's happening in and around the Riak Community. (You can read more about why the Recap is written "here":http://www.themarkphillips.com/2010/07/17/Why-I-Write-the-Riak-Recap-Every-Day.html.)
+
+Why make the Riak Recap into a blog? Some members of the Riak community want to read the Recaps without having to subscribe to the mailing list (which is relatively high-volume). So, in the interest of expanding the community and accommodating more users, we started this blog to basically mirror the content of the Recap. (See "this thread":http://lists.basho.com/pipermail/riak-users_lists.basho.com/2011-June/004458.html from the list for more details.)
+
+What's the difference between consuming the Recap as a blog compared to on the mailing list? Take a look: here's the June 27 - 29 Recap  [ "as a blog":http://recap.basho.com/2011/06/29/Riak-Recap-For-June-27-28/ | "on the mailing list":http://lists.basho.com/pipermail/riak-users_lists.basho.com/2011-June/004766.html ]. So it all boils down to personal preference, and here at Basho we build to suit. If you've got any more suggestion, don't hold back. 
+
+Enjoy, and thanks for being a part of Riak!
+
+"Mark":https://twitter.com/pharkmillups 
+Community Manager
