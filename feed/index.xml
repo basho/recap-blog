@@ -4,11 +4,11 @@ layout: nil
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
- <title>The Basho Blog</title>
- <link href="http://blog.basho.com/feed/" rel="self"/>
- <link href="http://blog.basho.com/"/>
+ <title>Riak Recap Blog</title>
+ <link href="http://recap.basho.com/feed/" rel="self"/>
+ <link href="http://recap.basho.com/"/>
  <updated>{{ site.time | date_to_xmlschema }}</updated>
- <id>http://blog.basho.com/</id>
+ <id>http://recap.basho.com/</id>
  <author>
    <name>Basho Technologies</name>
    <email>mark@basho.com</email>
@@ -17,9 +17,9 @@ layout: nil
  {% for post in site.posts limit:25 %}
  <entry>
    <title>{{ post.title }}</title>
-   <link href="http://blog.basho.com{{ post.url }}"/>
+   <link href="http://recap.basho.com{{ post.url }}"/>
    <updated>{{ post.date | date_to_xmlschema }}</updated>
-   <id>http://blog.basho.com{{ post.id }}</id>
+   <id>http://recap.basho.com{{ post.id }}</id>
    <content type="html">{{ post.content | xml_escape }}</content>
  </entry>
  {% endfor %}
