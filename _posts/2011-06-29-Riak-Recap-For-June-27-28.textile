@@ -4,6 +4,8 @@ title: Riak Recap for June 27 - 28
 categories:
 ---
 
+*Posted on June 29, 2011*
+
 # Riak Office Hours are happening today at BashoWest. If you're in San Francisco, you should stop by. -> "Details here":http://blog.basho.com/2011/06/29/Riak-Office-Hours-Today-at-2-Pacific-at-BashoWest/
 # For anyone in NYC, there is a Riak Meetup happening tonight at 7:30. -> "Details here":http://www.meetup.com/NYC-Riak-Meetup/events/21756771 
 # Sean Cribbs' talk from Berlin Buzzwords is now online and viewable (in HD!). This one is well worth your time. -> "Watch here":http://vimeo.com/2562736
