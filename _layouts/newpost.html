@@ -91,7 +91,7 @@
       <nav>
         <ul>
           <li><a href="/">Blog Home</a></li>
-			<a href="#"><img src ="/images/rss_btn.png" style ="margin-top:10px;"></a>
+			<a href="http://feeds.feedburner.com/RiakRecapBlog"><img src ="/images/rss_btn.png" style ="margin-top:10px;"></a>
         </ul>
       </nav>
 
@@ -107,13 +107,13 @@
         {% if page.disqus_url %}
           var disqus_url="{{ page.disqus_url }}"
         {% else %}
-          var disqus_url="http://blog.basho.com{{ page.id }}/"
+          var disqus_url="http://recap.basho.com{{ page.id }}/"
         {% endif %}
       </script>
       <div id="disqus_thread"></div>
-      <script type="text/javascript" src="http://disqus.com/forums/thebashoblog/embed.js"></script>
+      <script type="text/javascript" src="http://disqus.com/forums/recap-blog/embed.js"></script>
       <noscript>
-        <a href="http://disqus.com/forums/thebashoblog/?url=ref">
+        <a href="http://disqus.com/forums/recap-blog/?url=ref">
           View the discussion thread.
         </a>
       </noscript>
@@ -173,19 +173,6 @@
     s.parentNode.insertBefore(g, s);
    })(document, 'script');
   </script>
-
-
-<!-- Start of HubSpot Logging Code  -->
-    <script type="text/javascript" language="javascript">
-      var hs_portalid=60327;
-      var hs_salog_version = "2.00";
-      var hs_ppa = "basho1.app6.hubspot.com"
-      document.write(unescape("%3Cscript src='" + document.location.protocol + "//" + hs_ppa + "/salog.js.aspx' type='text/javascript'%3E%3C/script%3E"));
-    </script>
-    <!-- End of HubSpot Logging Code -->
-    <script type="text/javascript"> document.write('<scr'+'ipt type="text/javascript" src="' + document.location.protocol + '//munchkin.marketo.net/munchkin.js"><\/scr'+'ipt>');</script>
-    <script>mktoMunchkin("721-DGT-611");</script>
-
 
 
   </body>
