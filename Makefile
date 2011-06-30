@@ -11,7 +11,6 @@ clean:
 	@rm -rf _site
 
 deploy publish: build
-	#these directions are now invalid
 	@# Cover our ass
 	@chmod 0600 .basho_blog_ssh_key
 	rsync -vv -crlpD -e 'ssh -i .basho_blog_ssh_key' _site/ \
