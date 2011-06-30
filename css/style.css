@@ -355,8 +355,7 @@ p.more { text-align: right; margin: -5px 0 5px; }
 
 /* interior pages */
 
-
-  #container #main article { width: 795px; float: left; }
+  #container #main article { width: 400px; float: left; }
 
     #container #main article hgroup { padding-bottom: 20px; }
 
