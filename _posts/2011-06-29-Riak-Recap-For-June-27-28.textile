@@ -8,7 +8,7 @@ categories:
 
 # Riak Office Hours are happening today at BashoWest. If you're in San Francisco, you should stop by. -> "Details here":http://blog.basho.com/2011/06/29/Riak-Office-Hours-Today-at-2-Pacific-at-BashoWest/
 # For anyone in NYC, there is a Riak Meetup happening tonight at 7:30. -> "Details here":http://www.meetup.com/NYC-Riak-Meetup/events/21756771 
-# Sean Cribbs' talk from Berlin Buzzwords is now online and viewable (in HD!). This one is well worth your time. -> "Watch here":http://vimeo.com/2562736
+# Sean Cribbs' talk from Berlin Buzzwords is now online and viewable (in HD!). This one is well worth your time. -> "Watch here":http://vimeo.com/25627365
 # A thread on Hacker News appeared this morning asking what people are using Riak for. Anyone have details to share? -> "Read and contribute here":http://news.ycombinator.com/item?id=2710101
 # One job to pass along -> "Read here":http://www.geekfreelancers.com/projects/develop-riak-database-models-17290.html
 
