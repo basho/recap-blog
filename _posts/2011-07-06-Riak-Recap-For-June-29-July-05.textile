@@ -1,0 +1,38 @@
+---
+layout: newpost
+title: Riak Recap for June 29 - July 5
+categories:
+---
+
+*Posted on July 06, 2011*
+
+For today's Recap: jobs, new wiki content, Riak at a Cassandra meetup, new code for the Python client, and much more.
+
+Enjoy.
+
+"Mark":https://twitter.com/pharkmillups  
+
+_*Riak Recap for June 29 - July 5*_
+
+# The SUSE install instructions on the Wiki got a small update from Gregory Haskins. Thanks, Gregory!
+-> "Diff here":https://github.com/basho/riak_wiki/pull/122/files  
+-> "Wiki page here":http://wiki.basho.com/Installing-on-SUSE.html
+# Basho Hacker Russell Brown added some info to the Wiki that's all about benchmarking the Java Client (complete with graphs!).
+-> "Read here":http://wiki.basho.com/Java-Client-Benchmark.html
+# More new wiki content: the "Recovering a Failed Node" page got a sizable update.
+-> "Read here":http://wiki.basho.com/Recovering-a-failed-node.html
+# For any of our Riak users who reside in/around London: Community member Russell Smith (@ukd1) will be representing Riak at the July 18th Cassandra meetup where they are planning to compare NoSQL DBs.
+-> "Details here":http://www.meetup.com/Cassandra-London/events/16972731/ 
+# For anyone in/around Philadelphia: @jeffkirkell is wondering if anyone is interested in starting a local Riak meetup:
+-> "Respond here":http://twitter.com/#!/JeffKirkell/status/88665929252216832
+# We put the next Bay Area meetup on the calendar. This one will feature the Formspring dev team talking about how they are using Riak in production and what they learned running Riak at scale on AWS.
+-> "Full Talk Details and RSVP":http://www.meetup.com/San-Francisco-Riak-Meetup/events/24779281/ 
+# Speaking of the team at Formspring, we merged a huge chunk of code they contributed to the Riak Python Client.
+-> "Here's the pull request":https://github.com/basho/riak-python-client/pull/31
+# This was already sent to the list in an email but warrants passing along again: Basho CTO Justin Sheehy wrote a blog post about the work we've been doing with Google's LevelDB and why we think it'll make an excellent addition to Riak.
+-> "Read (again) here":http://blog.basho.com/2011/07/01/Leveling-the-Field/
+# Some jobs to pass along:
+-> The team at Clipboard is hiring for all of the following: Front-end Engineer, Ops, Engineer, and Data Engineer. Details "here":http://www.postjobfree.com/job/gr3295/part-time-media-engineer-social-bellevue-wa-98004.
+-> LA-based social media app company looking for engineers who "Love
+Riak". Details "here":http://losangeles.craigslist.org/lac/eng/2478788338.html.
+-> Pitchfork, in Chicago, is looking for a full-time developer. Details "here":http://pitchfork.jobscore.com/job_seeker/jobs/job_posting/dYhSmCN1er4kTheJe4bk1X
