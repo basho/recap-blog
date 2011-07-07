@@ -35,4 +35,4 @@ _*Riak Recap for June 29 - July 5*_
 -> The team at Clipboard is hiring for all of the following: Front-end Engineer, Ops, Engineer, and Data Engineer. Details "here":http://www.postjobfree.com/job/gr3295/part-time-media-engineer-social-bellevue-wa-98004.
 -> LA-based social media app company looking for engineers who "Love
 Riak". Details "here":http://losangeles.craigslist.org/lac/eng/2478788338.html.
--> Pitchfork, in Chicago, is looking for a full-time developer. Details "here":http://pitchfork.jobscore.com/job_seeker/jobs/job_posting/dYhSmCN1er4kTheJe4bk1X
+-> Pitchfork, in Chicago, is looking for a full-time developer. Details "here":http://pitchfork.jobscore.com/job_seeker/jobs/job_posting/dYhSmCN1er4kTheJe4bk1X. 
