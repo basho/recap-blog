@@ -1,0 +1,28 @@
+---
+layout: newpost
+title: Riak Recap for July 6 - 7
+categories:
+---
+
+*Posted on July 08, 2011*
+
+For today's Recap: A new release for the Haskell client, new code, a Ripple Hackathon, and more.
+
+Enjoy and have a great weekend.
+
+"Mark":twitter.com/pharkmillups
+
+_Riak Recap for July 6 - 7_
+
+# Bryan O'Sullivan's Haskell Client just hit version 0.6.
+-> "Details here":http://twitter.com/#!/Hackage/status/88761152116490242 
+# This one is somewhat far out on the calendar but it's worth relaying: newly-minted Basho Architect "Steve Vinoksi":https://twitter.com/stevevinoski will be talking at GOTO Amsterdam in October.
+-> "Details here":http://gotocon.com/amsterdam-2011/speaker/Steve+Vinoski
+# Luca Spiller released "Riak Console," an interactive command line interface to Riak. This one looks pretty useful. Thanks, Luca!
+-> "On GitHub here":https://github.com/lucaspiller/riak-console 
+# Next week at BashoWest we will be having a Ripple Hackathon, and we're opening up the office to Bay Area Ruby Hackers. You should be here.
+-> "Details here on the Basho Blog":http://blog.basho.com/2011/07/07/Ripple-Hackathon-Happening-Next-Week-at-Basho-West/
+# "Alexander Mikhalev":https://twitter.com/alex_mikhalev wrote a blog post about securing a Riak cluster using n2n VPN. This one is definitely worth the read. (NOTE: The typical recommended configuration is behind a firewall where the cluster is not exposed to the outside world.) Thanks, Alexander!
+-> "Read here":http://sci-blog.com/2011/07/secure-riak-installation-using-n2n-vpn/
+# One job to pass along.
+-> Scopely in L.A. is hiring Node.js developers with Riak experience. "Details here":http://jobs.nodejs.org/a/jbb/job-details/523690 
