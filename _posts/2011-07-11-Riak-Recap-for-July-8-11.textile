@@ -1,0 +1,23 @@
+---
+layout: newpost
+title: Riak Recap for July 8 - 10
+categories:
+---
+
+*Posted on July 11, 2011*
+
+Very Short Recap For Today. 
+
+Enjoy 
+
+"Mark":http://twitter.com/#!/pharkmillups 
+
+_Riak Recap for July 8 - 10_
+
+#  Q: If I've attached to a node using "riak attach", is there a way to clear the state of all the variables, etc.?
+   A: f().
+# The team at "Boundary":https://boundary.com/ just released a library called Scalang. It's a "scala wrapper that makes it easy to write services that interface with Erlang." While I'm unaware of anyone who is using Riak with Scalang (just yet...), I thought I would pass it along as it opens up some interesting possibilities for anyone who was looking for a simple way to make Scala and Erlang (and Riak) play nice.
+-> Details "here":http://twitter.com/#!/boundary/status/90537108841828352.
+# One job to pass along:
+-> Ideeli is hiring engineers with Riak, MySQL and MongoDB experience. Details "here":http://bit.ly/nEpalu.
+
