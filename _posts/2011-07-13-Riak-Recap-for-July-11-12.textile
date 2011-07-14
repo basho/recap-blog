@@ -1,0 +1,30 @@
+---
+layout: newpost
+title: Riak Recap for July 11 - 12
+categories:
+---
+
+_Posted on July 13, 2011_
+
+For today's Recap: Blog posts, Q & A from #riak, and more.
+
+Enjoy. 
+
+"Mark":https://twitter.com/pharkmillups 
+
+*Riak Recap for July 11 - 12*
+
+# For anyone in or around Toronto: it was just announced that Basho Developer Advocate (and Scaling Genius!) "Mathias Meyer":https://twitter.com/roidrage will be speaking at TechTalksTO:Underground in August.
+-> "Details here":http://techtalksto.com/post/7536251145/presenting-mathias-meyer-developer-advocate-at-basho.
+# The Ripple Hackathon has been happening for the last few days in San Francisco, and Sean Cribbs has been doing some blogging to make sure you're all kept in the loop.
+-> "Day 1 Details":http://bit.ly/n1NkNN.
+-> "Day 2 Details":http://bit.ly/rfAeHH. 
+# Q: Anyone have a good set of munin plugins for Riak? (from chip___ via #riak)
+  A: Nothing I know of. Anyone have anything they can share? (Send this to "the Mail List":http://lists.basho.com/mailman/listinfo/riak-users_lists.basho.com if possible.)
+# Q: Is it possible to delete data in a bucket from inside a map/reduce job? (from http402 via #riak)
+  A: Yes. Using an Erlang MapReduce Function. Start with "this function":http://contrib.basho.com/save_reduce.html and modify accordingly.
+# jtuple and rando had a short convo in #riak that started with "is `riak-admin join` idempotent?"
+-> Read "here":https://gist.github.com/1081593. 
+# If anyone is considering taking/applying for a job working with Riak and cares about salary, "this blog post":http://jobs.nosqlweekly.com/blog/nosql-salary-trends is worth checking out.
+
+ 
