@@ -1,0 +1,32 @@
+---
+layout: newpost
+title: Riak Recap for July 13 - 14
+categories:
+---
+
+_Posted on July 15, 2011_
+
+Afternoon, Evening, Morning to All
+
+For today's Recap: jobs, gists from #riak, blog posts, and more.
+
+Enjoy, and have a great weekend.
+
+"Mark":twitter.com/pharkmillups
+
+*Riak Recap for July 13 - 14*
+
+# Myron Marston and the Ripple Committers have Ripple running on Travis CI. Travis CI is a (new) open, distributed build system for the Ruby community.
+-> "Details here":http://twitter.com/#!/seancribbs/statuses/91579267246338048
+# Speaking of Ripple, Sean posted his Day 3 Recap blog post about the Ripple Hackathon that just concluded in San Francisco.
+-> "Read here":http://bit.ly/mXAAKT 
+# Basho Hacker Russell Brown (@russelldb) wrote a great post about the changes he just merged into Riak's Java Client.
+-> "Read here":http://blog.basho.com/2011/07/14/The-All-New-Riak-Java-Client/
+# cdepue and silvainsf had a short conversation in #riak about one approach to doing geo-spacial encoding with Riak.
+-> "Read here":https://gist.github.com/1085479 
+# nathanmarz and etrepum had an interesting chat in #riak that started with "could riak-core be used to build other kind of data models, such as key -> set?"
+-> "Gist here":https://gist.github.com/1085488
+# Three jobs to pass along:
+-> Qwiki is looking for an Engineer in San Francisco with Riak chops. More "here":http://www.ventureloop.com/ventureloop/jobdetail.php?r=f_sh&jobid=66965. 
+-> RedFlag in Houston is looking for a Ruby Developer with Riak experience (bonus points for Erlang knowledge on this one, too). More "here":http://www.rorjobs.com/a/jbb/job-details/528382.
+-> Synacor in Buffalo is hiring a Web Software Architect that knows them some Riak. More "here":http://personforce.com/jobs/employment/Web+Software+Architect/11538. 
