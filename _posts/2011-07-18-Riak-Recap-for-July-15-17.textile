@@ -1,0 +1,27 @@
+---
+layout: newpost
+title: Riak Recap for July 15 - 17
+categories:
+---
+
+_Posted on July 18, 2011_
+
+Evening, Morning, Afternoon to All -
+
+Here's a short recap to start the week off.
+
+Enjoy. 
+
+"Mark":twitter.com/pharkmillups
+
+*Riak Recap for July 15 - 17*
+
+# Ripple now has client-side "Snowflake" IDs, which will help when you're looking to make your keys unique and sortable. 
+-> "Details here":https://twitter.com/#!/seancribbs/status/92347802012762112.   
+# Ryan Zezeski wrote a blog post about using Inline Fields to boost Riak Search query performance. 
+-> "Read here":http://blog.basho.com/2011/07/18/Boosting-Riak-Search-Query-Performance-With-Inline-Fields/.
+# Alen Mujezinovic just released a Riak based session backend for Django. Thanks, Alen!
+-> "Repo here on GitHub":https://github.com/flashingpumpkin/django-riak-sessions. 
+-> "On PyPI here":http://pypi.python.org/pypi/django-riak-sessions/0.0.1. 
+# The Riak Chef Cookbook just got an update and now has a new home unde the Basho GitHub Account. 
+-> "Details here":https://twitter.com/#!/seancribbs/status/92954070553346049. 
