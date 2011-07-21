@@ -1,0 +1,28 @@
+---
+layout: newpost
+title: Riak Recap for July 18 - 20
+categories:
+---
+
+
+_Posted on July 20, 2011_
+
+Evening, Morning, Afternoon to All 
+
+Here's a short Recap from the last few days.
+
+Enjoy.
+
+"Mark":twitter.com/pharkmillups
+
+*Riak Recap for July 18 - 19*
+
+# We announced a Riak and Python Webinar that's happening on August 2nd and will be hosted by Basho Developer Advocate Mathias Meyer.
+-> "Details and Registration here":http://blog.basho.com/2011/07/19/Riak-and-Python-Webinar-Happening-August-2/
+ # Alen Mujezinovic released version 0.2 of his Riak-backed session backend for Django.
+-> "Repo on GitHub":https://github.com/flashingpumpkin/django-riak-sessions 
+-> "Package on PyPI":http://pypi.python.org/pypi/django-riak-sessions/0.0.2 
+# Russell Smith represented Riak at a NoSQL throw down (of sorts) that happened at the most recent Cassandra London Meetup, and they just released the video of his preso. This one runs about 17 minutes and is a great general overview of Riak. Thanks, Russell!
+-> "Watch here":http://skillsmatter.com/podcast/nosql/riak/js-1994
+# The San Francisco Riak Meetup is less than one week off and we're almost out of seats.
+-> "Registration here":http://www.meetup.com/San-Francisco-Riak-Meetup/events/24779281/
