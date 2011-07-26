@@ -1,0 +1,32 @@
+---
+layout: newpost
+title: Riak Recap for July 20 - 24
+categories:
+---
+
+
+_Posted on July 25, 2011_
+
+Evening, Morning, Afternoon to All
+
+This Recap is coming to you live from OSCON. We've got videos, blog posts, new code, and more.
+
+Enjoy.
+
+"Mark":twitter.com/pharkmillups
+
+*Riak Recap for July 20 - 24*
+
+# "OJ Reeves":twitter.com/thecolonial and "Jeremiah Peschka":twitter.com/peschkaj released a .NET client for Riak yesterday called "CorrugatedIron". In short, this library is awesome. Special thanks are due OJ, Jeremiah, and several others who worked on making version 0.1 possible! Rumor has it that they are already fast at work on version 0.2 and are on the look out for contributors...
+-> "Project site":http://corrugatediron.org/ 
+-> "Repo on GitHub":https://github.com/DistributedNonsense/CorrugatedIron 
+-> "Introductory Blog Post from OJ":http://buffered.io/posts/introducing-corrugatediron/
+-> "Introductory Blog Post from Jeremiah:":http://www.brentozar.com/archive/2011/07/just-one-more-thing-introducing-corrugatediron/
+# The videos for the WindyCityDB conference held in June in Chicago are online. Susan Potter gave a great talk on Link Walking in Riak and you should watch it.
+-> "Watch here":http://windycitydb.org/videos2011/ 
+# @Cy6erBr4in released a link shortener built with Erlang, Riak, and Mochiweb.
+-> "Link shortener":http://aes.li/
+-> "Code on GitHub":https://github.com/2garryn/esli 
+# Some jobs:
+-> Extole in San Francisco is looking for a Ruby Developer with Riak experience. "More Here":http://bit.ly/pD4aLY
+-> Opening for a Java Developer with Riak and Mongo experience in Middlebury, VT. "More here":http://bit.ly/puJayu. 
