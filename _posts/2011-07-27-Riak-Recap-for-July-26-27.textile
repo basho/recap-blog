@@ -1,0 +1,41 @@
+---
+layout: newpost
+title: Riak Recap for July 25 - 26
+categories:
+---
+
+_Posted on July 27, 2011_
+
+This Recap is coming to you live from about 25,000 feet above Northern California courtesy of Alaska Air's Wifi. (15000ms ping times and 18% packet loss can't stop the Recap.)
+
+Tons of good stuff to share today: new Ruby code, slide decks, blog posts, and more.
+
+Enjoy.
+
+"Mark":twitter.com/pharkmillups
+
+*Riak Recap for July 25 - 26*
+
+# Sean Cribbs and the Ripple Team just released version 0.9.7 of the riak-client and riak-sessions gems.
+-> "Details here":http://twitter.com/#!/seancribbs/statuses/95873017992843265
+# This made the List already but it's worth sending them along again: Rusty's slides from the Secondary Indices talk he delivered at OSCON on Monday are now available.
+-> "Slides here":http://www.slideshare.net/rklophaus/querying-riak-just-got-easier-introducing-secondary-indices
+-> "Comment thread on Hacker News with a lot of great discussion and Q & A":http://news.ycombinator.com/item?id=2807968
+# Denish Patel, with the help of Brian Clapper, wrote a great blog post about how easy it is to configure and use Circonus to monitor your Riak cluster. Thanks, Denish and Brian!
+-> "Read here":http://slowquery.blogspot.com/2011/07/monitoring-riak-using-circonus.html
+# Google wrote a quick blog post about their recently-released k/v storage engine LevelDB. Diligent followers of Riak will recall that we recently added support for LevelDB to Riak. This post has someextensive benchmarks and also gives a shout out to...Riak :)
+->" Read here":http://google-opensource.blogspot.com/2011/07/leveldb-fast-persistent-key-value-store.html
+# Russell Brown added some more details and graphs to the Java Client benchmarking page on the wiki.
+-> "Read up here":http://wiki.basho.com/Java-Client-Benchmark.html
+# There are still a few seats left for tomorrow's "Riak at Formspring" talk in San Francisco.
+-> "Register here":http://www.meetup.com/San-Francisco-Riak-Meetup/events/24779281/
+# Looks like there's a Riak talk happening on August 3rd at the Austin NoSQL Meetup.
+-> "Details here":http://www.meetup.com/austin-nosql/events/27293601/
+# For anyone at OSCON, Basho COO Tony Falco will be participating in
+the "Not Only SQL" panel happening tomorrow morning.
+-> "Details here":http://www.oscon.com/oscon2011/public/schedule/detail/18959
+# OJ Reeves (@thecolonial) added all the necessary links to the wiki
+for the new .NET client, CorrugatedIron. Thanks, OJ!
+-> "Scroll down to ".NET" to get all the details if you haven't already.":http://wiki.basho.com/Community-Developed-Libraries-and-Projects.html
+# A lot of amazing code landed in master over the last 24 hours. I would advise you to take a glance at this if you have a moment :)
+-> "On GitHub here":https://github.com/basho/riak/commits/master 
