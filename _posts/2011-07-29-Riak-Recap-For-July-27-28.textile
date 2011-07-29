@@ -1,0 +1,26 @@
+---
+layout: newpost
+title: Riak Recap for July 27 - 28
+categories:
+---
+
+_Posted on July 29, 2011_
+
+Afternoon, Evening, Morning to All - 
+
+Short Recap for today.
+
+Enjoy and have a great weekend.
+
+"Mark":twitter.com/pharkmillups
+
+*Riak Recap for July 27 - 28*
+
+# Last reminder to register for the "Riak and Python" webinar happening on August 2nd. (If you don't register, you run the risk of hurting Mathias' feelings).
+-> "Details here":http://blog.basho.com/2011/07/19/Riak-and-Python-Webinar-Happening-August-2/
+# Kresten Krab Thorup's talk from Erlang Factory London about his Riak Mobile project is now available in video form.
+-> "Watch here":http://www.erlang-factory.com/conference/London2011/speakers/KrestenKrabThorup
+# Looks like Riak will be one of the topics at the next Ruby Meetup happening in Colima, Mexico.
+-> "Details here":http://www.meetup.com/rubyco/events/24982511/ 
+#  Q - Is it possible to add data to a key in riak? (from doki_pen via #riak)
+   A - No. You'll always have to fetch, update, and store the object.
