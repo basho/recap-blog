@@ -1,0 +1,30 @@
+---
+layout: newpost
+title: Riak Recap for July 29 - 31
+categories:
+---
+
+_Posted on August 01, 2011_
+
+Evening, Morning, Afternoon To All -
+
+For today's Recap: Slides, new code, Office Hours at Basho West, jobs, and more.
+
+Enjoy, and thanks for being a part of Riak.
+
+"Mark":twitter.com/pharkmillups
+
+*Riak Recap for July 29 - 31*
+
+# Jeff Kirkell posted the slides he used for the "Breaking Riak" workshop he delivered last week at OSCON. Thanks, Jeff!
+-> "Check them out here":http://www.slideshare.net/Jkirkell/breaking-a-riak-cluster
+# Francisco Treacy spun up a new repo on GitHub called "Connect-Riak," a Riak Session Store for Connect backed by riak-js. Thanks, Francisco!
+-> "Details and code here":http://twitter.com/#!/riakjs/status/97675036491657217
+# Brian Rowe fixed a small typo on the MapReduce page on the wiki. (No contribution is too small.) Thanks, Brian!
+-> "Pull request here":https://github.com/basho/riak_wiki/pull/139 
+# We put some office hours on the calendar at BashoWest. These will be happening on Wednesday in San Francisco. Hope to see some of you there.
+-> "Details on the Basho Blog here":http://blog.basho.com/2011/08/01/Riak-Office-Hours-Happening-Wednesday-August-3/
+# A few very cool jobs to pass along (courtesy of a recent Hacker News poll). H/T to Jared Morrow for bringing these to my attention.
+-> Adcloud.com in Cologne, Germany is hiring developers with Node.js and Riak experience. "Read more here":http://news.ycombinator.com/item?id=2831764.
+->  Pixfizz in Barcelona is looking for Riak, Node.js, and Rails hackers. "Some details here":http://news.ycombinator.com/item?id=2831957.
+_(Also, if anyone from Adcloud or Pixfizz is reading this, mark@basho.com would love to hear more about how you're using Riak.)_
