@@ -1,0 +1,31 @@
+---
+layout: newpost
+title: Riak Recap for August 1 - 2
+categories:
+---
+
+_Posted on August 03, 2011_
+
+
+Afternoon, Morning, Evening to All -
+
+For today's Recap: A new release of the .NET client, jobs, screencasts, and more.
+
+Enjoy.
+
+"Mark":twitter.com/pharkmillups
+
+
+*Riak Recap for August 1 - 2*
+
+# Someone brought a project called "Tiramola" to my attention recently. It's billing itself as an "automatic IaaS manager that provides elastic NoSQL DB clusters." Looks like Riak support will be finished in the near future.
+-> "Code here":http://code.google.com/p/tiramola/ 
+# OJ Reeves et al released version 0.1.1 of CorrugatedIron, their .NET client for Riak.
+-> "Extensive blog post with all the release details here":http://buffered.io/posts/corrugatediron-update-v0-1-1/
+-> "Downloads":http://corrugatediron.org/downloads.html 
+# Mathias Meyer posted a great writeup, complete with screencast, of the Riak with Python Webinar that happened yesterday.
+-> "Read here":http://blog.basho.com/2011/08/03/Follow-Up-To-Riak-And-Python-Webinar/
+# A few jobs to pass along:
+-> Function(x), a stealth startup out of NYC, is hiring engineers. "Details here":http://jobs.37signals.com/jobs/9456. 
+-> Also in NYC, Single Platform is hiring engineers. Riak experience required. "Details here":http://www.ventureloop.com/ventureloop/jobdetail.php?r=f_sh&jobid=62842
+# "I've just received word that Riak is officially mountain scale.":http://twitter.com/#!/old_sound/statuses/98503438761066496
