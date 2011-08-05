@@ -1,8 +1,0 @@
-div#container div#main article p.date { font-size: smaller; color: #444444; }
-div#pager { text-align: center; font-size: 15px;}
-nav h3 { font-size: 15px; margin-top: 14px; color: #595c61; }
-nav h3 a { text-decoration: none; color: #595c61; }
-nav h3 a:hover { text-decoration: underline; }
-div#summary ul.posts { margin: 0; }
-div#summary ul.posts li.post{ list-style-type: none; }
-div.highlight > pre { white-space: pre; word-wrap: break-word; }

@@ -1,0 +1,35 @@
+--- 
+layout: newpost
+title: Riak Recap for August 3 - 4
+categories:
+---
+
+_Posted on August 05, 2011_
+
+Afternoon, Evening, Morning to All -
+
+Here's a great Recap to take you into the weekend: slide decks, blog posts, new code, and more.
+
+Enjoy
+
+"Mark":twitter.com/pharkmillups
+
+*Riak Recap for August 3 - 4*
+
+# Version 0.0.3 of django-riak-sessions just hit PyPI.
+-> "Code here":http://pypi.python.org/pypi/django-riak-sessions/0.0.3  
+-> "On GitHub here":https://github.com/flashingpumpkin/django-riak-sessions 
+# Damon Oehlman wrote a blog post called "Masterless Replication inNoSQL Solutions" and was looking for some people using Riak in production to bounce some questions off of.
+-> "Read here":http://www.distractable.net/coding/nosql-solutions-masterless-replication 
+# Nathan Marz (@nathanmarz) wrote a post for the Twitter Engineering Blog all about Storm, the realtime computation system he and his team built. Riak gets a few shout outs.
+-> "Read here":http://engineering.twitter.com/2011/08/storm-is-coming-more-details-and-plans.html
+# A video of Basho CTO Justin Sheehy and Damian Katz talking about Riak, CouchDB, Erlang, and all sorts of other good stuff just surfaced.
+-> "Watch here":http://www.infoq.com/interviews/sheehy-katz-riak-couchdb 
+# Bryan O'Sullivan's "Building Solid Distributed Applications with Haskell and Riak" from Erlang Factory is online and viewable.
+-> "Watch here":http://www.infoq.com/presentations/Distributed-Applications-with-Haskell-and-Riak
+# For anyone heading to the NoSQLNow Conference in San Jose in a few weeks, you can expect to see Andy Gross on the "Innovation in NoSQL Data Stores" panel.
+-> "Details here":http://nosql2011.wilshireconferences.com/sessionPop.cfm?confid=64&proposalid=4098
+# Michael Klishin contributed a small fix to the Wiki. Thanks, Michael!
+-> "Pull request here":https://github.com/basho/riak_wiki/pull/142 
+# @NirvanaCore wrote an extensive comment on a Hacker News thread with details on a new platform they are building. The one liner: "CoffeeScript based web apps on an erlang platform backed by Riak." Keep an eye on them.
+-> "Here's the write-up":http://news.ycombinator.com/item?id=2848647
