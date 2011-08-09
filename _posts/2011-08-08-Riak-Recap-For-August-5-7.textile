@@ -1,0 +1,31 @@
+--- 
+layout: newpost
+title: Riak Recap for August 5 - 7
+categories:
+---
+
+_Posted on August 08, 2011_
+
+Evening, Morning, Afternoon to All -
+
+Short recap to pass along from the last few days: new code, a video, blog posts, and more.
+
+Enjoy.
+
+"Mark":twitter.com/pharkmillups
+
+*Riak Recap for August 5 - 7*
+
+# Joe Lambert (@cyborgpirates) wrote a short piece for his blog about using streaming list keys. Thanks, Joe!
+-> "Read here":http://www.megarockv.com/2011/08/07/riak-erlang-stream_list_keys-example/
+# Brett Hoerner has a new project up on GitHub called "timak," a Python library for storing activity streams in Riak. It's "very alpha and rough around the edges" but you're probably going to want to keep an eye on it. Thanks, Brett!
+-> "Code here":https://github.com/bretthoerner/timak
+# We posted the video from the "Riak at Formspring" talk that was delivered a few weeks back at the San Francisco Riak Meetup. This one is well worth the 28 minutes.
+-> "Read and watch here":http://blog.basho.com/2011/08/08/Riak-at-Formspring-Video-from-SF-Riak-Meetup/
+# Perhaps a bit off-topic for the Recap but I figured I would pass this along: Basho is hiring a UX Designer.
+-> "If this is you or someone you know, get in touch with us":http://www.basho.com/company_careers.php#designer.
+# Q - Are riak keys/buckets case sensitive, or in other words, is
+the key "MyKey" and "mykey" the same? (from oal via #riak)	
+  A - Yes. They are case-sensitive; just treated as binaries (byte buffers).
+# One job to pass along:
+-> "Comcast is hiring a Sr. Systems Admin with Riak experience":http://bit.ly/qcbKba
