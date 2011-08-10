@@ -1,0 +1,29 @@
+--- 
+title: Riak Recap for August 8 - 9 
+layout: newpost
+summary:
+--- 
+
+_Posted on August 10, 2011_
+
+Morning, Evening, Afternoon to All -
+
+For today's Recap: a video, new code, a blog post, and more.
+
+Enjoy.
+
+"Mark":twitter.com/pharkmillups
+
+*Riak Recap for August 8 - 9*
+
+
+# A video of Justin Sheehy's "Thing Break, Riak Bends" presentation from QCon London is online. It runs just under an hour with questions, but it's well worth it.
+-> "Grab a beverage and watch here":http://www.infoq.com/presentations/Things-Break-Riak-Bends
+# Brian Rowe wrote a short post about changing Erlang's default logging behavior that might be of interest to some of you.
+-> "Read here":http://cartesianfaith.wordpress.com/2011/08/09/changing-default-log-behavior-in-erlang/
+# I stumbled onto a new repo from Dan Dean (@dandean) yesterday called "Tubbs." This looks to be a general ORM for working with data with support for Riak.
+-> "Code here":https://github.com/dandean/tubbs 
+# I wrote a blog post about the Ripple Hackathon that happened at BashoWest in July.
+-> "Read here":http://www.themarkphillips.com/2011/08/09/A-Cost-Benefit-Analysis-of-the-Ruby-Hackathon.html
+# One job to pass along today:
+-> "Fabergent is looking for a Sr. Lead Software Engineer with Riak Experience":http://bit.ly/pgkUlc. 
