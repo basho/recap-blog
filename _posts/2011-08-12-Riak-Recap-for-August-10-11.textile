@@ -1,0 +1,28 @@
+--- 
+title: Riak Recap for August 10 - 11 
+layout: newpost
+summary:
+--- 
+
+_Posted on August 12, 2011_
+
+Morning, Evening, Afternoon to All -
+
+For today's Recap: a new video, new wiki content, and more.
+
+Enjoy and have a great weekend.
+
+"Mark":twitter.com/pharkmillups
+
+*Riak Recap for August 10 - 11*
+
+# We added a page to the wiki that covers adding and removing nodes from a cluster.
+-> "Read here":http://wiki.basho.com/Adding-and-Removing-Nodes.html
+# SkillsMatter in London is holding an event called the NoSQL Exchange in November and the CFP is open.
+-> "Details here":http://www.nosqldatabases.com/main/2011/8/10/skillsmatter-cfp-for-1st-annual-nosql-exchange-this-november.html
+# Matt Ranney, CTO of Voxer, gave a talk at the Node.js meetup at Joyent last week. The talk is now online and viewable. It's primarily about Node but touches a bit on how they are using Riak.
+-> "Watch here":http://www.joyentcloud.com/resources/videos/node-js-office-hours-matt-ranney-voxer/
+# This might be of interest to some of you building apps for startups: we released some more details on our RiakDS for Startups program.
+-> "Details here":http://www.marketwatch.com/story/basho-technologies-announces-riak-enterprise-data-store-for-startups-program-2011-08-10
+# One new job to pass along:
+-> Formspring is hiring a Systems Engineer to work on all sorts of cool stuff. "Details here":http://hire.jobvite.com/CompanyJobs/Careers.aspx?k=Job&c=qr89Vfwn&j=ozgSVfwm.
