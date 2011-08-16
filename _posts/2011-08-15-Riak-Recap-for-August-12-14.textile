@@ -1,0 +1,25 @@
+--- 
+title: Riak Recap for August 12 - 14 
+layout: newpost
+summary:
+---
+
+_Posted on August 15, 2011_
+
+Evening, Morning, Afternoon to All - 
+
+Short Recap to start the week off.
+
+Enjoy. 
+
+"Mark":https://twitter.com/pharkmillups
+
+*Riak Recap for August 12 -14*
+
+# Any production users in/around NYC? Get in touch with me. I have a few a questions for you.
+# Brian Rowe wrote up a blog post about using Lager. Thanks, Brian!
+-> "Read here":http://cartesianfaith.wordpress.com/2011/08/15/a-lager-primer-or-getting-started-with-lager-for-logging/
+# Riak builds turned up on Travis CI today.
+-> "Details here":http://staging.travis-ci.org/#!/wardbekker/riak/builds/3346
+# seancribbs and bfrog had a very brief chat in #riak about secondary indices.
+-> "Read here":https://gist.github.com/1148262 
