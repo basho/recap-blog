@@ -1,0 +1,37 @@
+--- 
+title: Riak Recap for August 15 - 16
+layout: newpost
+summary:
+---
+
+_Posted on August 17, 2011_
+
+Afternoon, Evening, Morning to All -
+
+Great Recap for today: new Python and Ruby Code, talks, blog posts, a great job opportunity, and more.
+
+Enjoy.
+
+"Mark":twitter.com/pharkmillups
+
+
+*Riak Recap for August 15 - 16*
+
+
+# Andy Gross is giving a talk on Riak at the NoCal Oracle Users Group tomorrow in San Ramon. (Yes, I said "Oracle".)
+-> "Details here":http://www.nocoug.org/next.html#T3S2
+# Parnell Springmeyer has a new repo up on BitBucket called "riakc", a command-line interface for Riak built using Python. Thanks, Parnell!
+-> "Repo here":https://bitbucket.org/ixmatus/riakc
+-> "On PyPI":http://pypi.python.org/pypi/riakc/0.1
+# We put some Riak Office Hours on the calendar for tomorrow in New York City. Sean Cribbs will be in town and hacking from the General Assembly offices from 2-5.
+->"Details here":http://t.co/MQwOQ1C 
+# One great Riak job to pass along to anyone in the UK - The Mobile Interactive Group is hiring an Application Developer skilled in Riak, Erlang, and Ruby. Interested parties can email _david@migcan.com_ directly.
+-> "Full description here":http://www.linkedin.com/jobs?viewJob=&jobId=1872096 
+# We added a Creative Commons License to the Riak Wiki.
+-> "Check the footer here":http://wiki.basho.com/
+# Brian Lee Yung Rowe is quickly turning into one of the most prolific bloggers in the Riak Community. His latest post is called 'Teaser: Running R as a map/reduce job from Riak.' Go read it. Then subscribe to his blog. Thanks, Brian!
+-> "Post here":http://cartesianfaith.wordpress.com/2011/08/17/teaser-running-r-as-a-mapreduce-job-from-riak/
+# Eric Redmond tweeted a Riak-inspired comic (and I'm assuming he's the creator).
+-> "Print this out and put it on your wall":http://twitter.com/#!/inviite/statuses/103917415305461760
+# "Mathias Meyer":https://twitter.com/roidrage released a new library called "riaktivity." The code is still quite young but it's goal is to make it easier to store timelines in Riak with Ruby. Thanks, Mathias!
+-> "Code here":https://github.com/mattmatt/riaktivity 
