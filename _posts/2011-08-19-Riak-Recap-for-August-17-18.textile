@@ -1,0 +1,34 @@
+--- 
+title: Riak Recap for August 17 - 18
+layout: newpost
+summary:
+---
+
+_Posted on August 19, 2011_
+
+Evening, Morning, Afternoon to All -
+
+Pretty amazing Recap to take you into the weekend: new code, meetups, Riak hosting, blog posts, and more
+
+Enjoy.
+
+"Mark":twitter.com/pharkmillups
+
+*Riak Recap for August 17 - 18*
+
+# v0.3.7 of riakc was just released.
+-> "Here on PyPI":http://pypi.python.org/pypi/riakc/0.3.7 
+# Adrian Hills wrote a great blog post all about getting started with Riak and .NET. Thanks, Adrian!
+-> "Read here":http://www.adathedev.co.uk/2011/08/getting-started-with-riak-and-net.html
+# Forgot to send this one along a few days back... Mariano Peck wrote up a blog post about using Riak and Fuel. Thanks, Mariano!
+-> "Read here":http://marianopeck.wordpress.com/2011/08/16/when-fuel-meets-riak-nosql-database/
+# Canvas Hosting launched dedicated Riak hosting today. You'll probably want to take a look at this. Also, congrats to "@schaapy":https://twitter.com/schaapy, "@bendingoutward":https://twitter.com/bendingoutward, and the rest of the team at Canvas working on this.
+-> "Details here":http://canvashosting.com/solutions/riak 
+# We announced the September Bay Area Riak Meetup today. This one is happening on 9/8 and will feature Basho DA Dan Reverri giving an extensive overview of Riak 1.0 and also a short talk from Craigh Muth about integrating Riak into the Xiki Framework. (And for those of you in NYC: don't be surprised if you get your own Riak 1.0 Preview Meetup...)
+-> "Details here":http://www.meetup.com/San-Francisco-Riak-Meetup/events/30127311/
+# Riak is taking over the next Seattle Scalability Meetup happening on 8/24. Greg Pascale from clipboard.com will be talking about how they use Riak and Riak Search, and yours truly will be covering the Riak basics. (And if you're in Seattle and want to grab a beer, let me know.)
+-> "Details and registration here":http://www.meetup.com/Seattle-Hadoop-HBase-NoSQL-Meetup/events/20756731/
+# "Rick Olson":https://twitter.com/technoweenie released the code for a URL shortener they pushed into production at GitHub this week. Rumor has it that it's backed by Riak. Thanks, Rick!
+-> "Repo for "Guillotine" here":https://github.com/technoweenie/guillotine 
+#  Q - Is there any way to automatically have riak start up, and join the cluster? (via #riak)
+   A - There is nothing built into Riak to make this happen at the moment, but it is something that  could be scripted fairly easily. Keep in mind that the decision to add a node should be based on detailed capacity planning.
