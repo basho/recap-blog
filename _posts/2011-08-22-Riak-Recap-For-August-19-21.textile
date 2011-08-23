@@ -1,0 +1,25 @@
+--- 
+title: Riak Recap for August 19 - 21
+layout: newpost
+summary:
+---
+
+_Posted on August 22, 2011_
+
+Evening, Morning, Afternoon to All -
+
+Very short Recap coming off of the weekend.
+
+Enjoy.
+
+"Mark":twitter.com/pharkmillups
+
+*Riak Recap for August 19 - 21*
+
+# We announced a Riak 1.0 Webinar today. This is happening on Sept 28th and will feature Justin Sheehy and Andy Gross talking about why the next Riak release will be downright amazing.
+-> "Registration and details here":http://t.co/X83RNcz 
+#  Q --- Is there some way to remove an empty bucket? (via #riak)
+   A --- If it's empty, it doesn't exist. Buckets are just namespaces + properties.
+# Another reminder that Riak will be the topic of conversation at the
+upcoming Seattle Scalability Meetup this Wednesday.
+-> "Details here":http://www.meetup.com/Seattle-Hadoop-HBase-NoSQL-Meetup/events/20756731/
