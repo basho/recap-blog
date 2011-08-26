@@ -1,0 +1,33 @@
+--- 
+title: Riak Recap for August 22 - 25
+layout: newpost
+summary:
+---
+
+_Posted on August 26, 2011_
+
+Afternoon, Evening, Morning to All -
+
+Here's a great Recap to take you into the weekend: blog posts, slides, videos, new code, and more.
+
+Also, to all our Riak users who happen to be on the East Coast of the US this weekend: stay safe.
+
+Enjoy.
+
+"Mark":twitter.com/pharkmillups
+
+*Riak Recap for August 22 - 25*
+
+# A video of Rusty Klophaus' Secondary Indexing Talk from OSCON made it onto Youtube. (The video quality is not the best, but it gets the job done.)
+->  "Watch here":http://www.youtube.com/watch?v=uExMXa4t8eg 
+# Joseph Lambert has two new Riak-related repos up on GitHub that are definitely worth keeping an eye on. (He should also get some points for one of the better GitHub nicks I've seen in a while.)
+-> "Riak-PBC-Pool":https://github.com/snoopaloop/Riak-PBC-Pool
+-> "riakyo":https://github.com/snoopaloop/riakyo
+# Cody Soyland and Sean Cribbs collaborated to put together a Riak Post Commit Hook that send writes to ZeroMQ.
+->  "Details here":http://twitter.com/#!/codysoyland/statuses/106120496629821440
+# The slides from the talk I gave on Wednesday night at the Seattle Scalability Meetup are now online.
+->  "Check them out here":http://www.slideshare.net/pharkmillups/riak-seattlemeetupaugust
+# Adam Schepis wrote a script to update Riak Config Files (and turned it into a blog post). He was also looking for some feedback on it... 
+->  "Check it out here":http://adamschepis.com/blog/2011/08/25/a-script-to-update-riak-config-files/
+# One job opportunity to pass along.-> 
+->  "Work with Node.js, Linux, Riak, and more":http://twitter.com/#!/peter_schlegel/status/106732657488039936
