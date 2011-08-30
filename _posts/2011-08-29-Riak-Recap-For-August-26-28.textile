@@ -1,0 +1,28 @@
+--- 
+title: Riak Recap for August 26 - 28
+layout: newpost
+summary:
+---
+
+_Posted on August 29, 2011_
+
+Evening, Morning, Afternoon to All -
+
+A few blog posts, jobs, and a small README update for today's Recap.
+
+Enjoy.
+
+"Mark":twitter.com/pharkmillups
+
+*Riak Recap for August 26 - 28*
+
+
+# Lengthy blog post about Riak Usage Patterns (in Russian).
+-> "Read here":http://habrahabr.ru/blogs/nosql/127228 
+# Great blog post Analyzing Apache Logs with Riak's MapReduce.
+-> "Read here":http://www.simonbuckle.com/2011/08/27/analyzing-apache-logs-with-riak/
+# The merge_index README got some small but valuable updates from rampage.
+-> "Pull request here":https://github.com/basho/merge_index/pull/14
+# A few great jobs to pass along:
+-> Sencha is looking for a Cloud Services DevOps Engineer in Redwood City, CA, to work with Riak and a whole slew of other cool technologies. "Details here":http://www.sencha.com/company/careers/?gnk=job&gni=8aa0050631ec0ce20132072085b720b6&gns=Simply+Hired.
+-> SEOMoz is hiring a Test Lead in the Seattle Area to with Riak and Cassandra experience. "Details here":http://hire.jobvite.com/CompanyJobs/Careers.aspx?nl=1&k=Job&j=oFNHVfwO&s=About_-_Jobs_Page. 
