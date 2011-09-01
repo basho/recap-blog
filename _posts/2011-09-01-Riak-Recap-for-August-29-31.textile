@@ -1,0 +1,28 @@
+--- 
+title: Riak Recap for August 29 - 31
+layout: newpost
+summary:
+---
+
+_Posted on September 1, 2011_
+
+Morning, Afternoon, Evening to All -
+
+For today's Recap: Blog posts, upcoming talks, new code, and more.
+
+Enjoy.
+
+"Mark":twitter.com/pharkmillups
+
+*Riak Recap for August 29 - 31*
+
+# Haris Amin wrote a quick blog post about installing Riak on OS X Lion. Thanks, Haris!
+-> "Read here":http://blog.harisamin.com/post/9658193785/install-riak-on-os-x-lion
+# The Chicago Boss Web Framework now supports Riak as a backend.
+-> "Details here":https://twitter.com/#!/basho/status/108982455062634497 
+# This is a ways off but still worth relaying: Jon Brisbin will be giving a talk on Riak and evented data with RabbitMQ at the SpringOne conference in Chicago at the end of October.
+-> "Talk details here":http://www.springone2gx.com/conference/chicago/2011/10/speakers/jon_brisbin
+# There will be a half day Riak training at the upcoming Surge Conference in Baltimore happening at the end of September. The best part about this is that it's free with your registration (and Surge's lineup looks downright amazing).
+-> "Come to this":http://omniti.com/surge/2011/sessions/training#riak-training 
+# Duncan McGreggor has a new repo up on Launchpad that connects Riak to Django. Thanks, Duncan!
+-> "Django Riak Engine":https://launchpad.net/django-riak-engine 
