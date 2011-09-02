@@ -1,0 +1,36 @@
+--- 
+title: Riak Recap for September 1 - 2
+layout: newpost
+summary:
+---
+
+_Posted on September 2, 2011_
+
+Afternoon, Evening, Morning, to All -
+
+For today's Recap: Meetups, new code, new production users, slide decks, and more.
+
+Enjoy, and have a great weekend.
+
+"Mark":twitter.com/pharkmillups
+
+*Riak Recap for September 1 - 2*
+
+# Basho Developer Ryan Zezeski is in Baltimore and is looking for other like-minded Baltimoreans for talk Riak with (for meetups. presos, etc.). If this is you, shoot an email to rzezeski@basho.com.
+-> "Some details here":https://twitter.com/#!/rzezeski/status/109123324851929088 
+# Mårten Gustafson (@martengustafson) posted a slide deck a few days ago from a recent talk he gave called "Approaching and evaluating NoSQL." Riak gets a non-trivial mention. Thanks, Mårten!
+-> "Check them out here":http://marten.gustafson.pp.se/content/presentations#TOC-Approaching-and-evaluating-NoSQL-20
+# John Newman joined the Basho Team as a Developer Advocate.
+-> "Details here on the Basho Blog":http://blog.basho.com/2011/09/02/John-Newman-Has-Joined-The-Basho-Team/
+# Riak 1.0 Preview Meetups are happening in both San Francisco and New York on September 8th. If you're in the area and aren't already registered, you should do so; seats are going fast.
+-> "SF":http://www.meetup.com/San-Francisco-Riak-Meetup/events/30127311/ 
+-> "NYC":http://www.meetup.com/NYC-Riak-Meetup/events/29181101/ 
+# We added three new logos to the "Who is Using Riak" page on the Wiki.
+-> "Clipboard":http://wiki.basho.com/Who-is-Using-Riak.html#clipboard (Thanks, Ken!)
+-> "GitHub":http://wiki.basho.com/Who-is-Using-Riak.html#github (Thanks, Corey!)
+-> "Mochi Media":http://wiki.basho.com/Who-is-Using-Riak.html#mochimedia 
+  (Thanks, David! Also, it should be said that Mochi has been in production for
+over year now.)
+-> And if you've got a logo for the wiki, don't hesitate to "fork the wiki repo":https://github.com/basho/riak_wiki and add your details (or email me)
+# Looks like Duncan McGreggor has his Django Riak Engine code up on GitHub. (I posted a link to the Launchpad repo for this code in the last recap.)
+-> "Code here":https://github.com/oubiwann/django-riak-engine 
