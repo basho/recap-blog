@@ -1,0 +1,36 @@
+--- 
+title: Riak Recap for September 3 - 6
+layout: newpost
+summary:
+---
+
+Evening, Afternoon, Morning To All - 
+
+For today's Recap: meetups, new code, new production users, blog posts, and more.
+
+Enjoy.
+
+"Mark":twitter.com/pharkmillups
+
+*Riak Recap for September 3 - 6*
+
+# "Nick Campbell":http://twitter.com/ncb000gt built an app using Riak and Luwak for Node Knockout.
+-> "Go see if you can break it here":http://bearshark.nko2.nodeknockout.com/ 
+-> "A few details on the app here":http://twitter.com/#!/ncb000gt/statuses/110764370715344896
+_Anyone else use Riak for a Node Knockout app?_
+# Juliano Martinez let it leak that he added support for Riak to the S3 Clone he is working on.
+-> "Code here on GitHub":https://github.com/ncode/otto
+# Chad DePue (@chaddepue) wrote a great blog post about his experience using and working with Riak over the past year.
+-> "Read here":http://inakanetworks.com/blog/2011/08/25/when-to-use-riak/
+-> "There was also a lively discussion about the post on Hacker News":http://news.ycombinator.com/item?id=2969865
+# Jon Brisbin's talk from Erlang Factory about Riak and RabbitMQ is online (PDF and video).
+-> "Watch here":http://www.erlang-factory.com/conference/London2011/speakers/JonBrisbin 
+# I wrote up a blog post detailing all the Riak-related events in September.
+-> "Read here":http://blog.basho.com/2011/09/07/Riak-is-Going-To-Have-a-Huge-September/
+# Two Common Lisp Libraries for Riak appeared today (obviously both are still quite nascent but definitely worth keeping an eye on).
+-> "https://github.com/eriknomitch/cl-riak":https://github.com/eriknomitch/cl-riak
+-> "https://github.com/whee/cl-riak":https://github.com/whee/cl-riak
+# Two great jobs to pass along:
+-> HP Cloud Services in Seattle is hiring developers with Riak skills. "Details here":http://www.linkedin.com/groups/HP-Cloud-Services-Looking-Riak-2913983.S.68805320.
+-> Thoughtleadr in San Francisco is hiring a Linux Admin with Riak with
+experience. "Details here":http://www.startuply.com/Jobs/Linux_Administrator_5134_1.aspx. 
