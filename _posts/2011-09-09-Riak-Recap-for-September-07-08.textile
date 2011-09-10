@@ -1,0 +1,33 @@
+--- 
+title: Riak Recap for September 7 - 8
+layout: newpost
+summary:
+---
+
+Evening, Morning, Afternoon to All -
+
+For today's Recap: talks, jobs, new production users, new code, screencasts, and more.
+
+Enjoy and have a great weekend.
+
+"Mark":twitter.com/pharkmillups
+
+*Riak Recap for September 7 - 8*
+
+# We added two more production users to the (newly-reorganized!) Riak Wiki. 
+-> "Bump":http://wiki.basho.com/Who-is-Using-Riak.html#bump (h/t Will Moss)
+-> "SEOmoz":http://wiki.basho.com/Who-is-Using-Riak.html#seomoz  (h/t Myron Marston)
+_Who else is missing from the wiki?_
+# This is a ways off but still worth mentioning: Andy Gross is speaking on QCON in San Francisco about Riak Use Cases.
+-> "Details here":http://qconsf.com/sf2011/presentation/Riak+Use+Cases:+Dissecting+the+Solutions+to+Hard+Problems
+# Ryan Zezeski updated his "try try try" post on riak_core and the vnode.
+-> "Linked here":http://twitter.com/#!/rzezeski/status/111997743857274882
+# The slides that Sean Cribbs and Dan Reverri used for their bi-coastal Riak 1.0 Preview talks last night are now online.
+-> "Check them out here":http://riak-onedotoh-preview.heroku.com/#1
+# We merged some great contributions to the Python Client over the past few days from Greg Stein and Soren Hansen. (h/t to Brett Hoerner and Reid Draper for helping with the review.)
+-> "Code here":https://github.com/basho/riak-python-client/commits/master  
+# I sent out a link to this in a different thread today but it's worth sharing again: Joe Blomstedt put together a screencast covering what Riak's Cluster Membership looks like in 1.0.
+-> "Grab a beer and go watch this":http://blog.basho.com/2011/09/09/Riak-Cluster-Membership-Overview/
+# Two great jobs to pass your way:
+-> Twitch.tv, which is part of the Justin.tv family, has some openings in San Francisco - and rumor has it that you'll be working with Riak. "Details here":http://www.twitch.tv/jobs. 
+-> Strobe is looking for a DevPops Engineer. "Details here":http://careers.strobecorp.com/apply/5xjbjW/DevOps-Engineer.html.
