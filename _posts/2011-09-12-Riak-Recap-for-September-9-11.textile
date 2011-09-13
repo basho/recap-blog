@@ -1,0 +1,32 @@
+--- 
+title: Riak Recap for September 9 - 11
+layout: newpost
+summary:
+---
+
+_Posted on September 12, 2011_
+
+Afternoon, Evening, Morning to All
+
+For today's Recap: talks, blog posts, jobs, and more.
+
+Enjoy.
+
+"Mark":twitter.com/pharkmillups
+
+*Riak Recap for September 9 - 11*
+
+# "Mark Cavage":http://twitter.com/mcavage wrote a lengthy post on just about everything you would ever want to know about LDAP. More importantly he explains why he's working on it at Joyent and why they are using Riak with LDAP.
+-> "Read here":http://blog.nodejs.org/2011/09/08/ldapjs-a-reprise-of-ldap/  
+# Basho COO Tony Falco was in the Wall St. Journal talking about the history of Basho and Riak, why Riak is so compelling. Basho is part of the "Small Business, Large Innovation" competition the WSJ is running and we could use your vote.
+-> "Read and vote here":http://blogs.wsj.com/biginnovation/2011/09/09/basho-technologies. 
+# Strange Loop is less than a week away, so here's the rundown of Riak-flavored talks happening in St. Louis next week.
+-> Susan Potter will be talking about using riak_core to build
+distributed applications. "Details here":https://thestrangeloop.com/sessions/dynamo-is-not-just-for-datastores.
+-> Kresten Krab Thorup will be talking about Bringing Riak to the Mobile Platform. "Details here":https://thestrangeloop.com/sessions/bringing-riak-to-the-mobile-platform.
+-> Sean Cribbs will be talking about Riak's MapReduce in relation to traditional SQL. "Details here":https://thestrangeloop.com/sessions/wrap-your-sql-head-around-riak-mapreduce.
+_I'll also be in attendance. Ping me if you'll be there._
+# "Ethan Gunderson":http://twitter.com/ethangunderson built a Riak Rubik's cube.
+-> "Picture here":http://twitpic.com/6k0int. 
+# One great job to pass along:
+-> truSEF, a financial services startup in NYC, is hiring Senior Software Engineers to work on their infrastructure (and there's a lot of Riak involved). "Details here":http://truesef.com/jobs/sse.html. 
