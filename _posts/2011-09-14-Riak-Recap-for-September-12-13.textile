@@ -1,0 +1,36 @@
+--- 
+title: Riak Recap for September 12 - 13
+layout: newpost
+summary:
+---
+
+_Posted on September 14, 2011_
+
+Evening, Morning, Afternoon to All -
+
+For today's Recap: blog posts, new code, and more.
+
+Enjoy.
+
+"Mark":twitter.com/pharkmillups
+
+*Riak Recap for September 12 - 13*
+
+# We released Riak 1.0.0pre3. 
+-> Downloads and updated release notes "here":http://lists.basho.com/pipermail/riak-users_lists.basho.com/2011-September/005617.html
+# Greg Stein and Reid Draper continue to do great stuff for the Python client.
+-> "Latest contributions here":https://github.com/basho/riak-python-client/commits/master
+# Kyle Kingsbury shared a sneak peak of the Riak metrics app he and John Muellerleile will be showing off at the talk they are giving on September 26th in San Francisco.
+-> "Picture and talk details here":http://twitter.com/#!/aphyr/statuses/113444452374294528
+# Mark Steele wrote a great post about how to stream chunk encoded HTTP responses that should be particularly interesting to any PHP devs on the list.
+-> "Read here":http://www.control-alt-del.org/2011/09/09/streaming-results-from-riak-over-http-in-php/
+# Basho Dev. Rusty Klophaus wrote a blog post all about Secondary Indexing.
+-> "Read here":http://blog.basho.com/2011/09/14/Secondary-Indexes-in-Riak/
+-> "Hacker News Discussion":http://news.ycombinator.com/item?id=2997276 
+# We merged a sizable contribution to Riak Search from Greg Pascale and the Clipboard.com team that adds support for the 'fl' SOLR parameter. Thanks, Greg! (Did I mention "Clipboard is hiring":https://www.clipboard.com/jobs?)
+-> "Commit here":https://github.com/basho/riak_search/commit/44031bcc8e0744c7204f7f06840486e37742e13a
+# We merged a small contribution to Riak from Morten Siebuhr. Thanks, Morten!
+-> "Commit here":https://github.com/basho/riak/commit/87fcc71174f93dd2a0254a2a57f6f76d5ef30717
+# Another reminder about the Riak training happening Surge next week ...
+-> "Details and registration here":http://omniti.com/surge/2011/sessions/training
+
