@@ -1,0 +1,35 @@
+--- 
+title: Riak Recap for September 14 - 15
+layout: newpost
+summary:
+---
+
+_Posted on September 16, 2011_
+
+Afternoon Evening, Morning To All -
+
+For today's Recap: meetups, new production users, jobs, and more.
+
+Enjoy and have a great weekend.
+
+"Mark":twitter.com/pharkmillups
+
+*Riak Recap for September 14 - 15*
+
+
+# Riak 1.0.0pre4 is available for download. 
+-> Downloads and Release Notes "here":http://lists.basho.com/pipermail/riak-users_lists.basho.com/2011-September/005664.html 
+# Jeff Kirkell is giving a Riak Talk at PhillyDB on Sept. 20. Thanks, Jeff!
+-> "Details here":http://www.meetup.com/PhillyDB/events/32767442/ 
+# We added WorthPoint to the production users page on the wiki. (h/t to "Mac Liaw":http://twitter.com/wmacgyver for making this happen!)
+-> "Details here":http://wiki.basho.com/Who-is-Using-Riak.html#worthpoint 
+# There's a question on StackOverflow about link walking that (at time of writing) is still unanswered for anyone looking to get ambitious over the weekend.
+-> "Here":http://stackoverflow.com/questions/7440129/link-walking-with-riak-search-for-common-friends 
+# Clint Shryock will be representing Riak at a NoSQL Smackdown happening on September 28 at the ComoRichWeb meetup in Columbia, MO. Thanks, Clint!
+-> "Details here":http://comorichweb.posterous.com/next-meetup-nosql-smackdown-september-28th
+# Two great jobs to pass along:
+-> BankSimple is looking for a Data Scientist in Portland, Oregon. "Details here":http://www.ventureloop.com/ventureloop/jobdetail.php?r=f_sh&jobid=78538
+-> CrowdFlower is hiring a Sr. Web Engineer in San Francisco with "Mongo, Riak, or Couch" experience. "Details here":http://www.ventureloop.com/ventureloop/jobdetail.php?r=f_sh&jobid=77858
+# Reminder about two great events happening on September 21:
+-> "Riak 1.0 Party in NYC":http://riak1dot0nyc.eventbrite.com (almost full, btw)
+-> "Riak 1.0 Overview with Andy Gross and Justin Sheehy":http://info.basho.com/overview_1.0.html
