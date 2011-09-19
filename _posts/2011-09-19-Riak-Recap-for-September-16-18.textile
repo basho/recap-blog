@@ -1,0 +1,32 @@
+--- 
+title: Riak Recap for September 16 - 18
+layout: newpost
+summary:
+---
+
+_Posted on September 19, 2011_
+
+
+Afternoon, Evening, Morning To All -
+
+Today's Recap comes to you live from Strange Loop where Susan Potter is currently "delivering an awesome talk on riak_core":twitter.com/pharkmillups.
+
+For today: Blog posts, code, slides, and more.
+
+Enjoy.
+
+"Mark":twitter.com/pharkmillups
+
+*Riak Recap for September 16 - 18*
+
+# Joseph Lambert wrote a great blog post about why and how he and the team at the NetCircle are using Riak. Thanks, Joseph!
+-> "Read here":http://www.thenetcircle.com/2011/09/19/using-riak-at-the-netcircle
+# Alexander Sicular contributed a small patch to riak-js.
+-> "Pull request here":https://github.com/frank06/riak-js/pull/88 
+# David Koblas contributed a small fix to the Python Client.
+-> "Pull request here":https://github.com/basho/riak-python-client/pull/68
+# Bryan Fink wrote a great blog post about MapReduce and Riak Pipe in 1.0.
+-> "Read here":http://blog.basho.com/2011/09/19/Riak-Pipe-The-New-Map-Reduce-Power/ 
+# Sean Cribbs published the code and slides from his Strange Loop talk he delivered this morning called "Wrap Your SQL Head Around Riak MapReduce."
+-> "Slide deck here":http://strangeloop-riak-mapred.heroku.com/
+-> "Code on GitHub":https://github.com/seancribbs/strangeloop-riak-mapred
