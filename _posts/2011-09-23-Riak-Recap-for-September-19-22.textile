@@ -1,0 +1,35 @@
+--- 
+title: Riak Recap for September 19 - 22
+layout: newpost
+summary:
+---
+
+_Posted on September 23, 2011_
+
+Evening, Morning, Afternoon to All -
+
+For today's Recap: Events, code, slides, and more.
+
+Enjoy and have a great weekend.
+
+"Mark":twitter.com/pharkmillups
+
+*Riak Recap for September 19 - 22*
+
+# Basho, with the help of various other companies, will be heading up the NoSQL Roadshow taking place in various cities across Europe in November and December. Basho will be represented by Steve Vinoski and Martin Schneider.
+-> "Dates, locations, and details here":http://nosqlroadshow.com.
+# Susan Potter put the slides online from the "Dynamo: not just datastores" talk she delivered at Strangeloop. (It was a great talk.) Thanks, Susan!
+-> "Check them out here":http://www.slideshare.net/mbbx6spp/dynamo-not-just-for-datastores
+# We merged a sizable contribution to the Java client from cadement related to Riak Search integration. Thanks, cadement!
+-> "Original pull request here":https://github.com/basho/riak-java-client/pull/32
+# Clint Shryock is giving a Riak talk next week and his slides made it onto GitHub in advance (so I suspect that they are not yet finished). Thanks, Clint!
+-> "Take a look here":https://github.com/ctshryock/riak-talk
+# Anyone going to Surge in Baltimore next week? Ping me if this is you.
+# Jeremiah Peschka and OJ Reeves, along with the help of Matthiew Whitfield, released CorrugatedIron v0.1.3.
+-> "Details here on the Mailing List":http://lists.basho.com/pipermail/riak-users_lists.basho.com/2011-September/005734.html
+# Two jobs to pass along:
+-> Voxer is hiring Senior Software Engineers in San Francisco to work
+with Riak, Redis, and Node. Details "here":http://voxer.com/job/server_software_engineer.
+-> Comcast's NETO team based in Reston, VA is hiring Engineers with
+Riak experience. Details "here":http://careers.diversityinc.com/jobs/detail/41719729?jobId=41719729.
+
