@@ -24,7 +24,7 @@ Enjoy and have a great weekend.
 -> "Original pull request here":https://github.com/basho/riak-java-client/pull/32
 # Clint Shryock is giving a Riak talk next week and his slides made it onto GitHub in advance (so I suspect that they are not yet finished). Thanks, Clint!
 -> "Take a look here":https://github.com/ctshryock/riak-talk
-# Anyone going to Surge in Baltimore next week? Ping me if this is you.
+# Anyone going to Surge in Baltimore next week? Let me know if this is you.
 # Jeremiah Peschka and OJ Reeves, along with the help of Matthiew Whitfield, released CorrugatedIron v0.1.3.
 -> "Details here on the Mailing List":http://lists.basho.com/pipermail/riak-users_lists.basho.com/2011-September/005734.html
 # Two jobs to pass along:
