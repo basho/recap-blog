@@ -1,0 +1,25 @@
+--- 
+title: Riak Recap for September 23 - 25
+layout: newpost
+summary:
+---
+
+_Posted on September 26, 2011_
+
+
+Evening, Morning, Afternoon to All -
+
+Here's a short Recap to kick the week off.
+
+Enjoy.
+
+"Mark":twitter.com/pharkmillups
+
+*Riak Recap for September 23 - 25*
+
+# Mark Cavage released an update a few days ago to his ldapjs-riak code.
+-> "Details here":http://twitter.com/#!/nodenpm/statuses/117394205319495680
+# Scott Milkens brought his EngineYard AppCloud Riak Cookbooks inline with the 1.0 RC1 release.
+-> "Details here":http://twitter.com/#!/scottmlikens/statuses/118077403389104128
+# Kyle Kingsbury, John Muellerleile, and few others held an event tonight at the ShowYou offices in San Francisco to talk about what technologies they are using in production. Kyle's slides made it online already.
+-> "Check them out there":http://aphyr.com/scaling_at_showyou.pdf
