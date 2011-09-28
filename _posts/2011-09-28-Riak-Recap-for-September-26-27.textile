@@ -1,0 +1,39 @@
+--- 
+title: Riak Recap for September 26 - 27
+layout: newpost
+summary:
+---
+
+_Posted on September 28, 2011_
+
+
+Afternoon, Evening, Morning to All
+
+This Recap comes to you live from the front row at Surge, where Sean
+Cribbs and Ian Plokser "are delivering a half-day Riak training to a
+packed house":http://dl.dropbox.com/u/4584848/sean-riak-surge.JPG.
+
+Great Recap for today: slides, podcasts, blog posts, and more.
+
+Enjoy.
+
+"Mark":twitter.com/pharkmillups
+
+*Riak Recap for September 26 - 27*
+
+
+# John Muellerleile posted his slides from the "Scaling ShowYou" event that happened on Monday night in San Francisco.
+-> "Details and slides here":https://twitter.com/jrecursive/status/118696537718132737
+# Jeremiah Peschka is having a banner week in the community:
+->  "He wrote a great blog post about Riak Use Cases":http://www.brentozar.com/archive/2011/09/different-world-three-use-cases-for-riak/
+-> "He was on the .NET Rocks Podcast talking about the work he and a few others are doing on CorrugatedIron":http://www.dotnetrocks.com/default.aspx?showNum=701
+# We added The NetCircle to the production users page on the Riak Wiki (h/t to Joe Lambert for making this happen).
+-> "Read here":http://wiki.basho.com/Who-is-Using-Riak.html#thenetcircle
+# Dr. Dobb's wrote a piece on Riak based on the upcoming 1.0 release.
+-> "Read here":http://drdobbs.com/database/231602292
+# One job to pass along:
+-> "Rearden Commerce is hiring a Sr. Software Engineer with Riak and
+Redis experience":https://careers-reardencommerce.icims.com/jobs/1874/job.
+# Slightly off-topic but worth mentioning: Yammer, heavy users of Riak and all around awesome software, raised a round of funding. Big congrats to Coda Hale, Ryan Kennedy, and the rest of the team at Yammer!
+-> "Read about it here":http://venturebeat.com/2011/09/27/yammer-raises-17m-enterprise-social-networking/.
+
