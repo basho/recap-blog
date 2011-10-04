@@ -1,0 +1,35 @@
+--- 
+title: Riak Recap for September 28 - October 02
+layout: newpost
+summary:
+---
+
+_Posted on October 02, 2011_
+
+Evening, Morning, Afternoon to All -
+
+For today's Recap: new code, talks, slides, jobs, and more.
+
+Enjoy.
+
+"Mark":twitter.com/pharkmillups
+
+*Riak Recap for September 28 - October 2*
+
+# The slides from the Riak training that Ian Plosker and Sean Cribbs delivered last week are online.
+-> "Check them out here":http://twitter.com/#!/DstroyAllModels/status/119432353029431297
+# There was some great discussion on Hacker News following the official release of Riak 1.0.
+-> "Read and participate here":http://news.ycombinator.com/item?id=3058495 
+# The Riak Homebrew recipe was updated to 1.0. (Thanks, Bryce!)
+-> "Commit here on GitHub":https://twitter.com/#!/BonzoESC/status/120206964683845632
+# Justin Calleja wrote a blog post called "Erlang transport test drive" that demonstrates how to use David Dossot's Erlang transport for Mule (using a Riak-backed demo app). (Thanks, Justin!)
+-> "Read here":http://ricston.com/blog/?p=1823
+# Basho is holding a webinar all about 1.0's new query-related features and functionality.
+-> "Registration and details here":http://ht.ly/6Mr4y
+# For anyone in San Francisco: there will be Tech Talk this Wednesday at the Boundary offices. John M will be giving details on the Riak-backed app they have running at ShowYou (and the Scalang talk definitely won't disappoint).
+-> Seats are limited. "Details here":http://www.meetup.com/Boundary-Tech-Talks/events/35972122/
+# Kyle Kingsbury released new version of Risky.
+-> "Latest here":https://twitter.com/#!/rubygems/statuses/121031334251601920
+# A few great jobs to pass along:
+-> Synacor "is hiring a Web Software Architect in Buffalo":http://jobs.arstechnica.com/list/1123/, NY to work with Riak.
+-> Root Labs, based in Oakland, "is hiring a Lead Engineer":http://www.rootlabs.com/developer-job.html with a good understanding of Riak and Redis.
