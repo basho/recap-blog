@@ -1,0 +1,23 @@
+--- 
+title: Riak Recap for October 3 - 4
+layout: newpost
+summary:
+---
+
+Evening, Morning, Afternoon to All - 
+
+Short Recap for today: a blog post, new meetup, and more. 
+
+Sent from my MacBook Pro to yours, or your iPhone, or your iPad, or your iPod touch. RIP Steve.
+
+"Mark":twitter.com/pharkmillups
+
+*Riak Recap for October 3 - 4*
+
+# Basho Developer Advocate Greg Burd wrote a lengthy and content-rich piece on NoSQL for USENIX. 
+-> "Read here":http://www.usenix.org/publications/login/2011-10/openpdfs/Burd.pdf 
+# The crew over at Canvas Hosting wrote a great overview piece about Riak. 
+-> "Read here":http://blog.canvashosting.com/post/10766673643/rock-out-riak 
+# We announced a Riak Meetup in Mountain View happening on November 1st. Will Moss and the Bump Team will be giving an overview of how they use Riak and also share some details on a custom Haskell object proxy they've written. 
+-> "Details and registration here":http://www.meetup.com/San-Francisco-Riak-Meetup/events/36310112/ 
+# Greg Pascale and the crew at Clipboard "successfully performed a rolling upgrade to 1.0 running LevelDB from Bitcask":http://twitter.com/#!/gregpascale/statuses/121690312925122560. I was wondering if anyone else had details (good or bad) on upgrades they've done to 1.0 or from Bitcask to LevelDB. Any and all info is valuable. Email *mark@basho.com* with details.
