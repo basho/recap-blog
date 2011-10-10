@@ -1,0 +1,32 @@
+--- 
+title: Riak Recap for October 5 - 9
+layout: newpost
+summary:
+---
+
+Evening, Morning, Afternoon to All -
+
+Greetings from Aarhus.
+
+For today's Recap: talks, meetups, and more.
+
+Enjoy.
+
+"Mark":https://twitter.com/pharkmillups
+
+*Riak Recap for October 5 - 9*
+
+# For anyone heading to GOTO Aarhus and/or Amsterdam this week, Basho will be in attendance in the form of myself, Justin Sheehy, Steve Vinoski, and Martin Schneider. Ping one (or all) of us if you're in town and want to talk Riak, databases, or open source. We are also giving two talks:
+-> In addition to chairing the Modern Databases Track, Justin will be talking about "Embracing Concurrency at Scale":http://gotocon.com/aarhus-2011/presentation/Embracing%20Concurrency%20At%20Scale on Wednesday. 
+-> Steve will be giving the closing talk on Thursday in Amsterdam called "What They Never Told You About Innovation":http://gotocon.com/amsterdam-2011/presentation/What%20They%20Never%20Told%20You%20About%20Innovation.
+# Basho Developer "Rusty Klophaus"https://twitter.com/rustyio will be giving a talk at the upcoming Washington, DC Erlang Group on October 17th.
+-> "Details here":http://www.meetup.com/erlang/events/35518252.
+# The Riak Feature Request Forum has seen a good amount of action since it went live last week. This is awesome. Keep it coming.
+-> Check out the latest discussions and add your own "here":http://features.basho.com.
+# Basho has a redesigned website!
+-> Check it out "here":http://basho.com. 
+-> Also, the "community section of Basho.com":http://basho.com/community is coming along quite nicely but I would love to get feedback from any interested parties on how we could make it more useful. 
+# Another reminder about the Riak Meetup happening on Nov. 1 at the Bump offices in Mountain View.
+-> Details and registration "here":http://www.meetup.com/San-Francisco-Riak-Meetup/events/36310112.
+# One great job to pass along:
+-> Apollo Group is hiring a Senior Java Developer in the San Jose area. Details "here":http://www.careerbuilder.com/JobSeeker/Jobs/JobDetails.aspx?ipath=EXGOO&siteid=CBSIMPLYHIRED&Job_DID=J3H09T79BD6F8JV0HC5.
