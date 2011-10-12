@@ -1,0 +1,32 @@
+--- 
+title: Riak Recap for October 10 - 11
+layout: newpost
+summary:
+---
+
+_Posted on October 12, 2011_
+
+Evening, Morning, Afternoon to All -
+
+Greetings from Amsterdam.
+
+For today's Recap: new code, jobs, and much more.
+
+Enjoy.
+
+"Mark":twitter.com/pharkmillups
+
+*Riak Recap for October 10 - 11*
+
+# The crew at Thoughtleadr is working on a Haskell Client that might be of interest to some of you. (Did I mention they are hiring?)
+-> "Code here on (the newly-redesigned) GitHub":https://github.com/ThoughtLeadr/Riak-Haskell-HTTP-Client
+# There's a new feature request from Teemu Antti-Poika...
+-> "Riak Queue?":http://features.basho.com/entries/20526696-riak-queue 
+# Kyle Kingsbury wrote a short, graphical blog post about switching to 1.0's enhanced MapReduce system.
+-> "Read here":http://aphyr.com/journals/show/riak-pipe-mapreduce
+# Some great jobs to pass along:
+-> "Immediate opening to work on Mahout/Hadoop and SQLSvr & Riak in Newtown SQ, PA":https://twitter.com/#!/tedc/status/123779338486300672.
+-> "Extole is hiring":http://hire.jobvite.com/CompanyJobs/Careers.aspx?k=Job&c=qM69VfwG&j=oZ5MVfwv a Senior Ruby Developer with Riak, Mongo, or Redis skills.  
+-> "R/GA Media is hiring":http://hire.jobvite.com/CompanyJobs/Careers.aspx?k=Job&c=qAX9Vfwl&j=o4yTVfwa a Lead Scalable Systems Architect in NY, NY to work with Riak. 
+# Riak's Java Client just turned 1.0!
+-> "Details here":http://lists.basho.com/pipermail/riak-users_lists.basho.com/2011-October/006034.html
