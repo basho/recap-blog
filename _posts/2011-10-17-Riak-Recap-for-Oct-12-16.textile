@@ -1,0 +1,36 @@
+--- 
+title: Riak Recap for October 12 - 16
+layout: newpost
+summary:
+---
+
+_Posted on October 17, 2011_
+
+
+Afternoon, Evening, Morning to All -
+
+Great Recap for today (especially for our RabbitMQ fans): new code, talks, slides, and much more.
+
+Enjoy.
+
+"Mark":twitter.com/pharkmillups
+
+*Riak Recap for October 12 - 16*
+
+# Clipboard.com, heavy Riak/Search users and contributors, rolled their service out of stealth mode last week. Congratulations to the team!
+-> "Details here":http://blog.clipboard.com/2011/10/13/Hello-World
+# Alvaro Videla (@old_sound) released a RabbitMQ plugin that uses Bitcask as a storage backend. Thanks, Alvaro!
+-> "Code and details here":https://twitter.com/old_sound/status/124152414914875392
+# Ben Murphy is tinkering with counters in Riak. Very cool stuff. Thanks for releasing, Ben!
+-> "Code here":https://github.com/benmmurphy/ecnty 
+# The video of the "Scaling at ShowYou" talk that John Muellerleile (@jrecursive) gave a few weeks back at Boundary HQ is now online.
+-> "Watch here":http://blog.boundary.com/2011/10/11/Boundary-Tech-Talk-1.html
+# We merged a contribution from Chris Umbel to the Java Client. Thanks, Chris!
+-> "Details here":https://github.com/basho/riak-java-client/pull/66 
+# Yosuke Hara gave a Riak presentation at a Python Hack-a-thon over the weekend. Thanks, Yosuke!
+-> "Slides here on his blog":http://yosuke-perspective.blogspot.com/2011/10/python-hack-thon-introduce-to-riak.html
+# It looks like Jon Brisbin had a busy, productive weekend with Riak and RabbitMQ... Thanks, Jon!
+-> "His Riak/RabbitMQ Post-commit hook is now updated to 1.0":http://twitter.com/#!/j_brisbin/status/125942119151058945. 
+-> "He also updated his custom Rabbit/Riak exchange":http://twitter.com/#!/j_brisbin/status/125955392890089473.
+-> And, if you're going to be in Chicago for Spring 2GX 2011 at the end of this month, "you can see Jon talk all about this code and how he's using it":http://www.springone2gx.com/conference/chicago/2011/10/speakers/jon_brisbin.
+-> This would also be a great time to point out "the Riak and RabbitMQ section on the wiki":http://wiki.basho.com/Community-Developed-Libraries-and-Projects.html#Riak-and-RabbitMQ.
