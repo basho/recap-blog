@@ -1,0 +1,44 @@
+--- 
+title: Riak Recap for October 17 - 18
+layout: newpost
+summary:
+---
+
+_Posted on October 19, 2011_
+
+Evening, Morning, Afternoon To All -
+
+Big Recap for today: new code, conferences, blog posts, slides, and more.
+
+Enjoy.
+
+"Mark":twitter.com/pharkmillups
+
+*Riak Recap for October 17 - 18*
+
+# Jeffrey K. Eliasen wrote a short post on setting up Riak. Thanks, Jeffrey!
+->  "Read here":http://jeff.jke.net/2011/10/09/setting-riak 
+# Diego Castorina wrote an extensive overview post about Riak. Thanks, Diego!
+->  "Read here":http://a-developer-life.blogspot.com/2011/10/riak-key-value-store-with-configurable.html
+# Andrzej Kajetanowicz fixed a typo in the Erlang client documentation. Thanks, Andrzej!
+-> "PR here":https://github.com/basho/riak-erlang-client/pull/39 
+# Basho is throwing a Riak 1.0 Release Party in San Francisco on Nov
+8th. If you're in the area, we want you here.
+->  "Details here":http://www.meetup.com/San-Francisco-Riak-Meetup/events/37997632/
+# ldapjs-riak v0.1.7 was released by Mark Cavage.
+-> "Details here":http://search.npmjs.org/#/ldapjs-riak 
+# A short piece on Riak appeared on sourceforge.jp
+-> "Read here":http://sourceforge.jp/magazine/11/09/28/1051240 
+# The slides from GOTO Amsterdam and Aarhus are online. Three great Riak-related slides decks to pass along:
+-> "Bring Riak to the Mobile Platform":http://gotocon.com/dl/goto-aarhus-2011/slides/KrestenKrabThorup_BringingRiakToTheMobilePlatform.pdf
+-> "Embracing Concurrency at Scale":http://gotocon.com/dl/goto-aarhus-2011/slides/JustinSheehy_EmbracingConcurrencyAtScale.pdf 
+-> "Riak on Drugs - and the Other Way Around":http://gotocon.com/dl/goto-aarhus-2011/slides/KrestenKrabThorup_CaseStudyRiakOnDrugsandTheOtherWayAround.pdf
+# Basho is holding a webinar on October 25th all about the querying enhancements that were part of 1.0.
+-> "Register here":http://info.basho.com/enhancements.html 
+# We merged a handful of contributions to the Python Client from Soren Hansen. Thanks, Soren!
+-> "Latest commits here":https://github.com/basho/riak-python-client/commits/master
+# For anyone in or around the Washington, DC area: the DC Erlang Meetup Group is putting on a one day event on December 3rd called ErlangDC. Basho is proud to be sponsoring, and we'll also be giving a few talks.
+-> "Details here":http://erlangdc.com 
+# Mark Smith released a Nagios plugin for Riak. Thanks, Mark!
+-> "Code here":https://github.com/xb95/nagios-plugins 
+-> This is also a great time to remind people of the "Monitoring, Management, and GUI Tools section of the Wiki":http://bit.ly/oc7nn3.
