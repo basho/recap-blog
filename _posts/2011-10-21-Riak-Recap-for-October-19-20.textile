@@ -1,0 +1,25 @@
+--- 
+title: Riak Recap for October 19 - 20
+layout: newpost
+summary:
+---
+
+Afternoon, Evening, Morning To All -
+
+Short Recap for today.
+
+Also - No Recap this coming Monday or Wednesday. Feel free to put one together and send it along to the "list":http://lists.basho.com/mailman/listinfo/riak-users_lists.basho.com if you're feeling inspired.
+
+Enjoy, and have a great weekend.
+
+"Mark":twitter.com/pharkmillups
+
+*Riak Recap for October 19 - 20*
+
+
+# Andres Almiray released version 0.3 of the Griffon plugin for Riak. Thanks, Andres!
+-> "Details here":https://twitter.com/#!/theaviary/statuses/127416627770826753
+# Soren Hansen has a new project up on Launchpad called Riakalchemy - an object mapper for Riak (written in Python). Thanks, Soren!
+-> "Code here":https://launchpad.net/riakalchemy
+# Another reminder about the Riak Meetup happening in Mountain View on November 1...
+-> "Details and registration here":http://www.meetup.com/San-Francisco-Riak-Meetup/events/36310112/
