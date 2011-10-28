@@ -1,0 +1,37 @@
+Afternoon, Evening, Morning to All
+
+Here's an action-packed Recap to cover the last few days: new code, jobs, docs, and more.
+
+Also, make sure you make it to the bottom of this one as we've added some new content.
+
+Enjoy, and have a great weekend.
+
+"Mark":twitter.com/pharkmillups
+
+*Riak Recap for October 21 - 27*
+
+# The team at SEOMoz wrote a great blog post about how and why they are using Riak, and what they've learned in the process. (Big thanks to Jeff and the rest of the team for taking the time to publish this post!)
+-> "Read here":http://devblog.seomoz.org/2011/10/using-riak-for-ranking-collection/ 
+# A short piece about Riak appeared in gihyo.jp
+-> "Read here":http://gihyo.jp/dev/clip/01/orangenews/vol65/0002
+# Mark Cavage released some docs to go along with his ldapjs-riak code. Thanks, Mark!
+-> "Read here":http://mcavage.github.com/node-ldapjs-riak/
+# We merged a sizable contribution from Greg Stein to the Python Client. He's been doing some great work to improve connection management. Thanks, Greg!
+-> "Code here":https://github.com/basho/riak-python-client/commit/34befab6f89c6baa089daaf575e4c195302016aa
+# Q: Node left cluster before handing off all data. How can I resolve?
+  A: "Here":https://help.basho.com/entries/20580987-node-left-cluster-before-handing-off-all-data-how-can-i-resolve#overview. 
+# Q: Spent some solid time reading about riak search this morning. It looks pretty awesome theoretically. Can it stand 1 billion documents? (via @alexdong)
+-> A: Yes.
+# Clint Shryock is looking for some help naming a new Riak project.
+-> "Details here":http://twitter.com/#!/ctshryock/statuses/129996481485733888 (Best suggestion is getting a t-shirt from me.)
+# A few great job opportunities to pass along:
+-> "Digital Science":http://www.digital-science.com is looking to hire Python Developers in or around the London area with Riak and/or RabbitMQ experience to work on some of their metrics and data analytics initiatives. Get in touch with c.trasande@digital-science.com for more information.
+-> Equifax is hiring a Senior Software Engineer in Virginia with Riak experience. "Details here":http://www.careerbuilder.com/JobSeeker/Jobs/JobDetails.aspx?ipath=EXGOO&siteid=CBSIMPLYHIRED&Job_DID=J3G2GT6NZJF24HDGFCL
+# Recent Bugs
+As I mentioned above, we've added some new content to the Recap. While we do make bugs public at issues.basho.com, but we thought it would be worthwhile to send along the newest issues in the Recap. So, look for new bugs to be listed and linked in future Recaps. Here's the first installment:
+-> 1265: "eleveldb not opened with configuration options from environment":https://issues.basho.com/show_bug.cgi?id=1265  
+-> 1263: "Bitcask-backed vnodes handle requests while dropping -":https://issues.basho.com/show_bug.cgi?id=1263
+-> 1261: "Pipe mapreduce jobs fail in mixed 1.0.0/1.0.1 clusters":https://issues.basho.com/show_bug.cgi?id=1261
+-> 1260: "Riak search does not return an error if you try to search for terms that are not indexed":https://issues.basho.com/show_bug.cgi?id=1260
+-> 1259: "Luwak returns 400 (bad request) response to HTTP/1.1 connection right after successful PUT request":https://issues.basho.com/show_bug.cgi?id=1259
+-> 1258: "Avoid {case_clause, ok} errors when vnode backend fails to start":https://issues.basho.com/show_bug.cgi?id=1258
