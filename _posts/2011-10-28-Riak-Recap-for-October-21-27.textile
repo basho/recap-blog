@@ -1,3 +1,11 @@
+---
+layout: newpost
+title: Riak Recap for October 21 - 27
+categories:
+---
+
+_Posted on October 28, 2011_
+
 Afternoon, Evening, Morning to All
 
 Here's an action-packed Recap to cover the last few days: new code, jobs, docs, and more.
