@@ -1,0 +1,30 @@
+--- 
+title: Riak Recap for October 28 - 30
+layout: newpost
+summary:
+---
+
+_Posted on October 31_
+
+Afternoon, Evening, Morning To All -
+
+Great Recap for today: Riak and Apache Whirr, new code, jobs, and more.
+
+Enjoy,
+
+"Mark":twitter.com/pharkmillups
+
+*Riak Recap for October 28 - 30*
+
+# For anyone in/around London: on November 2nd, Basho Developer Russell Brown will be giving a talk called "Handling Conflicts in Eventually Consistent Systems" at the NoSQL Exchange Event.
+-> "Details here":http://skillsmatter.com/podcast/nosql/russell-on-riak 
+# Several people are making good progress on getting Riak support into Apache Whirr.
+-> "Latest code here":https://issues.apache.org/jira/browse/WHIRR-273
+# Secondary Indexing Support Landed in riak-js.
+-> "Code here":https://github.com/frank06/riak-js/issues/90#issuecomment-2572396 
+# Basho is looking for a "foolish and hungry Java engineer who wants to branch out into other languages as well." If this is you, get in touch with *dizzyd@basho.com*.
+# Basho Developer Scott Lystig Fritchie will be giving two talks at the Erlang User Conference talking place in Stockholm this week.
+-> "Details on his talks here":https://www.erlang-factory.com/conference/ErlangUserConference2011/speakers/ScottLystigFritchie
+# New Bugs and Issues
+-> "1269 - JS Built-Ins don't handle tombstones":https://issues.basho.com/show_bug.cgi?id=1269
+-> "204 (Wiki) - Better documentation for basic_quorum and not_foundok bucket props":https://github.com/basho/riak_wiki/issues/204  
