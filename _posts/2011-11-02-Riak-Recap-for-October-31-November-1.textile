@@ -1,0 +1,50 @@
+--- 
+title: Riak Recap for October 31 - November 1
+layout: newpost
+summary:
+---
+
+_Posted on November 1_
+
+Evening, Morning, Afternoon, to All -
+
+Huge Recap for today: new code, new docs, talks, jobs, and more.
+
+Enjoy,
+
+"Mark":twitter.com/pharkmillups
+
+*Riak Recap for October 31 - November 1*
+
+# Clint Shryock has a new project on GitHub called "sinatra-riak," a data-browser of sorts that runs as a Sinatra app.
+-> "Code here":https://github.com/ctshryock/sinatra-riak 
+# We merged another sizable contribution from Greg Stein to the Python Client. Thanks, Greg!
+-> "Code here":https://github.com/basho/riak-python-client/commit/bc6fe90da9880f3092fe45f56ae4d144e62ac0da
+# Ian Plosker put together a great piece of documentation about when to use MapReduce, Search, and Secondary Indexes in Riak.
+-> "Check it out here":http://wiki.basho.com/MapReduce-Search-2i-Comparison.html
+# We have new feature request up on features.basho.com.
+-> "Read here":http://features.basho.com/entries/20625356-tighten-security-of-default-packaging
+#  Q: Why does using strace against Riak show a large amount futex?
+   A: "Here on the Knowledge Base":https://help.basho.com/entries/20644138-why-does-using-strace-against-riak-show-a-large-amount-futex
+# The team at Bump Technologies gave a great presentation last night about how and why they are using Riak and Haskell. Will Moss and the team were kind enough to pass along the slides.
+-> "Viewable here":https://docs.google.com/presentation/d/1ZnMZtTYKSeO7eBDwqov2B4Qk8xfY1-9UqiBzzlkKTrY/edit#slide=id.g1041ad0_0_0
+# Riak (Search) 1.0 has some new admin commands and we finally got around to adding then to the wiki.
+-> "Riak":http://bit.ly/uVQVFe
+-> "Search":http://bit.ly/vpnK9o 
+# The video from Russell Brown's "Handling Conflicts in an Eventually Consistent System" talk is online.
+-> Pour yourself a 16yo Lagavulin (Russell's favorite) and enjoy "here":http://skillsmatter.com/podcast/nosql/russell-on-riak.
+# Julio Capote is working on a "disk backed, fast k/v cache" powered by Webmachine and Bitcask.
+-> "Code here":https://github.com/capotej/nolimit 
+-> Also, I heard a rumor that his library was named after No Limit Records, you should probably "listen to this track":http://www.youtube.com/watch?v=d5ZvzIOO6aU while reading the source code. [Somewhat SFW]
+# A few jobs to pass along:
+-> Skylin.es in the Amsterdam is hiring people with Riak experience. "Info here":http://news.ycombinator.com/item?id=3182009
+-> Rootlabs in Oakland, CA, is hiring. "Details here":http://news.ycombinator.com/item?id=3182392
+
+*Bugs/Issues*
+# New
+-> 1272: "Handoff never completes if search is only enabled on some nodes":https://issues.basho.com/show_bug.cgi?id=1272
+# Resolved/Patched/Fixed
+-> 1070: "Java REST client doesn't pass RW param on DELETE request":https://issues.basho.com/show_bug.cgi?id=1070
+-> 1071: "The REST Java Client does not return siblings on store when returnbody set to true":https://issues.basho.com/show_bug.cgi?id=1071
+
+
