@@ -1,0 +1,37 @@
+--- 
+title: Riak Recap for November 2 - 3
+layout: newpost
+summary:
+---
+
+_Posted on November 4_
+
+Afternoon, Evening, Morning to All -
+
+For today's Recap: new docs, blogs, new code, and more.
+
+Enjoy, and have a great weekend.
+
+"Mark":twitter.com/pharkmillups
+
+*Riak Recap for November 2 - 3*
+
+# Dave "Dizzy" Smith, Basho's Director of Engineering, was named "Erlang User of the Year."
+->  There's a tweet about it "here":http://twitter.com/#!/FrancescoC/status/132133925953875969 (and I suspect there will be something more substantial to point to soon)
+# Some updates to the Riak Wiki:
+->  We added some "info about VNode Vector Clocks":http://wiki.basho.com/Vector-Clocks.html#VNode-Vector-Clocks (which are new in Riak
+1.0)
+-> Details on Riak's "Storage Backend API":http://wiki.basho.com/Backend-API.html
+# A short piece about Riak (complete with code) appeared on NetKernel.org:
+->  "Read here":http://wiki.netkernel.org/wink/wiki/NetKernel/News/3/2/November_4th_2011#NoSQL_and_ROC
+# Jon Brisbin released "jstatebox" which is a JVM implementation of Mochi Media's "statebox" code.
+-> "Here on GitHub":https://github.com/jbrisbin/jstatebox 
+# Basho is holding a webinar on November 16th all about the admin improvements in Riak 1.0.
+-> "Details and registration here":http://basho.com/contact/webinar-registration/ 
+# For anyone in/around London: we are holding another NoSQL Road Show Event on November 29th.
+-> "Details here":http://nosqlroadshow.com/nosql-london-2011 
+# If anyone is going to RubyConf Uruguay next week, Sean Cribbs will be there talking about his "Webmachine-Ruby" project. I'm sure he wouldn't mind talking about Riak, either.
+->  "Details here":http://rubyconfuruguay.org/en/agenda#10
+# And last, but certainly not least, Basho raised another $5M in funding and (formally) announced that the Danish Government chose Riak as part of its health infrastructure.
+-> "Press release on basho.com":http://basho.com/news/danish_government_licenses_riak
+-> "Some slides with more information about the use case":http://gotocon.com/dl/goto-aarhus-2011/slides/KrestenKrabThorup_CaseStudyRiakOnDrugsandTheOtherWayAround.pdf
