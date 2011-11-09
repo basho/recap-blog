@@ -1,0 +1,27 @@
+---
+layout: newpost
+title: Riak Recap for November 4 - 8
+categories:
+---
+
+Morning, Afternoon, Evening to All
+
+For today's Recap: new code, press releases, and more.
+
+Enjoy.
+
+"Mark":twitter.com/pharkmillups
+
+*Riak Recap for November 4 - 8*
+# Jon Brisbin did some more work on his jstatebox project.
+->  Details "here":https://twitter.com/j_brisbin/status/133916979131187200
+# Dave "dizzy" Smith was named Erlang User of the Year.
+->  "Press release about it here":http://www.marketwire.com/press-release/david-smith-named-erlang-user-of-the-year-by-erlang-solutions-ltd-1583479.htm
+# Mark Cavage released version 0.1.13 ldapjs-riak.
+-> "Details here":http://twitter.com/#!/nodenpm/statuses/134316325752410112
+# Scott Lystig Fritchie's "DTrace and Erlang" slides are online and viewable.
+->  Immerse yourself "here":http://twitter.com/#!/slfritchie/status/133831632003137536
+# Thanks to everyone who was able to come out to the "Riak 1.0 Release Party":http://bit.ly/oE5RVz last night. The talks were recorded and will be online soon.
+->  In the mean time, "I thought this photo":http://dl.dropbox.com/u/4584848/Riak-1dot0-party.jpg was worth sending along.
+# We have a new feature request up on features.basho.com from Fredrik Lindström.
+-> Read, vote, and comment "here":http://features.basho.com/entries/20657847-2i-support-in-luwak.
