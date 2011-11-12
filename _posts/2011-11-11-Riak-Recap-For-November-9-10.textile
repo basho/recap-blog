@@ -1,0 +1,33 @@
+---
+layout: newpost
+title: Riak Recap for November 9 - 10
+categories:
+---
+
+Evening, Morning, Afternoon to All -
+
+Great Recap to take you into the weekend: new code, contributions,
+slides, and more.
+
+Enjoy, and thanks for being a part of Riak.
+
+"Mark":twitter.com/pharkmillups
+
+*Riak Recap for November 9 - 10*
+
+# We merged a small contribution to the Erlang Protobuffs code from Michel Rijnders.
+->  "Commit here":https://github.com/basho/erlang_protobuffs/commit/9e662bd002b3e3ac3dbc1215b99890c321e8ceab
+# Rick Olson at GitHub wrote a short blog post about git.io, their Riak-backed URL shortener.
+-> "Read here":https://github.com/blog/985-git-io-github-url-shortener
+-> Also, you can get to the Riak and Basho repos using "git.io/riak":http://git.io/riak and "git.io/basho":http://git.io/basho, respectively.
+# Sean Cribbs posted the slides from the "Embracing NoSQL and Eventual Consistency with Ripple" talk he gave at Ruby Conf Uruguay.
+->  "These are well worth it":http://www.slideshare.net/seancribbs/embrace-nosql-and-eventual-consistency-with-ripple
+# Jon Brisbin has been busy again. :)
+-> Updated the RabbitMQ/Riak custom exchange to the 2.7 Rabbit release. "Details here":http://twitter.com/#!/j_brisbin/statuses/134703020725387265s
+-> Released a new repo called "rabbitmq-riak-code-vnode-dispatcher":https://github.com/jbrisbin/rabbitmq-riak-code-vnode-dispatcher that should help you use vnodes with RabbitMQ.
+# We added the ability to check your config file via the Riak command line tools. (This has been around for a while but I'm not sure we advertised it well enough.)
+->  "Details here":http://bit.ly/vHUE3e
+# Jordan Schatz is working on a Racket API to Riak.
+->  "Code here":https://github.com/shofetim/Racket-Riak
+# Basho is hiring Developer Advocates.
+->  "Details here":http://basho.com/careers/developer-advocate/ 
