@@ -1,0 +1,36 @@
+---
+layout: newpost
+title: Riak Recap for November 11 - 13
+categories:
+---
+
+Evening, Morning, Afternoon to All -
+
+For today's Recap: code, blogs, and more.
+
+Enjoy.
+
+"Mark":twitter.com/pharkmillups
+
+*Riak Recap for November 11 - 13*
+
+# ldapjs-riak v.0.1.15 is available.
+-> Code and details "here":http://twitter.com/#!/nodenpm/statuses/136125117460774912
+# Jon Brisbin released another great piece of code. This one aims to make it easier to use riak_core with Misultin to power web apps. (It should go without saying but: thanks, Jon!)
+-> Code and details "here":http://twitter.com/#!/j_brisbin/statuses/136141175466893312
+# Basho and Riak will have a huge presence at this week's QCon Event in San Francisco.
+-> Details "here":http://basho.com/blog/technical/2011/11/14/Basho-and-Riak-Taking-Over-QConSF/
+(Also, if you're planning to attend and want to chat, drop me an email.)
+# Jonathan Siegel wrote a short blog post about how to make the Riak Java Client create keys for you.
+-> "Read here":http://www.jsiegel.com/2011/11/workaround-riak-create-object-without.html
+(It should be noted that "there is an existing pull request to add this functionality":https://github.com/basho/riak-java-client/pull/24 and that Russell and his crew are working on integrating it.)
+
+*Bugs/Issues*
+
+# New
+-> 1282: "Riak crashes without warning":https://issues.basho.com/show_bug.cgi?id=1282
+-> 1281: "Not all Errors from a MR Get Returned Using PB or HTTP":https://issues.basho.com/show_bug.cgi?id=1281
+-> 1278: "Validation of misused quotes on setting bucket properties would benefit":https://issues.basho.com/show_bug.cgi?id=1278
+-> 1277: "Erlang Riak Client Throws Exceptions":https://issues.basho.com/show_bug.cgi?id=1277
+# Resolved/Patched
+-> 1283: "erlang_js uses non-thread-safe driver function":https://issues.basho.com/show_bug.cgi?id=1283
