@@ -1,0 +1,32 @@
+---
+layout: newpost
+title: Riak Recap for November 14 - 15
+categories:
+---
+
+Afternoon, Evening, Morning - 
+
+Today's Recap comes to you live from QConSF. Drop me a line if you're here and want to grab a beer.
+
+Enjoy.  
+
+"Mark":twitter.com/pharkmillups
+
+*Riak Recap for November 14 - 15*
+
+# We have a new feature request (courtesy of @capotej) up on features.basho.com
+-> "Read, vote, and comment here":http://features.basho.com/entries/20669561-ability-to-request-multiple-keys-in-a-single-request 
+# Sean Cribbs' "Resources, For Real This Time (with Webmachine)" from RubyConfUruguay is now online and viewable.
+-> "Watch here":http://www.eventials.com/rubyconfuy/recorded/M2UzZTJkMzY2MzdiNTg2NTUxNWM1MzI3NWY1YjRhMzYjIzQ0NQ_3D_3D 
+# J.D. Hollis has been working on his fork of the Riak Clojure Bindings that Mark McGranaghan released last year, and it's coming along quite nicely.  
+-> "Code here":https://github.com/jdhollis/clj-riak/tree/basic-riak-java-client-support 
+# riakalchemy 0.1a3 was just released.  
+-> "Code here on PyPI":http://pypi.python.org/pypi/riakalchemy/0.1a3 
+# Andy Gross' "Riak Use Cases: Dissection the Solutions to Hard Problems" slides from his talk earlier today at QConSF are now online. 
+-> "Slides here":http://dl.dropbox.com/u/13149/AndyGross-QConSF2011-RiakUseCases.pdf
+
+*Bugs/Issues*
+# New
+-> 1286: "keylisting large buckets causes coordinating node to exit":https://issues.basho.com/show_bug.cgi?id=1286
+# Closed/Resolved/Patched
+-> 1280: "Ubuntu 11.10 OpenSSL problem building from source":https://issues.basho.com/show_bug.cgi?id=1280 
