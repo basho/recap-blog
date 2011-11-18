@@ -1,0 +1,29 @@
+---
+layout: newpost
+title: Riak Recap for November 16 - 17
+categories:
+---
+
+Morning, Afternoon, Evening to All -
+
+For today's Recap: contribs to the Python client, a new Clojure lib,
+slides, and more.
+
+Enjoy and have a great weekend.
+
+"Mark":twitter.com/pharkmillups
+
+*Riak Recap for November 16 - 17*
+
+
+# Greg Stein continues to do great work on the Riak Python Client.
+(Thanks, Greg!)
+-> "His latest contributions are here":https://github.com/basho/riak-python-client/commits/master
+# The Riak and Clojure activity is picking up quite nicely... Michael Klishin is working on some idiomatic Clojure code that wraps the Java Client.
+-> "Repo here on GitHub":https://github.com/michaelklishin/welle 
+# Mark Cavage tagged version 0.1.17 of ldapjs-riak.
+-> "Latest code here":https://github.com/mcavage/node-ldapjs-riak
+# We released the video and photos from the Riak 1.0 Release Party that happened last week.
+-> "Here on the Basho Blog":http://basho.com/blog/technical/2011/11/17/Riak-One-0-Release-Video-and-Photos/
+# Bob Ippolito's "Eventually Consistent HTTP with Statebox and Riak" slides from QConSF are online.
+-> "PDF here":http://qconsf.com/dl/qcon-sanfran-2011/slides/BobIppolito_EventuallyConsistentHTTPServicesWithStatebox.pdf
