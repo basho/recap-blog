@@ -1,0 +1,38 @@
+--- 
+title: Riak Recap for November 18 - 20
+layout: newpost
+summary:
+---
+
+_Posted on November 21, 2011_
+
+Evening, Morning, Afternoon to All
+
+For today's Recap: new code, contributions to the Python client, and more.
+
+Enjoy.
+
+"Mark":twitter.com/pharkmillups
+
+*Riak Recap for November 18 - 20*
+
+# The Admaze.ly team open-sourced "resourceful-riak", a Riak backend for the Resourceful framework.
+-> "Code here":https://github.com/admazely/resourceful-riak 
+# We merged some more contributions to the Python client from Greg Stein and Soren Hansen. Code here:
+-> "Commit":https://github.com/basho/riak-python-client/commit/5898f8e66dc4c67b3480324f9fd8aa8e2695cf87 
+-> "Commit":https://github.com/basho/riak-python-client/commit/bd74b800c2717601396322acd58b83cbadeed2ad
+-> "Commit":https://github.com/basho/riak-python-client/commit/e9b9412c7a0977c1afb62c00bb3c2a69530adeab
+# Kyle Kingsbury released version 0.1.8 of his Ruby ORM "Risky".
+-> "Code here":https://github.com/aphyr/risky 
+# SenseORM, a Node.js ORM with support for various datbases, is now supporting Riak.
+-> "Code here":https://twitter.com/#!/nodejscommunity/status/138135651693502464
+# Kent Langley wrote a blog post about the experience he and his team have had working with Riak to date.
+-> "Read here":http://www.productionscale.com/home/2011/11/20/building-an-application-upon-riak-part-1.html
+
+*Bugs/Issues*
+
+# New
+-> 1290 - "Fedora 16+ requires UID/GID to be more than 1000":https://issues.basho.com/show_bug.cgi?id=1290
+# Closed/Resolved/Patched
+-> 1285 - "Java client default PB port is wrong":https://issues.basho.com/show_bug.cgi?id=1285
+-> 1288 - "Java client does not correctly set character type on the pb message":https://issues.basho.com/show_bug.cgi?id=1288
