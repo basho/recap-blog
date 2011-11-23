@@ -1,0 +1,35 @@
+--- 
+title: Riak Recap for November 21 - 22
+layout: newpost
+summary:
+---
+
+_Posted on November 23, 2011_
+
+Afternoon, Evening, Morning to All -
+
+Short Recap for today: blog post, some new code, and a dog.
+
+Enjoy, and Happy Thanksgiving to all who celebrate it.
+
+"Mark":twitter.com/pharkmillups
+
+*Riak Recap for November 21 - 22*
+# Kurtis Rainbolt-Greene is working on a Ruby Web Framework called "Shogun", and he's making Riak a first-class database. (Thanks, Kurtis!)
+-> "Code here on GitHub":https://github.com/krainboltgreene/shogun  
+# Version 0.1.20 of ldapjs-riak is out.
+->  "Code here":http://search.npmjs.org/#/ldapjs-riak
+# Gordon Tillman wrote a blog with some sample code that shows how you can use 2i and MapReduce to query sensor data (based on a use case that was discussed on the list). (Thanks, Gordon!)
+-> "Read here":http://www.gordontillman.info/computers/41-web-application-development/101-riak-secondary-indexes-sample
+# Eric Stevens submitted a sizable pull request against the PHP client that adds all sorts of capabilities. This is an extensive chunk of code and could use some review/comments from interested parties. (Thanks, Eric!)
+-> "Code here":https://github.com/basho/riak-php-client/pull/17 
+# John Leach pointed out (in #riak) that a Secondary Indexes blog post from a few months back could use some augmenting. (The precise suggestion was that we should include a link to the complete, current API docs.) We happily added it.
+-> "This is the updated post":http://basho.com/blog/technical/2011/09/14/Secondary-Indexes-in-Riak 
+-> More importantly, he wanted it known that "his dog, Lily":http://johnleach.co.uk/photography/random/DSC01996.JPG, played a large role in spotting this shortcoming.
+
+*Bugs/Issues*
+# New/Reopened
+-> 1292: "Corrupted hint file prevents loading all keys in linked data file":https://issues.basho.com/show_bug.cgi?id=1292
+-> 1160: "Bitcask fails to merge on corrupt file":https://issues.basho.com/show_bug.cgi?id=1160
+# Closed/Resolved/Patched
+-> 1291: "Incorrect match of erlang:decode_packet return value in mochiweb":https://issues.basho.com/show_bug.cgi?id=1291 
