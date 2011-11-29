@@ -1,0 +1,38 @@
+--- 
+title: Riak Recap for November 23 - 27
+layout: newpost
+summary:
+---
+
+_Posted on November 28, 2011_
+
+Afternoon, Evening, Morning to All -
+
+Here's a Recap to kick off the week: new codez, meetups, PDFs, and more.
+
+Enjoy.
+
+"Mark":twitter.com/pharkmillups
+
+*Riak Recap for November 23 - 27*
+
+# Version 0.0.2 of resourceful-riak is out.
+-> "Code and details here":https://twitter.com/#!/nodenpm/status/141165957975523328
+# Basho CTO Justin Sheehy will be speaking about Riak at the Twin Cities NoSQL Meetup next week in Richfield, MN.
+-> "Details and registration here":http://twincitiesnosqlmeetup.eventbrite.com/
+# Jeremy Walworth released a Password Vault that uses Riak as the backing store.
+-> "Code here on GitHub":https://github.com/jeremyfsu/Riak-Backed-Password-Vault
+# Basho Team Members Steve Vinoski and Justin Sheehy collaborated with Kresten Krab Thorup and Debasish Ghosh on a short paper called "Programming language impact on the development of distributed system".
+-> "Definitely worth the read":http://www.springerlink.com/content/w071241962270242/fulltext.pdf
+# We are doing office hours this Thursday at BashoWest in San Francisco.
+-> "Details here":http://www.meetup.com/San-Francisco-Riak-Meetup/events/42645002/ 
+# Q --- Are people running riak natively on osx (for development) or running on a vm that matches production?  (from kenperkins via #riak)
+  A --- Anyone? (We had a similar thread on the list several months back about this but I figured it couldn't hurt to open it up to more discussion.)
+
+*Bugs/Issues*
+
+# New/Reopened
+-> None :)
+# Closed/Patched
+-> 1293: "webmachine_router:remove_resource/1 function_clause error when using predicate funs":https://issues.basho.com/show_bug.cgi?id=1293
+-> 1294: "Riak Java Client pb config builder copy from bug":https://issues.basho.com/show_bug.cgi?id=1294
