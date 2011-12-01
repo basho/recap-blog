@@ -1,0 +1,45 @@
+--- 
+title: Riak Recap for November 28 - 29 
+layout: newpost
+summary:
+---
+
+_Posted on November 30, 2011_
+
+Afternoon, Evening, Morning to All -
+
+Huge Recap for today: new code, presentations, blogs, and more.
+
+Enjoy.
+
+"Mark":twitter.com/pharkmillups
+
+*Riak Recap for November 28 - 30*
+
+
+# We released some new code that makes it simple for Riak to talk to Hadoop. Russell Brown wrote a great blog post all about it. (**First three people to get the code working and write [to the list | a blog post] about it will get some Riak swag from me.**)
+-> "Post (and code) here":http://basho.com/blog/technical/2011/11/29/Riak-and-Hadoop/ 
+# Basho and Riak are going to have a significant presence in Australia over the next few weeks.
+-> OJ Reeves, one of the author's of Riak's .NET Client, will be giving a talk at Erlang Factory Lite in Brisbin called "Riak: why should you care?":http://www.erlang-factory.com/conference/Brisbane2011/speakers/OliverReeves
+-> Basho Architect Steve Vinoski is also talking at Erlang Lite. "His talk will be all about YAWS":http://www.erlang-factory.com/conference/Brisbane2011/speakers/SteveVinoski.
+-> Steve will also be talking at YOW (as part of the track that OJ is hosting) all about "building distributed systems with Riak Core":http://yowaustralia.com.au/YOW2011/general/details.html?speakerId=2287. (This talk might literally be happening right now). 
+# ErlangDC, which is happening this weekend in Washington, DC, is sold out. However, if you were able to attend you can expect to see the following talks and faces from the Basho Crew.
+-> Ryan Zezeski is giving a talk called "From Java to Erlang":http://erlangdc.com/speakers/ryan_zezeski/. (Zezeski is an amazing speaker. He is not to be missed.)
+-> Rusty Klophaus' talk is called "Everybody Polyglot":http://erlangdc.com/speakers/rusty_klophaus/. 
+# Resourceful-Riak just hit 0.0.5.
+-> "Code here":http://search.npmjs.org/#/resourceful-riak
+# Basho Developer Reid Draper released chunk of code called "knockbox", an eventual consistency for toolbox for Clojure (inspired by the work the Mochi team with Statebox.)
+-> "Code here":https://github.com/reiddraper/knockbox 
+# We have a new feature request up on features.basho.com.
+-> "Read, comment and vote here":http://features.basho.com/entries/20721603-efficiently-count-keys-in-a-bucket.
+# For anyone in or around Stockholm tomorrow, there is still time to be part of the NoSQL Road Show .
+-> "Details and registration here":https://secure.trifork.com/nosql-stockholm-2011/registration/
+# Francisco Treacy has a new project called "riak-pool." Ths aims to provide some connection pooling when used with riakjs, the Riak's node client.
+-> "Code here":https://github.com/frank06/riak-pool 
+
+*Bugs/Issues*
+
+# New
+-> 1296: "Java client should fail fast if user attempts to execute invalid m/r job":https://issues.basho.com/show_bug.cgi?id=1296
+# Closed/Resolved/Patched
+-> 1295: "Truncation after POST ignores Offset":https://issues.basho.com/show_bug.cgi?id=1295
