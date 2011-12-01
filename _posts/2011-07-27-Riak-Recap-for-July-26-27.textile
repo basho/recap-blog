@@ -23,7 +23,7 @@ Enjoy.
 -> "Comment thread on Hacker News with a lot of great discussion and Q & A":http://news.ycombinator.com/item?id=2807968
 # Denish Patel, with the help of Brian Clapper, wrote a great blog post about how easy it is to configure and use Circonus to monitor your Riak cluster. Thanks, Denish and Brian!
 -> "Read here":http://slowquery.blogspot.com/2011/07/monitoring-riak-using-circonus.html
-# Google wrote a quick blog post about their recently-released k/v storage engine LevelDB. Diligent followers of Riak will recall that we recently added support for LevelDB to Riak. This post has someextensive benchmarks and also gives a shout out to...Riak :)
+# Google wrote a quick blog post about their recently-released k/v storage engine LevelDB. Diligent followers of Riak will recall that we recently added support for LevelDB to Riak. This post has some extensive benchmarks and also gives a shout out to...Riak :)
 ->" Read here":http://google-opensource.blogspot.com/2011/07/leveldb-fast-persistent-key-value-store.html
 # Russell Brown added some more details and graphs to the Java Client benchmarking page on the wiki.
 -> "Read up here":http://wiki.basho.com/Java-Client-Benchmark.html
