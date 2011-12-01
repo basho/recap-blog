@@ -20,7 +20,7 @@ Enjoy.
 # We released some new code that makes it simple for Riak to talk to Hadoop. Russell Brown wrote a great blog post all about it. (**First three people to get the code working and write [to the list | a blog post] about it will get some Riak swag from me.**)
 -> "Post (and code) here":http://basho.com/blog/technical/2011/11/29/Riak-and-Hadoop/ 
 # Basho and Riak are going to have a significant presence in Australia over the next few weeks.
--> OJ Reeves, one of the author's of Riak's .NET Client, will be giving a talk at Erlang Factory Lite in Brisbin called "Riak: why should you care?":http://www.erlang-factory.com/conference/Brisbane2011/speakers/OliverReeves
+-> OJ Reeves, one of the author's of Riak's .NET Client, will be giving a talk at Erlang Factory Lite in Brisbane called "Riak: why should you care?":http://www.erlang-factory.com/conference/Brisbane2011/speakers/OliverReeves
 -> Basho Architect Steve Vinoski is also talking at Erlang Lite. "His talk will be all about YAWS":http://www.erlang-factory.com/conference/Brisbane2011/speakers/SteveVinoski.
 -> Steve will also be talking at YOW (as part of the track that OJ is hosting) all about "building distributed systems with Riak Core":http://yowaustralia.com.au/YOW2011/general/details.html?speakerId=2287. (This talk might literally be happening right now). 
 # ErlangDC, which is happening this weekend in Washington, DC, is sold out. However, if you were able to attend you can expect to see the following talks and faces from the Basho Crew.
