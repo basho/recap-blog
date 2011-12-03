@@ -1,0 +1,36 @@
+--- 
+title: Riak Recap for November 30 - December 1
+layout: newpost
+summary:
+---
+
+_Posted on December 2, 2011_
+
+
+Afternoon, Evening, Morning to All -
+
+Here's a short Recap to take you into the weekend.
+
+Enjoy.
+
+*Riak Recap for November 30 - December 1*
+
+"Mark":https://twitter.com/pharkmillups
+
+# The video of Kresten Krab Thorup's "Riak on Drugs" talk is now online.
+-> Go grab a Carlsberg and "watch this at least once":http://www.infoq.com/presentations/Case-Study-Riak-on-Drugs.
+# More viewing material for the weekend: the video of Scott Lystig Fritchie's "DTrace and Erlang: a new beginning" talk from the Stockholm Erlang User Conference is online.
+-> "Watch here":http://www.erlang-factory.com/conference/ErlangUserConference2011/speakers/ScottLystigFritchie
+# Another reminder about the Riak talk that Justin Sheehy is giving at the Twin Cities NoSQL Meetup this coming Monday...
+-> "Details and registration here":http://twincitiesnosqlmeetup.eventbrite.com/
+# A few jobs to pass along (ripped from Hacker News) :
+-> "Yammer looking for Engineers in San Francisco":http://news.ycombinator.com/item?id=3301555
+-> "Skylin.es looking for interns in Amsterdam":http://news.ycombinator.com/item?id=3300572
+-> "Formspring looking for Engineers in San Francisco":http://news.ycombinator.com/item?id=3301024
+
+*Bugs/Issues*
+
+# New
+-> 1298: "Legacy gossip / force-remove troubles":https://issues.basho.com/show_bug.cgi?id=1298 
+# Resolved/Patched/Closed
+-> "1020: Objects with siblings do not generate ETag":https://issues.basho.com/show_bug.cgi?id=1020
