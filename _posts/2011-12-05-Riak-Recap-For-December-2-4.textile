@@ -1,0 +1,36 @@
+--- 
+title: Riak Recap for December 2 - 4
+layout: newpost
+summary:
+---
+
+_Posted on December 5, 2011_
+
+Afternoon, Evening, Morning to All -
+
+For today's Recap: new code, blog posts, and more.
+
+Enjoy.
+
+"Mark":twitter.com/pharkmillups
+
+*Riak Recap for December 2 - 4*
+
+# Jon Dickinson wrote a short blog post with his impressions of the NoSQL Roadshow event that happened in London last week.
+-> "Read here":http://www.denormalised.com/roundup/an_afternoon_with_riak_2011_11_29.html
+# David O'Dell posted some code on his blog that to create a compressed back up of a riak cluster.
+-> "Read here":http://dodizzle.com/riak-cluster-backup-script-with-compression-r
+# Basho Hacker Reid Draper added some new bits to his knockbox code.
+-> "Details here":https://twitter.com/#!/reiddraper/statuses/143459415687831552
+# The team at CircuitHub just released some new Riak-themed code.
+-> "MassiveGit: Git Object Model on top of Riak":https://github.com/circuithub/massive-git
+-> "Riak-entity: a tiny library on top of riak-js to work with Riak in OO style":https://github.com/circuithub/riak-entity 
+# superissac started working on a node.js port of bitcask.
+-> "Short blog post (in Chinese) with links to code":http://superisaac.iteye.com/blog/1291313
+
+*Bugs/Issues*
+
+# New
+-> 0 :)
+# Resolved/Patched/Closed
+-> 1299: "Riak Java Client PB object imprecise when converting last_modified date":https://issues.basho.com/show_bug.cgi?id=1299 
