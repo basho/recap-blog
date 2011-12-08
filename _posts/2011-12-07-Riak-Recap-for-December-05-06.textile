@@ -1,0 +1,44 @@
+--- 
+title: Riak Recap for December 5 - 6
+layout: newpost
+summary:
+---
+
+_Posted on December 07, 2011_
+
+Afternoon, Evening, Morning to All -
+
+For today's Recap: new code, slides, blogs, and more.
+
+Enjoy.
+
+"Mark":https://twitter.com/pharkmillups
+
+*Riak Recap for December 5 - 6*
+
+# We merged an addition to Riak Function Contrib from Francisco Treacy:
+-> "Code here":http://contrib.basho.com/slenderize.html
+# Matt Aslett of 451Group wrote a short but interesting post about the global distribution of people on LinkedIn with Riak (and
+Cassandra) skills.
+-> "Read here":http://blogs.the451group.com/information_management/2011/12/06/the-geographic-distribution-of-nosql-skills-apache-cassandra-and-riak/
+-> Also, if you're not part of the Riak LinkedIn Group, "now is the time to join":http://www.linkedin.com/groups/Riak-2913983?gid=2913983&trk=hb_side_g.
+# Basho COO Tony Falco posted a slide deck called "Don't Use My Database."
+-> "Slides here":http://www.slideshare.net/BashoTechnologies/basho-and-riak-at-goto-stockholm-dont-use-my-database 
+# Two new feature requests:
+-> "Use last-accessed for expiration of keys":http://features.basho.com/entries/20749598-use-last-accessed-for-expiration-of-keys
+-> "Automatically determine Bitcask merge_window":http://features.basho.com/entries/20728131-automatically-determine-bitcask-merge-window 
+# The riakalchemy code that Soren Hansen and a few others are working on just got an update.
+-> "Latest here":http://pypi.python.org/pypi/riakalchemy/0.1a5 
+
+*Jobs* 
+
+# Apollo Group is hiring people to solve hard problems with Riak. (Anyone interested can email me directly and I'll put you in touch with the right people at Apollo.)
+-> "Senior Java Developer":http://jobs-apollo.com/silicon-valley/information-technology/jobid1771955-senior-java-developer-jobs
+-> "Senior Developer":http://jobs-apollo.com/phoenix/information-technology/jobid1989967-senior-software-engineer-jobs
+# The team at Voxer is looking for people to work with Riak, Redis, and Node.js.
+-> "Details here":https://twitter.com/#!/mattek/statuses/144161732301029376 
+
+*Bugs/Issues*
+
+# New
+-> 1300: "Insufficient Regex in riak-admin":https://issues.basho.com/show_bug.cgi?id=1300
