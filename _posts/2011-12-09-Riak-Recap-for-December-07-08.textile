@@ -1,0 +1,43 @@
+--- 
+title: Riak Recap for December 7 - 8
+layout: newpost
+summary:
+---
+
+_Posted on December 09, 2011_
+
+Evening, Morning, Afternoon to All -
+
+For todays' Recap: new code, blogs, docs, and more.
+
+Enjoy and have a great weekend.
+
+"Mark":twitter.com/pharkmillups
+
+*Riak Recap for December 7 - 8*
+
+
+# Some new and updated documentation to pass along:
+-> Basho DA Justin Shoffstall added a page to the wiki with some info
+about "File System Tuning":http://wiki.basho.com/File-System-Tuning.html.
+-> Elias Levy updated the "MR/Search Docs":http://bit.ly/rp8c4v
+# The riak-entity code that the team at Circuit Hub is working on just hit 0.1.4
+-> "Latest here":http://search.npmjs.org/#/riak-entity
+# Mathias Meyer wrote a great blog post about Consistent Hashing.
+-> Brew yourself a cup of coffee and "go read this":http://www.paperplanes.de/2011/12/9/the-magic-of-consistent-hashing.html
+# tddium, a hosted testing environment for Ruby Apps, launched todaywith support for Riak.
+-> Blog post about it "here":http://blog.tddium.com/2011/12/07/tddium-launches-with-riak-and-spinach-support/
+-> If anyone is interested in how well this integration works, I would ping "Chris Meikeljohn":http://twitter.com/cmeik. He's making use of it already and apparently it's quite nice.
+# Another video of Kresten Krab Thorup talking about Riak on Drugs has surfaced. This one was recorded at Strange Loop.
+-> "Watch here":http://www.infoq.com/presentations/Bringing-Riak-to-the-Mobile-Platform 
+# Sean Cribbs is handing out Basho/Riak gear.
+-> "Details here":http://twitter.com/#!/seancribbs/status/145254629972779008
+# For anyone in the San Francisco area -  we started up a new meetup called "BashoChats" that is aimed a discussing distributed systems and large-scale computing trends.
+-> First meetup is happening this Wednesday. "Details here":http://www.meetup.com/BashoChats/events/43849732
+
+*Bugs/Issues*
+
+# New
+-> 1302: Performance: riak_search_op_utils:it_op_inner/3 uses too many messages. "Details Here":https://issues.basho.com/show_bug.cgi?id=1302 
+# Closed/Patched/Resolved
+-> 775: Start-up script does not recreate /var/run/riak. "Details Here":https://issues.basho.com/show_bug.cgi?id=775 (h/t to David Hull for fixing this!)
