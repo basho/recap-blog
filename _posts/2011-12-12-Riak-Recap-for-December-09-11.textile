@@ -1,0 +1,37 @@
+--- 
+title: Riak Recap for December 9 - 11
+layout: newpost
+summary:
+---
+
+_Posted on December 12, 2011_
+
+Evening, Morning, Afternoon to All -
+
+For today's Recap: blogs, talks, contributions, and more.
+
+Enjoy.
+
+"Mark":twitter.com/pharkmillups
+
+*Riak Recap for December 9 - 11*
+
+# Basho DA Sean Cribbs will be in NYC tomorrow and might be available to talk Riak if anyone is interested.
+-> "Details here":http://twitter.com/#!/seancribbs/statuses/146296580755038209
+# Basho Chief Architect Andy Gross is speaking at ScaleConf in this January in South Africa. Basho is also sponsoring the event. You should attend.
+-> "Details here":http://scaleconf.org/
+# We merged a few pull requests last week. Here's the summary:
+-> https://github.com/basho/riak/pull/89 (Thanks, Carlos Brando)
+-> https://github.com/basho/riak/pull/22 (Thanks, Tuncer)
+-> https://github.com/basho/riak-erlang-client/pull/35 (Thanks, Łukasz Milewski)
+-> https://github.com/basho/merge_index/pull/19 (Thanks, Jesse Newland)
+# Basho Developer Reid Draper wrote a great blog post about Knockbox, a chunk of Clojure code he's working on that makes it easier to work with conflict-resolution in eventually-consistent databases.
+-> "Read here":http://www.reiddraper.com/introducing-knockbox 
+
+*Bugs/Issues*
+
+# New
+-> 1304: "Search indexes have no anti-entropy":https://issues.basho.com/show_bug.cgi?id=1304
+-> 1303: "Search timeout casues to_mochijson2 JSON conversion error":https://issues.basho.com/show_bug.cgi?id=1303"
+# Closed/Patched/Existing
+-> 1281: "Not all Errors from a MR Get Returned Using PB or HTTP":https://issues.basho.com/show_bug.cgi?id=1281
