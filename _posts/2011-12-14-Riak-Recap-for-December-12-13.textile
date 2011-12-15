@@ -1,0 +1,32 @@
+--- 
+title: Riak Recap for December 12 - 13
+layout: newpost
+summary:
+---
+
+_Posted on December 14, 2011_
+
+Evening, Morning, Afternoon to All -
+
+For today's' Recap: more contributions, conferences, and new code.
+
+Enjoy.
+
+"Mark":twitter.com/pharkmillups
+
+*Riak Recap for December 12 - 13*
+
+# A few more contributions to Riak that (I neglected to pass along when we merged them):
+-> "https://github.com/basho/riak/pull/17":https://github.com/basho/riak/pull/17 (h/t to Tuncer)
+-> "https://github.com/basho/riak/pull/34":https://github.com/basho/riak/pull/34 (h/t to Tuncer and Pablo Platt)
+# Basho is sponsoring ScaleConf in January. "Here's some more information":http://memeburn.com/2011/12/scaleconf-to-address-the-future-of-online-sites-and-services/ on why you should be there.
+#  Version 0.3.0 of riik was just released.
+-> Latest code "here":https://twitter.com/#!/rubygems/status/146821103032082432
+
+*Bugs*
+
+# New
+-> 1305: "riak_sysmon busy_dist_port event handling misconfigured by default":https://issues.basho.com/show_bug.cgi?id=130
+-> 1306: "get_fsm crashes when riak_object value is not a binary":https://issues.basho.com/show_bug.cgi?id=1306
+
+
