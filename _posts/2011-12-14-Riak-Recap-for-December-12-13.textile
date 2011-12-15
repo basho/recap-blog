@@ -22,6 +22,9 @@ Enjoy.
 # Basho is sponsoring ScaleConf in January. "Here's some more information":http://memeburn.com/2011/12/scaleconf-to-address-the-future-of-online-sites-and-services/ on why you should be there.
 #  Version 0.3.0 of riik was just released.
 -> Latest code "here":https://twitter.com/#!/rubygems/status/146821103032082432
+# Mathias Meyer wrote another great blog post about Riak. This one is on List Keys. 
+-> "Read here":http://www.paperplanes.de/2011/12/13/list-all-of-the-riak-keys.html 
+
 
 *Bugs*
 
