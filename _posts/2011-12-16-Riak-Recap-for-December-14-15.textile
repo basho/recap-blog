@@ -1,0 +1,38 @@
+--- 
+title: Riak Recap for December 14 - 15
+layout: newpost
+summary:
+---
+
+_Posted on December 16, 2011_
+
+Afternoon, Evening, Morning to All -
+
+For today's Recap: new code, blog posts, slides, and more.
+
+Also, I added a new section for contributions towards the bottom, so make sure to check that out.
+
+Enjoy, and have a great weekend.
+
+"Mark":twitter.com/pharkmillups
+
+*Riak Recap for December 14 - 15*
+
+# Version 1.0.0.M4 of the Riak GORM plugin is now available. (h/t to Jon Brisbin for making this happen!)
+-> "Details and code here":http://twitter.com/grailsplugins/statuses/147341274427559936
+# Mathias Meyer wrote another great blog post about Riak. This one is on storing timelines.
+-> "Read here":http://www.paperplanes.de/2011/12/15/storing-timelines-in-riak.html
+# Andy Gross posted some code and slides from the talk he gave this week on Erlang and DTrace. (Say goodbye to your weekend.)
+-> "Slides":http://argv0.com/talks/dtrace-erlang/
+-> "Example D scripts for Erlang, Riak-1.0.2+DTrace binaries for OSX, and Erlang template for Instruments.app":https://github.com/argv0/dtrace-erlang-bashochat-12142011
+# For anyone thinking about going to Erlang Factory this March in San Francisco, Basho DAs Dan Reverri and Ian Plosker will be giving a three day class all about Riak.
+-> "You'll want to go to this":http://www.erlang-factory.com/conference/SFBay2012/university/RiakTraining
+# We fixed up some inaccuracies with the PBC API docs on the wiki.
+-> "Here's the commit for anyone who is interested":https://github.com/basho/riak_wiki/pull/226
+# Shuhao Wu's RiakKit project made it onto PyPI
+-> "Code here":http://pypi.python.org/pypi/riakkit/0.1a
+
+*Contributions*
+
+# Tryn Mirell "fixed some CSS and cleaned up some other loose ends":https://github.com/basho/riak_wiki/pull/229 on the Wiki
+# Jack Moffitt "made a small enhancement":https://github.com/basho/riak-erlang-http-client/pull/5 to the Erlang HTTP CLient
