@@ -1,0 +1,35 @@
+--- 
+title: Riak Recap for December 16 - 20
+layout: newpost
+summary:
+---
+
+_Posted on December 21, 2011_
+
+
+Afternoon, Evening, Morning to All -
+
+Short Recap for the last few days.
+
+Enjoy.
+
+"Mark":twitter.com/pharkmillups
+
+*Riak Recap for December 16 - 20*
+
+# Basho is hiring a Community Manager in either Boston or New York City. If this is you, get in touch with me.
+-> "Details here":http://basho.com/careers/community-manager/
+# We posted the videos from the first BashoChats meetup on the Basho Blog. This one features Andy Gross talking about DTrace and Erlang (with some Riak sprinkled in) and Nathan Marz talking about Storm.
+-> "Watch here":http://basho.com/blog/technical/2011/12/20/Basho-Chats-001-Talk-Videos
+# Anyone out there based in South Africa? If so, get in touch with me.
+
+*Contributions*
+-> Brett Hoerner "made a small fix":https://github.com/basho/riak-java-client/pull/85 to the Java Client
+
+*Bugs*
+
+# New
+-> 1307: "Ownership Handoff Stall":https://issues.basho.com/show_bug.cgi?id=1307
+-> 1308: "vnode_index_* stats are not updated":https://issues.basho.com/show_bug.cgi?id=1308 (we are reviewing a
+patch for this as we speak)
+-> 1309: "Cluster members that drop packets can DoS riak_core vnodes":https://issues.basho.com/show_bug.cgi?id=1309
