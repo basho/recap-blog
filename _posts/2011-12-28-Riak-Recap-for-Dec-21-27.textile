@@ -1,0 +1,39 @@
+--- 
+title: Riak Recap for December 21 - 27
+layout: newpost
+summary:
+---
+
+_Posted on December 28, 2011_
+
+Evening, Morning, Afternoon to All
+
+Apologies for the sporadic Recaps over the past week or so.
+
+For today: new code, videos, blog posts, and more.
+
+Enjoy.
+
+"Mark":twitter.com/pharkmillups
+
+*Riak Recap for December 21 - 27*
+
+# 2011 was a huge year for Riak and Basho, so we wrote a blog post about it.
+-> "Read here":http://basho.com/blog/technical/2011/12/28/Year-In-Review/
+# An interview with Steve Vinoski from YOW! was posted online a few days back.
+-> "Watch here":http://channel9.msdn.com/Blogs/Charles/YOW-2011-Steve-Vinoski-Riak-Core-Erlang-and-Frisbee-Freestyle
+# Andy Gross and I did an interview with InfoQ all about Riak use cases and best practices.
+-> "Read here":http://www.infoq.com/news/2011/12/andy-gross-riak-database 
+# ldapjs-riak just hit version 0.2.1.
+-> "Latest here":https://twitter.com/#!/nodenpm/status/151758958946824192 
+# Riakkit just version 0.2.0 yesterday.
+-> "Latest code here":https://github.com/ultimatebuster/riakkit 
+
+*Bugs*
+
+# New
+-> 1311: "riak_core_status:ring_status() uses too-small timeout":https://issues.basho.com/show_bug.cgi?id=1311
+-> 1313: "Riak Core worker pool related crash":https://issues.basho.com/show_bug.cgi?id=1313
+# Fixed/Patched/Resolved
+-> 1312 - "1.0.3rc1 ubuntu package will not start riak":https://issues.basho.com/show_bug.cgi?id=1312
+-> 1308 - "vnode_index_* stats are not updated":https://issues.basho.com/show_bug.cgi?id=1308
