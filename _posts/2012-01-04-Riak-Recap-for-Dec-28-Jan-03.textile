@@ -1,0 +1,42 @@
+--- 
+title: Riak Recap for December 28 - January 3
+layout: newpost
+summary:
+---
+
+_Posted on January 04, 2012_
+
+Afternoon, Evening, Morning to All -
+
+Big Recap for today: lots of Q & A, new code, meetups, and more.
+
+Happy New Year.
+
+"Mark":twitter.com/pharkmillups
+
+*Riak Recap for December 28 - January 3*
+
+# A Riak script was added to Nmap
+-> "Announcement here":http://seclists.org/nmap-dev/2012/q1/11  
+-> "Script details here":http://nmap.org/nsedoc/scripts/riak-http-info.html
+# The next Bay Area Riak Meetup is happening on January 18th at the StackMob offices.
+-> "Details and registration here":http://www.meetup.com/San-Francisco-Riak-Meetup/events/46649472
+# John Leach wrote a great guide for running Riak on the BrightBox Cloud.
+-> "Read and build here":http://brightbox.com/blog/2012/01/04/riak-cluster/ 
+# For anyone who'll be in/around Copenhagen in early March: Basho, Trifork, and Erlang Solutions will be holding another NoSQL Roadshow on March 2nd.
+-> "Details here":http://nosqlroadshow.com/nosql-cph-2012/  
+# This isn't specific to Riak but very applicable and interesting nonetheless: a group at Berkeley is working on testing just how "eventual" eventual consistency actually is in Dynamo-style systems. You might be surprised...
+-> "Research and in-browser demo here":http://www.eecs.berkeley.edu/~pbailis/projects/pbs
+# 0.2.3 of ldapjs-riak is now available.
+-> "On GitHub here":https://github.com/mcavage/node-ldapjs-riak
+# The Riak Knowledge Base got a lot of updates over the past week. (For those of you who don't yet know about the KB, enjoy.)
+-> "Which file system available in Linux is preferred for Riak installations?":https://help.basho.com/entries/20821008-which-file-system-available-in-linux-is-preferred-for-riak-installations
+-> "How do I specify the location of the erlang crash dump file?":https://help.basho.com/entries/20048186-how-do-i-specify-the-location-of-the-erlang-crash-dump-file
+-> "How can I observe object sizes and sibling counts?":https://help.basho.com/entries/20560741-how-can-i-observe-object-sizes-and-sibling-counts
+-> "Are Riak generated keys unique within a bucket?":https://help.basho.com/entries/20811752-are-riak-generated-keys-unique-within-a-bucket
+->" Can a cluster contain nodes running different operating systems?":https://help.basho.com/entries/20799171-can-a-cluster-contain-nodes-running-different-operating-systems
+
+*Contributions*
+
+# Sean merged some code from David Czarnecki into Ripple.
+-> "Details here":https://github.com/seancribbs/ripple/pull/257 
