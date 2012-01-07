@@ -1,0 +1,36 @@
+--- 
+title: Riak Recap for January 4 - 5
+layout: newpost
+summary:
+---
+
+_Posted on January 06, 2012_
+
+Evening, Morning, Afternoon to All -
+
+For today's Recap: new code, blog posts, press releases, and more.
+
+Have a good weekend.
+
+"Mark":twitter.com/pharkmillups
+
+*Riak Recap for January 4 - 5*
+
+# Bip Thelin's "Zerolog" project is now using Riak instead of Mnesia.
+-> "Details here":https://twitter.com/#!/bipthelin/status/154890873744797697
+# Basho Developer Scott Lystig Fritchie wrote an extensive blog post about TCP Incast and how it can affect Erlang applications.
+-> "This is well worth the read":http://www.snookles.com/slf-blog/2012/01/05/tcp-incast-what-is-it/
+# Related to #2: Voxer is using Riak to do billions of operations per day. (You should all be using Voxer on your smart phones if you're not already. Go download it.)
+-> "Details here":http://www.marketwire.com/press-release/-1603652.htm 
+# UnityPark has some docs up on their site on how to use Riak with their game development environment.
+-> "Getting Started":http://developer.unitypark3d.com/ugamedb/manual/getting-started.html
+-> "Riak on VMware":http://developer.unitypark3d.com/ugamedb/manual/riak-on-vmware.html
+# The ever-active Kresten Krab Thorup released a Fractal B-Tree
+written in Erlang.
+-> "Code here":https://github.com/krestenkrab/fractal_btree 
+
+*Bugs*
+
+# New
+-> "1315: Crash: no next heap size found: 18446744071566993562, offset 0":https://issues.basho.com/show_bug.cgi?id=1315
+-> "1316: Riak extreme slowdowns on bad node reconnect":https://issues.basho.com/show_bug.cgi?id=1316
