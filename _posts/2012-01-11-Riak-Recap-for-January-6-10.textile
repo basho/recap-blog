@@ -23,7 +23,7 @@ Enjoy
 -> "Guide here":http://jeff.jke.net/2011/10/02/setting-nosql-cluster 
 # Voxer was written up in TechCrunch yesterday, and Riak got a nice mention. 
 -> "Read here":http://techcrunch.com/2012/01/10/popular-like-voxer/ 
-# I "made it known on Twitter":https://twitter.com/#!/pharkmillups/status/156795771746918400 yesterday that I would send a Riak t-shirt to anyone who got "Riak Control":github.com/basho/riak_control, the new Riak Admin UI (officially supported in the 1.1 release and built primarily by Jeff Massung and Johh Newman), up-and-running and sent me a screen shot. Here's what it looks like for anyone interested:
+# I "made it known on Twitter":https://twitter.com/#!/pharkmillups/status/156795771746918400 yesterday that I would send a Riak t-shirt to anyone who got "Riak Control":https://github.com/basho/riak_control, the new Riak Admin UI (officially supported in the 1.1 release and built primarily by Jeff Massung and Johh Newman), up-and-running and sent me a screen shot. Here's what it looks like for anyone interested:
 
 -> https://twitter.com/#!/jwthomp/status/156797254601162752s
 -> https://twitter.com/#!/ctshryock/status/156806365074034688
