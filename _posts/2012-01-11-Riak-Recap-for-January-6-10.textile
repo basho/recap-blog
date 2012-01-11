@@ -16,7 +16,7 @@ Enjoy
 
 
 # Q - How can I check which version of Riak I'm running?
-->  "Answer Here":http://serverfault.com/questions/348530/how-can-i-check-which-version-of-riak-i-am-running 
+->  "Answer Here":http://serverfault.com/questions/348530/how-can-i-check-which-version-of-riak-i-am-running Also, "here":http://lists.basho.com/pipermail/riak-users_lists.basho.com/2012-January/007148.html.
 # Steve Vinoski wrote a piece for the Jan/Feb issue of Internet Computing about Wriaki and Webmachine.
 -> "Details here":http://steve.vinoski.net/blog/2012/01/10/new-column-wriaki-2/
 # This was on the Mailing List already this month but I wanted to put it in the Recap as it's an incredibly valuable resource. Jeffrey Eliason wrote a *very* extensive piece all about setting up and running a Riak cluster. Take the time to read this if possible and shoot Jeff some feedback on it if you have the chance as I know he was looking for it. Thanks, Jeff!
