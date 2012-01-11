@@ -1,0 +1,47 @@
+--- 
+title: Riak Recap for January 6 - 10
+layout: newpost
+summary:
+---
+
+Morning, Afternoon, Evening to All -
+
+For today's Recap: Blog posts, t shirts, and more.
+
+Enjoy
+
+"Mark":twitter.com/pharkmillups
+
+*Riak Recap for January 6 - 10*
+
+
+# Q - How can I check which version of Riak I'm running?
+->  "Answer Here":http://serverfault.com/questions/348530/how-can-i-check-which-version-of-riak-i-am-running 
+# Steve Vinoski wrote a piece for the Jan/Feb issue of Internet Computing about Wriaki and Webmachine.
+-> "Details here":http://steve.vinoski.net/blog/2012/01/10/new-column-wriaki-2/
+# This was on the Mailing List already this month but I wanted to put it in the Recap as it's an incredibly valuable resource. Jeffrey Eliason wrote a *very* extensive piece all about setting up and running a Riak cluster. Take the time to read this if possible and shoot Jeff some feedback on it if you have the chance as I know he was looking for it. Thanks, Jeff!
+-> "Guide here":http://jeff.jke.net/2011/10/02/setting-nosql-cluster 
+# Voxer was written up in TechCrunch yesterday, and Riak got a nice mention. 
+-> "Read here":http://techcrunch.com/2012/01/10/popular-like-voxer/ 
+# I "made it known on Twitter":https://twitter.com/#!/pharkmillups/status/156795771746918400 yesterday that I would send a Riak t-shirt to anyone who got "Riak Control":github.com/basho/riak_control, the new Riak Admin UI (officially supported in the 1.1 release and built primarily by Jeff Massung and Johh Newman), up-and-running and sent me a screen shot. Here's what it looks like for anyone interested:
+
+-> https://twitter.com/#!/jwthomp/status/156797254601162752s
+-> https://twitter.com/#!/ctshryock/status/156806365074034688
+-> http://oi42.tinypic.com/70clkw.jpg
+-> https://twitter.com/#!/martyns/status/156847953837957120
+-> http://lockerz.com/s/173374960
+-> https://twitter.com/#!/berndahlers/status/156858979274854401
+-> https://twitter.com/#!/sbrandauer/status/156888614532427777/photo/1
+-> https://twitter.com/#!/dne/status/156882612072366080
+-> https://twitter.com/#!/mrtazz/status/156943594983399426
+-> https://img.skitch.com/20120110-ttpr91ph258pd8chb8urewgm2i.jpg
+
+_The offer still stands. I'm going to leave the window open until tomorrow at 9AM Pacific..._
+
+*Bugs*
+
+# New
+-> 1317: "Ownership handoff may stall and never complete":https://issues.basho.com/show_bug.cgi?id=1317
+-> 1318: "PR/PW can be violated during netsplit conditions":https://issues.basho.com/show_bug.cgi?id=1318
+-> 1319: "Reduce/eliminate errror log messages when node is shut down":https://issues.basho.com/show_bug.cgi?id=1319
+-> 1320: "Provide a way to configure location of Riak temp folder":https://issues.basho.com/show_bug.cgi?id=1320
