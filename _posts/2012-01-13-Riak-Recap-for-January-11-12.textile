@@ -1,0 +1,26 @@
+--- 
+title: Riak Recap for January 11 - 12
+layout: newpost
+summary:
+---
+
+Morning, Afternoon, Evening To All -
+
+For today's Recap: events, new code, videos, and more.
+
+Enjoy. Have a great weekend.
+
+"Mark":http://twitter.com/pharkmillups
+
+*Riak Recap for January 11 - 12*
+
+# GOTO Amsterdam is putting on an Open Event Space that will feature Kresten Krab Thorup talking about Riak. This is happening on January 26th.
+-> "Details here":https://secure.trifork.com/amsterdam-2012/freeevent/index.jsp?eventOID=3853
+# Shuhao Wu released 0.3.2a of his Riakkit project.
+-> "Latest code here":https://github.com/ultimatebuster/riakkit
+# Andy Gross was on a panel talking about Riak and NoSQL at the QCON SF event that happened back in November. The video is now online.
+-> "Grab some popcorn and watch here":http://www.infoq.com/presentations/Panel-NoSQL-Applications 
+# MadMimi.com is switching from MySQL to Riak. There's a quick write-up about it on their blog.
+-> "Read here":http://mim.io/0ca132
+# There's a question on StackOverflow about Ripple and Devise, picked up by Srdjan Pejic, that might be of interest to some of you.
+-> "Read here":http://stackoverflow.com/questions/7888009/ripple-with-devise/8813057#8813057
