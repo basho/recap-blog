@@ -1,0 +1,34 @@
+--- 
+title: Riak Recap for January 13 - 15
+layout: newpost
+summary:
+---
+
+_Posted on January 16, 2012_
+
+Afternoon, Evening, Morning to All -
+
+For today's Recap: podcasts, new code, new docs, and more.
+
+Enjoy.
+
+"Mark":https://twitter.com/pharkmillups
+
+*Riak Recap for January 13 - 15*
+
+# Sebastian Cohen posted slides from a Riak talk he gave last week at NoSQL UG Cologne.
+-> "Check them out here":http://tisba.de/2012/01/16/riak-talk-at-nosql-ug-cologne/
+# We added a page to the wiki all about inspecting a running Riak node.
+-> "Read here":http://wiki.basho.com/Inspecting-a-Node.html 
+# The latest NodeUp podcast was all about databases. (Skip to 56 minutes to hear the majority of the Riak discussion.)
+-> "Podcast here":http://nodeup.com/eleven 
+# Geir Ove Grønmo is working on a "a hypermedia-driven editing framework" that talks to Riak (and a few other databases).
+-> "Code here":https://github.com/grove/presto 
+
+*Jobs*
+-> Envelope.se is "hiring developers with Erlang and Riak experience":https://twitter.com/#!/bipthelin/status/158595880562339841 
+-> Bump is "hiring Python Developers to work on their backend systems":http://www.ventureloop.com/ventureloop/jobdetail.php?r=f_sh&jobid=82278 
+
+*Bugs*
+# New
+-> 1322: "eleveldb: missing .sst file creates endless loop, Erlang schedulers stop":https://issues.basho.com/show_bug.cgi?id=1322 
