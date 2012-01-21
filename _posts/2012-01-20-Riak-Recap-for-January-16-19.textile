@@ -1,0 +1,41 @@
+--- 
+title: Riak Recap for January 16 - 19
+layout: newpost
+summary:
+---
+
+_Posted on January 19, 2012_
+
+Afternoon, Evening, Morning To All -
+
+For today's Recap: blog posts, videos, conferences, and more.
+
+Enjoy and have a great weekend.
+
+"Mark":twitter.com/pharkmillups
+
+*Riak Recap for January 16 - 19*
+
+# John Repko wrote an informative and inspiring blog post about getting up and running with Riak. (Thanks for sharing, John!)
+-> "Read here":http://www.pikasoft.com/journal/2012/1/15/you-only-live-twice-basho-and-riak.html
+# Looks like Riak made it into the list of approved features for the Fedora 17 release. (I'm sure they are probably still looking for assistance in completing the addition.)
+-> "Details here":https://fedoraproject.org/wiki/Releases/17/FeatureList
+# Mathias Meyer is giving a talk on Riak at the NoSQL User Group in Cologne on February 1st.
+-> "Details here":http://www.doodle.com/nd76y62z2i442iv2 
+# This was already on the Mailing List but I wanted to send it along in case those of you who just read the Recaps missed is it: Peter Bailis wrote up some details about the research he and his colleagues are working on at UC Berkeley related to consistency in Dynamo systems.
+-> "Read here":http://lists.basho.com/pipermail/riak-users_lists.basho.com/2012-January/007233.html
+# Anyone out there using Riak with Spring? Or familiar with the existing code?
+-> "Question from a perspective user":http://forum.springsource.org/showthread.php?121877-Status-of-Spring-Data-Riak&s=04d69c4d6e1a977a5dc97474f43174bc&p=398046#post398046
+# The team at HighGroove did a Riak tech talk today at their offices and managed to get the video online already. (Jump to about 3 minutes in to get around the intro chatter.)
+-> "Watch here":http://highgroove.com/articles/2012/01/20/tech-talk-on-riak.html
+# Another reminder about ScaleConf in South Africa next week (that Basho is sponsoring and at which I will be speaking). Hope to see some of you there.
+-> "Details here":http:/scaleconf.org
+
+*Bugs*
+
+# New
+
+# 1323: "Objects cannot be updated if a bad CRC is encountered by Bitcask":https://issues.basho.com/show_bug.cgi?id=1323 
+# 1324: "Spurious error after Map/Reduce":https://issues.basho.com/show_bug.cgi?id=1324 
+# 1325: "Fix list vs binary data type inconsistencies in Erlang PB client library":https://issues.basho.com/show_bug.cgi?id=1325 
+# 1326: "Infinity mapred timeout in Erlang PB does some bad math":https://issues.basho.com/show_bug.cgi?id=1326
