@@ -1,0 +1,34 @@
+--- 
+title: Riak Recap for January 20 - 25
+layout: newpost
+summary:
+---
+
+_Posted on January 26, 2012_
+
+Morning, Afternoon, Evening To All -
+
+Coming to you live from "ScaleConf":http://scaleconf.org/ in the stunningly-beautiful Cape
+Town, here's a short Recap from the last few days.
+
+Enjoy.
+
+"Mark":http://twitter.com/pharkmillups
+
+*Riak Recap for January 20 - 25*
+
+
+# We put out a press release a few days ago with details on how Auric Systems is using Riak.
+-> "Read here":http://www.marketwatch.com/story/auric-systems-selects-riak-to-meet-pci-compliance-requirements-for-archway-the-marketing-logistics-and-fulfillment-leader-to-the-fortune-1000-2012-01-24
+# This is less technical than most items on the Recap but I wanted to pass it along anyways: If you happen to be driving up the 101 in the Bay Area over the next month, you might see Basho and Voxer on a billboard. :)
+->  "Take a look":https://twitter.com/#!/argv0/status/162282422900232193/photo/1
+# Srdjan Pejic continues to be a great voice for Riak on StackOverflow.
+-> Q & A "here":http://stackoverflow.com/questions/8989297/riak-search-giving-me-not-found-error-for-available-data
+-> Q & A "here":http://stackoverflow.com/questions/8987643/backing-up-riak-data-when-changing-backends
+-> "This one is still unanswered if anyone has a moment":http://stackoverflow.com/questions/9010259/securing-riak-on-ubuntu-using-shorewall-firewall
+
+
+*Bugs*
+
+# New
+-> 1327: "bad argument in riak_core_stat":https://issues.basho.com/show_bug.cgi?id=1327
