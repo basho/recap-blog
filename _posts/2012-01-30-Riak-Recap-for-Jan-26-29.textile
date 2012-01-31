@@ -1,0 +1,39 @@
+--- 
+title: Riak Recap for January 26 - 29
+layout: newpost
+summary:
+---
+
+_Posted on January 30, 2012_
+
+Afternoon, Evening, Morning to All -
+
+For today's Recap: conferences, new code, and more.
+
+Enjoy.
+
+"Mark":http://twitter.com/pharkmillups
+
+*Riak Recap for January 26 - 29*
+
+
+# For anyone in or around Austin, TX: they just opened up the CFP for "Devopsdays Austin" happening in April. I'm sending stickers and t-shirts to anyone who submits a Riak-related talk.
+-> "Details here":http://devopsdays.org/events/2012-austin/proposals/
+# There is a new question up on StackOverflow about using Bitcask that needs an answer if anyone has a moment.
+-> "Read here":http://stackoverflow.com/questions/9056052/how-to-use-bitcask-as-a-stand-alone
+# I gave a presentation about Basho, Riak, and the Riak Community at ScaleConf last week. Thanks to all of you for making our community worth presenting on. :)
+-> "Slides are here for anyone interested":http://www.themarkphillips.com//2012/01/27/Building-Healthy-Distributed-Systems-ScaleConf.html
+# Basho Dev Andrew Thompson wrote about blog post about QuickChecking Poolboy. (Poolboy is an Erlang worker pool that was an addition to Riak in the 1.0 release.)
+* "Read here":http://basho.com/blog/technical/2012/01/27/Quick-Checking-Poolboy-for-Fun-and-Profit/
+
+*Contributions*
+# Tryn Mirell added some new functionality to Riaknostic. Thanks, Tryn!
+-> "Details here":https://github.com/basho/riaknostic/pull/19 
+# Peter Garbers did some extensive refactoring of the Riak Ruby Client. Thanks, Peter!
+-> "Code here":https://github.com/basho/riak-ruby-client/pull/13 
+
+*Bugs*
+# New
+-> 1328: "Corrupt Ring?":https://issues.basho.com/show_bug.cgi?id=1328
+# Patched/Closed/Resolved
+-> 1286: "keylisting large buckets causes coordinating node to exit":https://issues.basho.com/show_bug.cgi?id=1286
