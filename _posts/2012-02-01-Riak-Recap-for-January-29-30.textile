@@ -1,0 +1,30 @@
+--- 
+title: Riak Recap for January 30 - 31
+layout: newpost
+summary:
+---
+
+Afternoon, Evening, Morning to All -
+
+For today's Recap: slides, videos, and more.
+
+Enjoy.
+
+"Mark":twitter.com/pharkmillups
+
+*Riak Recap for January 30 - 31*
+
+# OJ Reeves, co-author of CorrugatedIron, just announced that he'll be giving a "Erlang for .NET Developers" talk at the upcoming Erlang Factory in San Francisco.
+-> "Details here":http://www.erlang-factory.com/conference/SFBay2012/speakers/OliverReeves
+# Anyone else besides OJ planning on being in SF for Erlang Factory? Let me know...
+# Videos from the last Riak Meetup in San Francisco are up on the Basho Blog. Riak in production at Posterous is covered by Julio Capote and yours truly does a live demo of Riak Control.
+-> "Watch here":http://basho.com/blog/technical/2012/01/30/Riak-in-Production-at-Posterous-Riak-Control-Preview/
+# Mathias Meyer just gave a talk at the NoSQL Cologne User Group called "A Riak Query Tale." (The talk quality is surpassed only by that of the talk title itself.)
+-> "Check them out here":http://speakerdeck.com/u/roidrage/p/a-riak-query-tale
+
+*Bugs*
+
+# New
+-> 1332: "The `riak reboot` command shuts down the Riak node":https://issues.basho.com/show_bug.cgi?id=1332
+# Patched/Closed/Resolved
+-> 1331: "riak_sysmon_filter process hang due to OTP net_kernel race condition":https://issues.basho.com/show_bug.cgi?id=1331
