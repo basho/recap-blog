@@ -1,0 +1,23 @@
+--- 
+title: Riak Recap for February 1 - 2
+layout: newpost
+summary:
+---
+
+_Posted on February 3, 2012_
+
+Afternoon, Evening, Morning to All -
+
+Here's a short Recap to take you into the weekend.
+
+Enjoy, and thanks for being a part of Riak.
+
+"Mark":http://twitter.com/pharkmillups
+
+*Riak Recap for February 1 - 2*
+
+# Has anyone out there managed to plug TokuDB (www.tokutek.com) into Riak as as backend? Or attempted it? Have any details you can share? (mark@basho.com if you have details.)
+# We added some code to Riaknostic that checks to see if Search is enabled on every node.
+-> "Code here":https://github.com/basho/riaknostic/commit/01c674f31d26cd2228a8199cccfcea65670739e1
+#  The video of Sean Cribbs' "Wrap Your SQL Head Around Riak MapReduce" preso at last year's StrangeLoop conference is now online.
+-> "Watch here":http://www.infoq.com/presentations/Wrap-Your-SQL-Head-Around-Riak-MapReduce
