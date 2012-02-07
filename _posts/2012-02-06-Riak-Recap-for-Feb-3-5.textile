@@ -1,0 +1,30 @@
+--- 
+title: Riak Recap for February 3 - 5
+layout: newpost
+summary:
+---
+
+_Posted on February 6, 2012_
+
+Evening, Morning, Afternoon to All - 
+
+For today's Recap: blog posts, meetups, and more. 
+
+Enjoy. 
+
+"Mark":twitter.com/pharkmillups"
+
+*Riak Recap for February 3 - 5*
+
+# Basho Hacker Sean Cribbs will be talking about Riak at the "NoSQL in The Real World" event that Gilt Group is putting on Wednesday night in New York City. 
+-> "Event details here":http://nosql-tech-talk.eventbrite.com/ 
+# Buddy Lindsey wrote up his thoughts on Riak based on the Riak Chapter from the forthcoming "7 Databases in 7 Weeks" book. 
+-> "Read here":http://buddylindsey.com/riak-week-2-of-7-databases-in-7-weeks 
+# Ilya Grigorik wrote an extensive piece on LevelDB. 
+-> "Read here":http://www.igvita.com/2012/02/06/sstable-and-log-structured-storage-leveldb/
+# Basho Hacker Russell Brown will be doing a Riak tutorial in May at the NoSQL event that SkillsMatter is putting on. 
+-> "Details and Registration here":http://skillsmatter.com/event/nosql/progressive-nosql-tutorials/ac-3538
+# We put the next San Francisco Riak Meetup on the calendar. This one will be on February 23rd and will feature John Muellerleile, an engineer at Remixation, talking about Mecha, a search and analytics system for Riak that they use in production.
+-> "Details here":http://www.meetup.com/San-Francisco-Riak-Meetup/events/51287272/ 
+# If you're in Boston, take a stroll by Fenway Park. You might notice as few logos that look familiar. 
+-> "Sneak peak here":https://twitter.com/#!/argv0/status/166681877732786176
