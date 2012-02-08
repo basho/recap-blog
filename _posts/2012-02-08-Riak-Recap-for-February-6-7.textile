@@ -1,0 +1,40 @@
+--- 
+title: Riak Recap for February 6 - 7
+layout: newpost
+summary:
+---
+
+_Posted on February 8, 2012_
+
+Afternoon, Evening, Morning to All - 
+
+For today's Recap: conferences, blog posts, new code, and more. 
+
+Enjoy. 
+
+"Mark":http://twitter.com/pharkmillups 
+
+*Riak Recap for February 6 - 7*
+
+
+# Jared sent this to the list yesterday but it's worth including in the Recap again: Riak 1.1RC1 was just released. There's a lot of good stuff in this release, and we would love some people to take it for a spin before it's official. 
+-> "All the details here":http://lists.basho.com/pipermail/riak-users_lists.basho.com/2012-February/007462.html
+# Basho is officially a sponsor of the Travis CI project. Travis is a distributed build system that you should all take a look at. 
+-> "Travis Crowd Funding Page":https://love.travis-ci.org/ 
+-> "Short blog post about why we donated":http://basho.com/blog/technical/2012/02/07/Basho-is-Proud-to-Sponsor-TravisCI/ 
+# Sean Cribbs will be at the LOPSA NYC meetup on February 15 to talk about Riak. 
+-> "Details here":http://www.lopsa-nyc.org/content/riak-distributed-replicated-fault-tolerant-key-value-database 
+# Basho is sponsoring Devopsdays Austin in April. Let me know if you'll be in attendance. 
+-> "Conf details here":http://devopsdays.org/events/2012-austin/ 
+
+*Contributions*
+
+# Paul Barry added some nice code to the Java client that provides a 'shutdown' method and makes it much more container friendly. Thanks, Paul!
+-> "Details here":https://github.com/basho/riak-java-client/pull/99
+
+
+*Bugs*
+
+# New
+-> riak_kv 284: "JS Map-only MapReduce returns partial results when some VMs are busy":https://github.com/basho/riak_kv/issues/284 
+
