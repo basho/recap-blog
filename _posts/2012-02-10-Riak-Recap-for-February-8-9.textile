@@ -1,0 +1,24 @@
+--- 
+title: Riak Recap for February 8 - 9
+layout: newpost
+summary:
+---
+
+_Posted on February 10, 2012_
+
+Afternoon, Evening, Morning to All - 
+
+Very short Recap to take you into the weekend. 
+
+Enjoy, and thanks for being a part of Riak.
+
+"Mark":http://twitter.com/pharkmillups 
+
+*Riak Recap for February 8 - 9*
+
+# Sean Cribbs made a short screencast to demonstrate the custom serializers feature in the latest Ruby client release. 
+-> "Watch here":http://seancribbs.com/tech/2012/02/09/riak-client-serializers/ 
+# For anyone in/around France - the CFP for Devoxx France closes in four days. If you're in the area and want to tell the tech community how much you love (or hate) Riak, now is your chance. (And if you end up submitting a talk, let me know so that I can say thanks.) 
+-> "Details here":https://cfp.devoxx.fr/ 
+# We added an Events page to the Community section of basho.com that might be of interest to some of you. 
+-> "Check it out here":http://basho.com/community/events/
