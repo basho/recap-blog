@@ -1,0 +1,31 @@
+--- 
+title: Riak Recap for February 10 - 12
+layout: newpost
+summary:
+---
+
+_Posted on February 13, 2012_
+
+Evening, Morning, Afternoon to All - 
+
+For today's Recap: meetups, talks, and new code.
+
+Enjoy.
+
+"Mark":https://twitter.com/pharkmillups 
+
+*Riak Recap for February 10 - 12* 
+
+# Marc Campbell is spearheading the launch of a Los Angeles Riak Meetup. He'll also be talking at the first meetup, happening on February 29th at the Amplify offices in Venice. Join us if you're in the area. 
+-> "Details here":http://www.meetup.com/Los-Angeles-Riak-Meetup/
+# Andy Gross and Steve Vinoski will be in Copehagen on March 2nd talking about Riak at the NoSQL Roadshow we are putting on with Trifork and Erlang Solutions.
+->  "Details here":http://nosqlroadshow.com/nosql-cph-2012/
+# Steve and Andy will also be talking about Riak on March 5th in London at the Skills at the Skills Matter Exchange 
+-> "Details here":http://skillsmatter.com/podcast/home/riak-qcon/js-3597
+# Justin Sheehy will be talking about Riak the Big Data DC Meetup happening on February 29th. Sadly, this event is full but you should register in the event that they open up more room.
+-> "Details here":http://www.meetup.com/bigdatadc/events/51938072/ 
+
+*Contributions* 
+
+# Fyodor Yarochkin wrote and released two new plugins for Munin, one to monitor node memory allocation and one to monitor GET/PUT Traffic. Thanks, Fyodor!
+-> "Code here linked from the Wiki":http://wiki.basho.com/Community-Developed-Libraries-and-Projects.html#Monitoring%2C-Management%2C-and-GUI-Tools
