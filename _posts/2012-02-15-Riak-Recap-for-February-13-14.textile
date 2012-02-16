@@ -1,0 +1,36 @@
+--- 
+title: Riak Recap for February 13 - 14
+layout: newpost
+summary:
+---
+
+_Posted on February 15, 2012_
+
+Evening, Morning, Afternoon to All - 
+
+Big Recap for today: videos, blog posts, new code, and more. 
+
+Enjoy.
+
+"Mark":https://twitter.com/pharkmillups
+
+
+*Riak Recap for February 13 - 14*
+
+# Balasundaram wrote a short blog post about building a multi-node Riak cluster. 
+-> "Read here":http://balabtech.wordpress.com/2012/02/10/installation-and-config-of-multi-node-riak-cluster/ 
+# The video and slides from Sean Cribbs' Riak talk at the Gilt Group NoSQL event are now online. 
+-> "Read and watch here":http://tech.gilt.com/post/17379979309/nosql-in-the-real-world-the-video-pics-and-slides 
+# A Riak extension for New Relic just appeared. 
+-> "Code here":https://github.com/newrelic/rpm_contrib/blob/master/lib/rpm_contrib/instrumentation/riak_client.rb
+# Steve Vinoski posted a write up on his blog with some details on the track he's hosting at QCon London in March. 
+-> "Read here":http://steve.vinoski.net/blog/2012/02/14/qcon-london-highly-available-systems/	
+# OJ Reeves picked up his great series on Riak and Erlang and published another extensive blog post. Readers of his past posts won't be disappointed with the fourth installment, and if you're at all interested in learning more about Riak, Webmachine, and/or ErlyDTL I highly recommend you check these out. 
+-> "Latest post here":http://buffered.io/posts/webmachine-erlydtl-and-riak-part-4/ 
+
+*Contributions* 
+
+# Tuncer Ayaz updated i-browse and added basho_stats to Basho Bench. Thanks, Tuncer!
+-> "Pull Request here":https://github.com/basho/basho_bench/pull/19 
+# Armon Dadgar and the team at Kiip.me put in some major work on the Python client over the last few days. Thanks, Armon!
+-> "Multiple commits here":https://github.com/basho/riak-python-client/commits/master 
