@@ -1,0 +1,32 @@
+--- 
+title: Riak Recap for February 15 - 16
+layout: newpost
+summary:
+---
+
+_Posted on February 17, 2012_
+
+Afternoon, Evening, Morning, to All - 
+
+Here's a short Recap to take you into the weekend. 
+
+Enjoy.
+
+"Mark":https://twitter.com/pharkmillups 
+
+*Riak Recap for February 15 - 16*
+
+
+# Joyent announced they were sponsoring LA-Based startup accelerator Amplify. Amplify is home to Look.io, which is using Riak and Node.js in production. I'm passing this along because Look.io will be talking about Riak, Node.js, Joyent on February 29th at the Los Angeles Riak Meetup. 
+-> "LA Riak Meetup info here":http://www.meetup.com/Los-Angeles-Riak-Meetup/ 
+-> "Joyent Announcement here":http://joyeur.com/2012/02/16/amped-up-about-amplify-joyent-cloud-sponsoring-la-startups-like-look-io/ 
+# A new question tagged "riak" popped up on Quora if anyone is feeling ambitious this weekend and want so take a crack at it.
+-> "Read here":http://www.quora.com/How-to-design-a-system-like-pingdom-Should-I-use-a-noSQL-database-How-will-this-scale 
+# If you want to work with Basho and on Riak, now is a great time to do it. 
+-> "All open positions here":http://bashojobs.theresumator.com/ 
+-> "This one is my personal favorite":http://bashojobs.theresumator.com/apply/1EsgK3/Technical-Evangelist.html  (feel free to email me directly if this one interests you; Boston/NYC and London both need Technical Evangelists)
+
+*Contributions*
+
+# Tuncer Ayaz made a few more tweaks to Basho Bench. 
+* "PR here":https://github.com/basho/basho_bench/pull/20 
