@@ -16,7 +16,6 @@ Enjoy.
 
 *Riak Recap for February 15 - 16*
 
-
 # Joyent announced they were sponsoring LA-Based startup accelerator Amplify. Amplify is home to Look.io, which is using Riak and Node.js in production. I'm passing this along because Look.io will be talking about Riak, Node.js, Joyent on February 29th at the Los Angeles Riak Meetup. 
 -> "LA Riak Meetup info here":http://www.meetup.com/Los-Angeles-Riak-Meetup/ 
 -> "Joyent Announcement here":http://joyeur.com/2012/02/16/amped-up-about-amplify-joyent-cloud-sponsoring-la-startups-like-look-io/ 
@@ -29,4 +28,4 @@ Enjoy.
 *Contributions*
 
 # Tuncer Ayaz made a few more tweaks to Basho Bench. 
-* "PR here":https://github.com/basho/basho_bench/pull/20 
+-> "PR here":https://github.com/basho/basho_bench/pull/20 
