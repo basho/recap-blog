@@ -1,0 +1,33 @@
+--- 
+title: Riak Recap for February 17 - 21
+layout: newpost
+summary:
+---
+
+_Posted on February 22, 2012_
+
+Evening, Morning, Afternoon, to All - 
+
+Missed the Recap on Monday but we have a great one to make up for it. 
+
+Enjoy.
+
+"Mark":https://twitter.com/pharkmillups 
+
+*Riak Recap for February 17 - 21*
+
+# Riak 1.1 was released yesterday. Jared already sent an email to the list with details, but here a few more things worth highlighting: 
+-> "Hacker News Comments from the release":http://news.ycombinator.com/item?id=3616808
+-> "Glen Hinkle put together a short screencast on getting control up and running":http://www.screenr.com/4MIs. (One small error to point out: he sets the HTTPS and Handoff ports to the same number. You'll not want to do this.)
+-> "We also added some docs to the wiki for Control":http://wiki.basho.com/Riak-Control.html
+# An overview of Riak popped up on addconf.ru that might be of interest our Russian readers (or anyone who can use Chrome's "Translate" button).
+-> "Read here":http://www.addconf.ru/event.sdf/ru/add_3/authors/661/662
+# There is a question up on Stack Overflow about storing images in Riak with the PHP client that needs some love for anyone who is feeling inspired. 
+-> "Check it out here":http://stackoverflow.com/questions/9394706/storing-images-with-riak-using-php-client 
+# I just wanted to take a second to say congrats to the team at Kiip.me who put Riak into production today. They've been doing some great work on the Python client so it's the least I could do.
+-> "140 characters worth of details here":https://twitter.com/#!/ArmonDadgar/status/172405869210894336
+
+*Contributions* 
+
+# Marc Campbell made a small fix to the Erlang HTTP Client. (They all count.)
+-> "PR here":https://github.com/basho/riak-erlang-http-client/pull/7
