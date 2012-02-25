@@ -1,0 +1,44 @@
+--- 
+title: Riak Recap for February 22 - 23
+layout: newpost
+summary:
+---
+
+_Posted on February 24, 2012_
+
+Evening, Morning, Afternoon to All
+
+Here's a Recap to take you into the weekend: blog posts, new code, and a lot of contributions.
+
+Enjoy.
+
+"Mark":https://twitter.com/pharkmillups
+
+*Riak Recap for February 22 - 23*
+
+# John Muellerleile released the slides from this Mecha talk that happened last night in San Francisco.
+-> "View here":http://mechadb.com/mecha-preso.pdf 
+# Basho Hacker Jeff Massung wrote an in depth blog post about Riak Control.
+-> "Read here":http://basho.com/blog/technical/2012/02/22/Riak-Control/
+# Sean Cribbs put together a short screencast to demonstrate the new Riak Client Multi-node Connections shipping in the 1.0 of our Ruby driver.
+-> "Watch here":http://seancribbs.com/tech/2012/02/23/riak-client-multinode/ 
+
+*Issues*
+
+# We've been chasing down a few MapReduce issues that arose with the new 1.1 release. Jon Meredith just sent an extensive email to the list with details on three different bugs and how they might affect your cluster. Please read.
+-> "Email here":http://lists.basho.com/pipermail/riak-users_lists.basho.com/2012-February/007643.html
+
+*Contributions*
+
+# Ben Black added the option to disable Nagle for PB sockets.
+-> "PR here":https://github.com/basho/riak_kv/pull/102 
+# Adam Hunter made some extensive changes to the SSL config in the Ruby Client
+-> "PR here":https://github.com/basho/riak-ruby-client/pull/20
+# We merged some more great changes from Armon Dadgar to the Python Client.
+-> "Code here":https://github.com/basho/riak-python-client/pull/104 
+# Jeremy Raymond fixed some bad math related to the mapreduce timeout in the Erlang client.
+-> "Code here":https://github.com/basho/riak-erlang-client/pull/41 
+# We pulled in some doc changes to riak_err from Fernando Benavides.
+-> "Enhancements here":https://github.com/basho/riak-erlang-client/pull/41 
+# Christopher Meiklejohn fixed a small typo in the Riak .deb post install.
+-> "Change here"":https://github.com/basho/riak/pull/118"
