@@ -1,0 +1,45 @@
+--- 
+title: Riak Recap for February 24 - 26
+layout: newpost
+summary:
+---
+
+_Posted on February 27, 2012_
+
+Evening, Morning, Afternoon to All
+
+Huge Recap for today: new production users, blog posts, new code,
+webinars, and more.
+
+Enjoy.
+
+"Mark":https://twitter.com/pharkmillups
+
+*Riak Recap for February 24 - 26*
+
+# The team at Temetra wrote up a short blog post about how and why they are using Riak in production.
+-> "Read here":http://www.temetra.com/2012/02/riak-cluster-deployed  
+# Sreejith Kesavan wrote a blog post about doing multi-index queries
+with the Python client.
+-> "Read here":http://foobarnbaz.com/2012/02/25/multi-index-queries-in-riak/ 
+# Pavlo Baron (I think) wrote up a short post about using Pre-Commit hooks.
+-> "Read here":http://startup-tech.tumblr.com/post/15300179505/riak-precommit-hooks
+# Basho Hacker Sean Cribbs was on the Extroverted Developer Podcast talking about all things Basho, Riak and development.
+-> "Listen here":http://extroverteddeveloper.com/blog/2012/2/27/extroverted-developer-7-sean-cribbs.html
+# Basho put up another Billboard. This one is to congratulate Bump on passing 80MM users. If you're driving up the 101 just south of San Francisco, you might see it. (Also, congrats to the Bump team for the release of 3.0!)
+-> "Billboard pic here":https://twitter.com/#!/bpatrick001/status/174202724324343808/photo/1
+# We are doing a free Webinar on Wednesday all about what's new in Riak 1.1.
+-> "Details and RSVP here":http://basho.com/contact/webinar-registration
+# Jon Bribin released a Groovy DSL for doing HTTP testing that (as far as I can tell) he's using for Riak development.
+-> "Code here":https://github.com/jbrisbin/rest-builder
+# Basho team member Casey Rosenthal is going to be at the PDX Erlang Meetup tomorrow night. I heard a rumor he has some Riak swag. Don't be
+scared to attend and ask him hard questions.
+-> "Details here":http://calagator.org/events/1250461948
+# Erlang Factory San Francisco is just under a month away, so it's about time to start talking about it. Basho will be represented in a huge way. Talks are below. If you're going, get in touch with me so we can plan to have beers and talk about software. If you're not going, register, then get in touch with me so we can plan to have beers and talk about software.
+-> "Joseph Blomstedt":http://www.erlang-factory.com/conference/SFBay2012/speakers/JosephBlomstedt
+-> "Dizzy":http://www.erlang-factory.com/conference/SFBay2012/speakers/DizzySmith 
+-> "Steve Vinoksi":http://www.erlang-factory.com/conference/SFBay2012/speakers/SteveVinoski
+-> "Mark Phillips":http://www.erlang-factory.com/conference/SFBay2012/speakers/MarkPhillips
+
+
+
