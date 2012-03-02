@@ -1,0 +1,37 @@
+--- 
+title: Riak Recap for Feb. 27 - Mar. 1
+layout: newpost
+summary:
+---
+
+_Posted on March 02, 2012_
+
+Afternoon, Evening, Morning to All -
+
+Great Recap for today.
+
+Enjoy, have a great weekend, and thanks for being a part of Riak.
+
+"Mark":http://twitter.com/pharkmillups
+
+*Riak Recap for February 27 - March 1*
+
+# Basho put out a press release about Bump running on Riak.
+-> "Read here":http://basho.com/news/riak_strategic_for_bump/
+# Bump picked up some additional Riak-related press from some big sites.
+-> "Write up on GigaOM":http://gigaom.com/cloud/how-nosql-database-riak-makes-bump-work/ 
+-> "Piece in Silicon Alley":http://siliconangle.com/blog/2012/02/29/how-does-bump-handle-all-that-shared-data-riaks-nosql-database/
+# More good news from the Community: Yammer closed $85MM in funding.
+Congrats to Coda Hale, Ryan Kennedy, and the rest of the awesome team
+at Yammer!
+-> "Read here":http://allthingsd.com/20120229/yammer-lands-85-million-funding-round-from-draper-fisher-jurvetson/ 
+# Jim Downey wrote two great blog posts over the last week that are
+worth your time.
+-> "Exploring NoSQL and CAP with Riak":http://jimdowney.net/2012/02/28/exploring-nosql-fine-tuning-cap-with-riak/
+-> "Eventual Consistency: How Eventual? How Consistent?":http://jimdowney.net/2012/03/01/eventual-consistency-how-eventual-how-consistent
+# Jim's "Eventual Consistency" post was inspired by a talk Peter Bailis gave at BashoChats last week in San Francisco. We just posted Peter's talk on the Basho blog, and it's well worth your 45 minutes.
+-> "Watch here":http://basho.com/blog/technical/2012/03/02/Eventual-Consistency-and-PBS/
+# Liam Kaufman put together a blog post about Riak and Node.js.
+-> "Read here":http://liamkaufman.com/blog/2012/03/01/why-riak-and-nodejs-make-a-great-pair/ 
+# So more Riak love at Erlang Factory to pass along: Jesse Newland is giving a talk called "Rewriting GitHub Pages with Riak Core, Riak KV, and Webmachine."
+-> "Details here":http://www.erlang-factory.com/conference/SFBay2012/speakers/JesseNewland
