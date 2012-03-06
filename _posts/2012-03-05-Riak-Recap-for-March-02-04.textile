@@ -1,0 +1,30 @@
+--- 
+title: Riak Recap for March 2 - 4
+layout: newpost
+summary:
+---
+
+_Posted on March 05, 2012_
+
+Evening, Morning, Afternoon to All -
+
+Short Recap for today: new code, videos, and upcoming meetups in Buffalo and Vancouver.
+
+(Also, I'll be on vacation up through next Tuesday, so if anyone wants to get ambitious and put together Recaps for later this week, you'll gain instant mailing list celebrity status.)
+
+Enjoy.
+
+"Mark":https://twitter.com/pharkmillups
+
+*Riak Recap for March 2 - 4*
+
+# Mathias Meyer gave a great talk at the beginning of February all about Querying Riak at the NoSQL Cologne Group. I foolishly forgot to pass along the video of the talk.
+-> "Watch here":http://www.nosql-cologne.org/videos/#Riak
+# Hector Castro has some new code on GitHub that let's you build a sandbox to play with multiple Riak nodes via Vagrant.
+-> "Repo here":https://github.com/hectcastro/riak-cluster
+# We posted the second video from last month's "BashoChats Meetup":http://www.meetup.com/BashoChats/events/50606262/ to the Basho Blog. This talk is from Ted Nyman, lead engineer at "Simple":https://simple.com/, and is all about building and shipping JVM-based services. (There isn't much about Riak in this talk, but it's worth the 40 minutes so I thought I would pass it along.)
+-> "Instant-ish Real Service Architecture":http://basho.com/blog/technical/2012/03/05/Instantish-Real-Service-Architecture-BashoChats002/
+# There's a Riak presentation happening at the WYN Ruby Bridage on March 20th in Buffalo, NY. This one will be delivered by Basho Hacker Andrew Thompson.
+-> "Details and RSVP here":http://www.meetup.com/Western-New-York-Ruby/events/51549782/
+# Andy Gross is giving a Riak a talk at the Vancouver Erlang Meetup on March 14th. We're also going to try and do a drink up after the meetup. I'll send along details as they come together for this.
+-> "Meetup details here":http://www.meetup.com/erlang-vancouver/events/54568002/
