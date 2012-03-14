@@ -1,0 +1,35 @@
+--- 
+title: Riak Recap for March 4 - 13
+layout: newpost
+summary:
+---
+
+_Posted on March 13, 2012_
+
+Afternoon, Evening, Morning to All - 
+
+Back to regularly-scheduled Recaps: blog posts, videos, parties, and more. 
+
+Enjoy. 
+
+"Mark":http://twitter.com/pharkmillups
+
+*Riak Recap for March 5 - 13*
+
+# We're doing a Riak talk and Drinkup in Vancouver (in a few hours). 
+-> "Details here":http://basho.com/blog/technical/2012/03/14/Riak-Talk-and-Drinkup-Tonight-In-Vancouver/
+# Mathias Meyer and Josh Kalderimis were on The Changelog talking about Travis CI and Riak. 
+-> "Listen here":http://thechangelog.com/post/18847458083/episode-0-7-5-travis-ci-riak-and-more-with-josh-kalderim
+# The recording of the Riak 1.1 Webinar that we did a few weeks ago is online and viewable. (This will be posted properly on the blog later this week but I wanted to make sure the early adopters had early access.)
+-> "Watch here":http://vimeo.com/38345486
+# Another reminder about Andrew Thompson's upcoming Riak talk at Buffalo Ruby Group on March 20th. 
+-> "Details here":http://www.meetup.com/Western-New-York-Ruby/events/51549782/
+# Basho, Joyent, Voxer, and Yammer at throwing a huge party on March 29th (during Erlang Factory). If you're planning to be in/around San Francisco, you should be here. 
+-> "Details here":http://info.basho.com/bashobash.html
+# Simon Buckle published the first in a two part series for IBM developerWorks on Riak. Thanks, Simon!
+-> "Read here":http://www.ibm.com/developerworks/opensource/library/os-riak1/index.html
+# Rackspace has a great overview of Erlang up on their blog. Riak and Webmachine both get nice mentions. 
+-> "Read here":http://www.rackspace.com/blog/overview-of-the-erlang-programming-language 
+# I wanted to pass along a congratulations to the Posterous team on joining Twitter. Julio and Team - Make sure you bring your Riak with you. :)
+-> "Blog post about the acquisition here":http://blog.posterous.com/big-news
+-> "Details on Posterous' Riak usage":http://basho.com/blog/technical/2012/01/30/Riak-in-Production-at-Posterous-Riak-Control-Preview/ (for those of you who haven't seen it)
