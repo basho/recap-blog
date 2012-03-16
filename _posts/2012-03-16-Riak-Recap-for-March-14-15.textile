@@ -1,0 +1,38 @@
+--- 
+title: Riak Recap for March 14 - 15
+layout: newpost
+summary:
+---
+
+_Posted on March 16, 2012_
+
+Afternoon, Evening, Morning to All - 
+
+This Recap is coming to you live from Clojure/West in San Jose. If you're here and haven't told me yet, get in touch.
+
+For today's Recap: new meetups, new code, drinkups in New York City, some jobs, and more.  
+
+Enjoy and have a great weekend. 
+
+"Mark":https://twitter.com/pharkmillups
+ 
+*Riak Recap for March 14 -  15*
+
+# We announced a new Riak Meetup in Leeds! The first installment will happen on April 18th and will feature Basho Hacker (and Leeds-local) Russell Brown and Brightbox Developer John Leach (though it's unclear if he'll be bringing his dog).
+-> "Details and RSVP here":http://www.meetup.com/Leeds-Riak/events/56443672
+# Something for all our coffee fans out there: @voluntas tweeted a picture of what looks like a latte with the Basho logo stenciled on top. (This is awesome, by the way!) 
+-> "Picture here":https://twitter.com/#!/voluntas/status/177773458288156673 	
+# The team at Thoughtworks released their latest Technology Radar report. Riak was highlighted in a few spots. 
+-> "Details here":http://www.thoughtworks.com/radar
+-> "Direct PDF here":http://thoughtworks.fileburst.com/assets/thoughtworks-tech-radar-march-2012-us-color.pdf
+# David Dawson and Marcus Kern gave a presentation at QCon London last week called NoSQL for the Masses. They talk a lot about Riak. :)
+-> "Presentation PDF here":http://qconlondon.com/dl/qcon-london-2012/slides/DavidDawson_and_MarcusKern_ApplicationsForMassAudienceParticipationNotOnlyNoSQL.pdf 
+# For those of you who are in/around New York City, Basho and Etsy are putting on Drinkup at reBar in Brooklyn on March 20. Come out and have a drink on us. 
+-> "Details here":http://basho.com/blog/technical/2012/03/16/Drinkup-with-Etsy-on-March-20/ 
+
+*Jobs* 
+
+# The team at Voxer is hiring for some exciting positions (and in case you hadn't heard, they have one of the biggest Riak clusters around). 
+-> "Voxer Jobs here":http://voxer.theresumator.com/
+# Brenden Grace made it known on Twitter that he's hiring remote hackers to work with Riak and a few other cool pieces of tech. 
+-> "More details here":https://twitter.com/#!/brendengrace/status/180619219921158144
