@@ -1,0 +1,33 @@
+--- 
+title: Riak Recap for March 16 - 18
+layout: newpost
+summary:
+---
+
+_Posted on March 19, 2012_	
+
+Afternoon, Evening, Morning to All - 
+
+Great Recap for today: contributions, blog posts, and more. 
+
+*I'll be in New York City tomorrow through Sunday for the Structure Data event. If anyone is in town and wants to get together and talk Riak over a beer or two, let me know.**
+
+Mark
+
+*Riak Recap for March 16 - 18* 
+
+# The team at Clipboard posted an extensive blog post about how they are using Riak Search and some changes them made to speed it up. 
+-> "Read here":http://blog.clipboard.com/2012/03/18/0-Milking-Performance-From-Riak-Search
+# There is a post up on Webfaction about how to get Riak up-and-running.
+-> "Read here":http://community.webfaction.com/questions/8113/installing-riak-on-webfaction
+# Uniserve Cloud just announced that they were offering Riak via Joyent Smart Machines. 
+-> "Details here":https://www.uniservecloud.com/index.php/uniserve/product/appliances	
+# Here's another reminder about the Basho/Etsy Drinkup that is happening tomorrow night in Brooklyn. 
+-> "Information here":http://basho.com/blog/technical/2012/03/16/Drinkup-with-Etsy-on-March-20/
+
+*Contributions*
+
+# We merged some code for Webmachine from Anthony Molinaro .
+-> "Details here":https://github.com/basho/webmachine/pull/27
+# ultimatebuster added a set_links method to the Python Client. 
+-> "Commit here":https://github.com/basho/riak-python-client/pull/106
