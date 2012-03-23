@@ -1,0 +1,32 @@
+--- 
+title: Riak Recap for March 19 - 22
+layout: newpost
+summary:
+---
+
+_Posted on March 23, 2012_
+
+Afternoon, Evening, Morning to All - 
+
+Nice Recap to take everyone into the weekend: talks, blog posts, and more. 
+
+Enjoy. As usual, thanks for being a part of Riak. 
+
+"Mark":twitter.com/pharkmillups
+ 
+*Riak Recap for March 19 - 22*
+
+# The video of Bob Ippolito's "Statebox" talk from QCon SF is now on the internet. 
+-> "Watch here":http://www.infoq.com/presentations/Eventually-Consistent-HTTP-with-Statebox-and-Riak
+# John Leach is giving a talk at FlossUK all about distributed storage systems. I'm sure Riak will get some nice coverage. (Right, John???)
+-> "Details here":http://www.flossuk.org/Events/Spring2012/Talks#Top_10_distributed_storage_systems
+# DZone posted a piece from Paul Gross and the Braintree team all about how they use Curator to do lazy data migration into Riak. 
+-> "Read here":http://architects.dzone.com/articles/curator-helps-data-migrations
+# Some new Riak content is up on StackOverflow:
+-> "Riak special chars in keys":http://stackoverflow.com/questions/9789813/riak-special-chars-in-keys
+-> "Riak sort on MapReduce":http://stackoverflow.com/questions/9752931/riak-sort-on-mapreduce (continual thanks to Srdjan Pejic for his SA awesomeness)
+# Some new Riak content on SA that needs answering:
+-> "Search error from the Java Client":http://stackoverflow.com/questions/9830579/riak-map-reduce-enableforsearch-error 
+-> "What is the purposed of the Riak 2i index type?":http://stackoverflow.com/questions/9817521/whats-the-purpose-of-riak-secondary-index-data-type
+# Justin Sheehy is giving a talk in Chicago next month at a GOTO event. Mark your calendars. 
+-> "Details here":http://gotonightchicago.eventbrite.com/
