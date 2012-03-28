@@ -1,0 +1,42 @@
+--- 
+title: Riak Recap for March 23 - 27
+layout: newpost
+summary:
+---
+
+_Posted on March 28, 2012_
+
+Morning, Afternoon, Evening to All - 
+
+Great Recap for the last few days: new code, parties, blogs, and more. 
+
+Enjoy.
+
+Mark
+
+*Riak Recap for March 23 - 27* 
+
+# If you're at Erlang Factory this week, here's what you need to know:
+-> "Details here":http://basho.com/blog/technical/2012/03/26/Erlang-Factory-Basho-Bash/ 
+# Jon Brisbin is writing Riak-related code again :)
+-> "He updated his Riak and RabbitMQ exchange":http://twitter.com/j_brisbin/status/184287568450428928
+-> "He also updated his Misultin Riak Core VNode Dispatcher":http://twitter.com/j_brisbin/status/184735728297721856
+# You should read just about anything Brendan Gregg writes. This blog post about Subsecond Offset Heat Maps (with a special focus on Riak, node.js, and Voxer) is no exception. 
+-> "Read here":http://dtrace.org/blogs/brendan/2012/03/26/subsecond-offset-heat-maps/ 
+# Gary Barlow wrote a post about the architecture of Picle app and how he's planning to move from MySQL to Riak if/when the time is right. 
+-> "Post here":http://madebymany.com/blog/the-architecture-behind-picle-app 
+# A new Question on SA that needs answering:
+-> "How do you find the size of a bucket in Riak":http://stackoverflow.com/questions/9847221/how-do-you-find-the-size-of-a-bucket-in-riak-in-mb-and-ignoring-the-backups
+
+*Contributions*
+
+# Sreejith Kesavan added meaningful exceptions to the Python Client. Thanks, Sreejith!
+-> "Code here":https://github.com/basho/riak-python-client/pull/110
+# Daniel Fernandez fixed the default timeout in the Riak Erlang Client. Thanks, Daniel!
+-> "Details here":https://github.com/basho/riak-erlang-client/pull/44
+
+*A few issues to catch up on*
+
+# "MapReduce query fails if only a single JavaScript reduce phase is specified":https://github.com/basho/riak_kv/issues/307
+# "Beams in basho-patches don't take precedence over existing code":https://github.com/basho/riak/issues/126
+# "Let's ship libumem as our default memory allocator for Riak!":https://github.com/basho/riak/issues/127 
