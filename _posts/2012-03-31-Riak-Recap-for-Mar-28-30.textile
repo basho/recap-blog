@@ -1,0 +1,26 @@
+--- 
+title: Riak Recap for March 28 - 30 
+layout: newpost
+summary:
+---
+
+_Posted on March 31, 2012_
+
+*Riak Recap for March 28 - 31*
+
+# Joseph Blomstedt's Erlang Factory Slides are online. His talk was called _Test First Construction of Distributed Systems_ and is a great look at some of the approaches he and others at Basho take to writing and testing the code that make up Riak's internals.
+-> "Slides here":http://speakerdeck.com/u/jtuple/p/test-first-construction-of-distributed-systems
+# More from Erlang Factory: Jesse Newland gave an exceptional talk about how he and a few others are rewriting GitHub Pages using Riak and Webmachine.
+-> "Slides here":http://speakerdeck.com/u/jnewland/p/github-pages-on-riak-and-webmachine
+# Some new code: Alice Kaerast just released a proof of concept of a Riak plugin for Moodle 2. 
+-> "Code here on GitHub":https://github.com/kaerast/repository_riak
+# New Stack Overflow Content:
+-> "Issues building a three node Riak Cluster from Homewbrew install":http://stackoverflow.com/questions/9906386/running-a-three-node-riak-cluster-using-a-homebrew-installation
+-> "Is there any way to use JS libraries in Riak?":http://stackoverflow.com/questions/9937416/is-there-anyway-to-use-js-libraries-in-riak
+# Colin Austin has picked up work on txriak, a library that the AuricSystems crew released last year. 
+-> "Code here":https://bitbucket.org/calston/txriak
+
+*Issues*
+
+# New
+-> "preflist_exhausted message when running out of VMs":https://github.com/basho/riak_pipe/issues/44
