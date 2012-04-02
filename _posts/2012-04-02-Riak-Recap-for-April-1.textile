@@ -1,0 +1,34 @@
+--- 
+title: Riak Recap for March 31 - April 1
+layout: newpost
+summary:
+---
+
+_Posted on April 2, 2012_
+
+Afternoon, Evening, Morning to All - 
+
+Today's Recap (live from DevOpsDays in Austin): meetups in Dallas and Atlanta, new code, and more. 
+
+Happy Monday. 
+
+"Mark":https://twitter.com/pharkmillups
+
+*Riak Recap for April 1*
+
+# Tryn Mirell is giving a Riak talk at the DFW Big Data Meetup this Thursday. 
+-> "Details here":http://www.dfwbigdata.org/events/54294192/
+# Will Farrington from High Groove will be talking about Riak at the Atlanta Ruby Meetup on April 11th. 
+-> "Details here":http://www.meetup.com/atlantaruby/events/53215152/
+# Nacho Martín has a fork of the Riak PHP client he's been doing some good work on:
+-> "Details here":http://twitter.com/nacmartin/status/186527619603374080
+# More SA Content that needs some love: 
+-> "Can Riak do facet queries?":http://stackoverflow.com/questions/9955135/can-riak-do-facet-queries
+-> "How do you store JSON in Riak via the PHP client?":http://stackoverflow.com/questions/9970956/storing-data-in-riak-as-json
+
+*Issues* 
+# New
+-> "Add request stages timing to get FSM"":https://github.com/basho/riak_kv/issues/309
+-> "riak_core_handoff_sender not accepted {error, vnode_shutdown} message":https://github.com/basho/riak_core/issues/160
+# Fixed 
+-> "Installation requiring bitbucket login":https://github.com/basho/riak-python-client/issues/108
