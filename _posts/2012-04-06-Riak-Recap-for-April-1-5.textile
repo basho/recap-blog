@@ -1,0 +1,39 @@
+--- 
+title: Riak Recap for April 1 - 5
+layout: newpost
+summary:
+---
+
+_Posted on April 6, 2012_
+
+
+Morning, Afternoon, Evening to All - 
+
+For today's Recap: new slides, talks, and more. 
+
+Have a great weekend. 
+
+"Mark":https://twitter.com/pharkmillups
+
+*Riak Recap for April 2 - 5* 
+
+# Basho Hacker Scott Fritchie posted his slides from Dtrace Conf.
+-> "Read here":http://www.snookles.com/scott/publications/dtrace.conf-2012.erlang-vm.pdf
+-> "You can also watch all the videos here":http://www.ustream.tv/channel/dtrace-conf
+# Pavlo Baron announced that his talk about Riak was accepted to Berlin Buzzwords. Congrats, Pavlo!
+-> "Sparse details here":http://twitter.com/#!/pavlobaron/status/187587740223815681
+# Basho Hacker Ian Plosker presented Riak at the RIT++ Conference in Moscow last week. 
+-> "Slides here":http://www.slideshare.net/profyclub_ru/introduction-to-riak-ian-plosker
+# Basho, Trifork and Erlang Solutions are doing another NoSQL Roadshow. This one will be in Zurich and is happening on April 26th. 
+-> "Details here":http://nosqlroadshow.com/nosql-zurich-2012/schedule/index.jsp
+
+*Issues*
+
+# New
+-> "Disable merges on startup to prevent high disk io with heavy requests":https://github.com/basho/bitcask/issues/42
+-> "Tombstones are not reaped if reaping occurs before tombstones reach all replicas":https://github.com/basho/riak_kv/issues/311
+-> "mochijson2 required for 2i driver":https://github.com/basho/basho_bench/issues/31
+-> "N Value Preflist Message is Vague":https://github.com/basho/riaknostic/issues/28
+-> "2i MapReduce can query non-extant keys":https://github.com/basho/basho_bench/issues/30
+-> "R14B04 is required":https://github.com/basho/riaknostic/issues/29 
+-> "The single character wildcard search matches multiple characters":https://github.com/basho/riak_search/issues/102
