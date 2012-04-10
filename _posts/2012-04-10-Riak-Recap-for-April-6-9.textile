@@ -1,0 +1,38 @@
+--- 
+title: Riak Recap for April 6 - 9
+layout: newpost
+summary:
+---
+
+_Posted on April 10, 2012_
+
+Afternoon, Evening, Morning to All - 
+
+For today's Recap: new code, conferences, and t-shirts for the taking. 
+
+Enjoy. 
+
+"Mark":https://twitter.com/pharkmillups
+
+*Riak Recap for April 6- 9*
+
+# If you're at Philadelphia ETE this week, keep an eye out for Tom Santero and Ryan Zezeski.
+->"Details here":http://basho.com/blog/technical/2012/04/09/Philly-ETE/
+# Pavlo Baron has a new repo up on GitHub that looks pretty promising. He's writing some code that makes it possible to port an app running MongoDB to use Riak as a backend. The code is still pretty young, but anyone who gets this up-and-running with a new or existing Mongo app and tells the list or the interner about is getting a bunch of Riak gear from me. 
+-> "Code here. Have fun.":https://github.com/pavlobaron/riak_mongo
+# The Monitis crew put together a blog post with some details on what you might want to monitor in Riak. 
+->  "Read here":http://blog.monitis.com/index.php/2012/04/09/key-metrics-used-for-web-oriented-storage-systems-monitoring-on-riak-example/
+# Tom Arnfeld wrote up some notes about getting Riak running Ubuntu 11.10. (Keep in mind that you'll need to modify the vm.args file if you want to start Riak using this on more than one node.) Thanks, Tom!
+-> "Read here":http://blog.tarnfeld.com/post/20804301749/riak-bootstrap-for-ubuntu-11-10
+
+*Issues*
+
+# New
+-> "unit test fails with AttributeError":https://github.com/basho/riak-python-client/issues/119
+-> "POST returns old format":https://github.com/basho/riak_kv/issues/313
+-> "Incorrectly detected write lock":https://github.com/basho/bitcask/issues/43
+-> "Should 2i query run reduce_identity?":https://github.com/basho/riak-python-client/issues/122
+-> "Backporting the cleanup done at the experimental riak-python-client2":https://github.com/basho/riak-python-client/pull/121
+
+# Closed
+-> "Documentation updates":https://github.com/basho/riak-erlang-client/pull/42
