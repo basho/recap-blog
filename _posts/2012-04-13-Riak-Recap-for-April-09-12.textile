@@ -1,0 +1,38 @@
+--- 
+title: Riak Recap for April 10 - 12
+layout: newpost
+summary:
+---
+
+_Posted on April 13, 2012_
+
+Evening, Morning, Afternoon to All - 
+
+For today's Recap: blog posts, meetups, new code, and more 
+
+May your weekend be merry, your pagers be silent, and your nodes always up. 
+
+"Mark":https://twitter.com/pharkmillups 
+
+*Riak Recap for April 10- 12*
+
+# Christiano Anderson escribió un poste del blog excelent sobre Riak y sus primeras impresiones de él. 
+-> "Léalo aqui":http://christiano.me/2012/04/11/riak-um-nosql-que-me-surpreendeu/
+# We put another BashoChats Meetup on the calendar at BashoWest. This one is happening on April 24th and is all about how and why the Yammer team built a 45 node Berkeley DB Cluster.
+-> "Details here":http://www.meetup.com/BashoChats/events/60019402/
+# Will Farrington of High Groove put together a great slide deck about Riak for last week's Atlanta Ruby Meetup. 
+-> "Check them out here":http://speakerdeck.com/u/wfarr/p/learn-you-some-riak
+# More slides... Andy Gross' slides from his Erlang Factory talk called "Building Cloud Services with Riak" are now live. 
+-> "Here":http://www.erlang-factory.com/upload/presentations/571/AndyGross-ErlangFactorySF2012-RiakCloudStorage.pdf
+# It looks like the Riak piece from IBM developerWorks that appeared a few weeks back has been translated into Japanese.
+-> "Read here":http://www.ibm.com/developerworks/jp/opensource/library/os-riak1/
+# Congrats to friends and Riak Users Voxer on raising a new round of funding! Go download Voxer if you haven't already. 
+-> "Details here":http://techcrunch.com/2012/04/11/walkie-talkie-app-voxer-goes-big-ivp-and-intel-lead-30-million-round/
+# Jon Brisbin's AMQP-RabbitMQ-Lager backend got an update. 
+-> "Details here":http://twitter.com/#!/j_brisbin/status/190904853294350339
+
+*Issues*
+
+# New
+-> "/var/run/riak is not recreated on demand at startup":https://github.com/basho/riak/issues/130
+-> "Riak can't listen on ipv6 addresses":https://github.com/basho/riak_core/issues/167
