@@ -1,0 +1,41 @@
+--- 
+title: Riak Recap for April 13 - 17
+layout: newpost
+summary:
+---
+
+_Posted on April 18, 2012_
+
+Evening, Morning, Afternoon to All - 
+
+For today's Recap: blog posts, new code, meetups, and more.
+
+Enjoy. 
+
+"Mark":https://twitter.com/pharkmillups 
+
+*Riak Recap for April 13 - 17*
+
+# There is an "Evening with Riak" planned in London on May 10th. 
+-> "Details here":http://www.meetup.com/DeNormalised-London/events/60652102/ 
+# For anyone in NYC, Tom Santero is getting the local Riak meetup up and running again.
+-> "Help us bring some concurrency to NYC":http://www.meetup.com/NYC-Riak-Meetup/messages/boards/thread/22412872/
+# Armon, Mitchell, and the team at Kiip.me wrote a post about why they are moving their data into PostgreSQL and Riak from MongoDB. 
+-> "Read here":http://blog.engineering.kiip.me/post/20988881092/a-year-with-mongodb
+# The team at StackMob released their Scala Client for Riak along with a blog post about it. 
+-> "Code":https://github.com/stackmob/scaliak 
+-> "Blog Post":https://github.com/stackmob/scaliak
+# Michael Klishin has been putting in some work on his Riak Clojure client.
+-> "Code here":https://github.com/michaelklishin/welle/commits/master
+# Another reminder about Justin Sheehy's talk happening in Chicago on May 29th. 
+-> "Details here":http://gotonightchicago.eventbrite.com/
+# I mentioned this on the list earlier but for those of you who just filter for the Recaps: we released some Riak badges; they will look beautiful on your site. 
+-> "Details here":http://basho.com/blog/technical/2012/04/18/Tell-the-World-About-Riak/
+
+*Issues* 
+
+# New 
+
+-> "fixed_char valgen":https://github.com/basho/basho_bench/issues/32
+-> "add latency leveling":https://github.com/basho/riak_kv/issues/316	
+-> "Ping Type Spec":https://github.com/basho/riak-erlang-client/issues/52
