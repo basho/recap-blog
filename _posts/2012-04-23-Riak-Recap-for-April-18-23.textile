@@ -1,0 +1,30 @@
+--- 
+title: Riak Recap for April 18 - 23
+layout: newpost
+summary:
+---
+
+_Posted on April 24, 2012_
+
+Morning, Evening, Afternoon to All -
+
+Here's a Recap to get caught up on the last few days: blog posts, new code, and more. 
+
+"Mark":https://twitter.com/pharkmillups 
+
+*Riak Recap for April 18 - 23*
+
+# popados released python-riakfs, a "Proof of concept Riak-backed virtual filesystem".
+-> "Code here":https://github.com/podados/python-riakfs
+# Zachary Fox released a PHP session handler that uses Riak for storage. 
+-> "Code here":https://github.com/zacharyfox/riak-php-sessions 
+# This was on the list a few days ago but it's worth sharing again: Dietrich Featherston wrote a great post about some issues Boundary was seeing with their Riak nodes. (If only all bug reports were this beautiful...)
+-> "Read here":http://blog.boundary.com/2012/04/19/hungry-kobayashi-pt1/
+# There's a new question on StackOverflow about using Riak with Rails. 
+-> "Read here":http://stackoverflow.com/questions/10226464/how-to-save-assets-to-riak-with-rails  
+# Onset Technology is hiring people with Riak and MySQL experience in Israel. 
+-> "Details here":https://twitter.com/#!/hofri/status/194484556777267202
+# Srdjan Pejic wrote a lengthy post about using Riak and Vagrant
+-> "Blog here":http://batasrki.github.com/blog/2012/04/22/riak-and-vagrant/
+# The Java Client Cookbook is coming along quite nicely.
+-> "Latest here":https://github.com/basho/riak-java-client/wiki/Cookbook
