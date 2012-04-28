@@ -1,0 +1,41 @@
+--- 
+title: Riak Recap for April 24 - 26
+layout: newpost
+summary:
+---
+
+_Posted on April 27, 2012_
+
+Evening, Morning, Afternoon to All -
+
+Huge Recap from the last few days: blog posts, slide decks, new code, and more. 
+
+Have a great weekend. 
+
+"Mark":https://twitter.com/pharkmillups
+ 
+*Riak Recap for April 24 - 27*
+
+
+# Today's Recap is dedicated to John Leach. Here's why:
+-> "He posted his slides from the Riak Leeds meetup that happened last week":http://johnleach.co.uk/downloads/slides/riak-consistent-hashing.pdf 
+-> "He wrote a blog post about how Brightbox is using Riak Search":johnleach.co.uk/words/1063/riak-syslog
+-> "He also released riak-syslog which lets you send your syslog messages into Riak for searching in Riak Search":https://github.com/johnl/riak-syslog
+# Manuel Rubio wrote his second blog post about Riak, this one a follow up to his initial overview. 
+-> "Read (in Spanish) here":http://bosqueviejo.net/2012/04/24/riak-revisando-y-practicando/
+# Pavlo Baron released a slide deck in which Riak features prominently. 
+-> "Check it out here":http://www.slideshare.net/pavlobaron/from-hand-to-mouth-pavlobaron
+# Pavlo also wrote a blog post about the riak_mongo code he and Kresten have been writing.
+-> "Read here":http://archi-jab-ture.blogspot.de/2012/04/riakmongo-making-riak-act-like-mongodb.html
+# Boundary wrote another blog post about Kobayashi, their distributed analytics database that makes use of Riak. 
+-> "Read here":http://blog.boundary.com/2012/04/25/hungry-kobayashi-part-2/
+# The team at Prezi released a slide deck with some details on how and why they are using Riak. 
+-> "Slides here":http://prezi.com/qpc9flfkdvzz/riak-prezi/
+# Sean Cribbs added a ton of information about Secondary Indexes to the Ruby Client Wiki. 
+-> "Fall in love with documentation again here":https://github.com/basho/riak-ruby-client/wiki/Secondary-Indexes
+# Shanley Kane wrote a piece for the Basho Blog about why your production Riak clusters should have at least five nodes. 
+-> "Read here":http://basho.com/blog/technical/2012/04/27/Why-Your-Riak-Cluster-Should-Have-At-Least-Five-Nodes/
+# The team at Three Pillar Global wrote the first of three blog posts all about Riak's MapReduce
+-> "Read here":http://www.threepillarglobal.com/node/323 
+# Karl Seguin wrote blog post about Riak's documentation and where he thinks we should take it. 
+-> "Read here":http://openmymind.net/2012/4/28/How-Id-Change-Riaks-Documentation/
