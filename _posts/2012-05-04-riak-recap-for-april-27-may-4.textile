@@ -17,7 +17,7 @@ Have a great weekend.
 *Riak Recap for April 27 - May 03*
 
 # Mathias Meyer did a podcast with the Engine Yard team about various things, one of which was Riak. 
--> Brew some coffee then go listen to "this":http://www.engineyard.com/podcast/data-based-part-1-mathias-meyer-and-the-riak-handbook2 
+-> Brew some coffee then go listen to "this":http://www.engineyard.com/podcast/data-based-part-1-mathias-meyer-and-the-riak-handbook 
 # The team at Three Pillar Global released parts two and three of their series on Riak's MapReduce. 
 -> "Part 2":http://www.threepillarglobal.com/node/324
 -> "Part 3":http://www.threepillarglobal.com/node/325
