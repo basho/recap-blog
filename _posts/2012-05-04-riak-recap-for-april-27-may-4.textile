@@ -1,0 +1,46 @@
+--- 
+title: Riak Recap for April 27 - May 03
+layout: newpost
+summary:
+---
+
+_Posted on May 04, 2012_
+
+Evening, Morning, Afternoon to All - 
+
+My deepest apologies for the Recap silence over the past week. At any rate, we have a huge Recap for today.
+
+Have a great weekend. 
+
+"Mark":http://twitter.com/pharkmillups 
+
+*Riak Recap for April 27 - May 03*
+
+# Mathias Meyer did a podcast with the Engine Yard team about various things, one of which was Riak. 
+-> Brew some coffee then go listen to "this":http://www.engineyard.com/podcast/data-based-part-1-mathias-meyer-and-the-riak-handbook2 
+# The team at Three Pillar Global released parts two and three of their series on Riak's MapReduce. 
+-> "Part 2":http://www.threepillarglobal.com/node/324
+-> "Part 3":http://www.threepillarglobal.com/node/325
+# Susan Potter's Stangeloop talk from last year called "Dynamo is not just for datastores" finally made it online. 
+-> "Watch here":http://www.infoq.com/presentations/Dynamo-Is-Not-Just-for-Datastores
+# Alen Mujezinovic's Django Riak Sessions code just hit v0.0.4.
+-> "Details here":http://pypi.python.org/pypi/django-riak-sessions/0.0.4		
+# I neglected to pass along this Riak talk along from Austin NoSQL that Matt Heitzenroder delivered a while ago but luckily Logan Lindquist brought it to my attention. 
+-> "Watch here":http://www.austintechvideos.com/v/196
+# Siguniang wrote a short post about getting Riak up-and-running on Ubuntu 12.04.
+-> "Read here":http://siguniang.wordpress.com/2012/04/28/install-riak-on-ubuntu-12-04/
+# Chad Depue and the team at Inaka Labs released a new iOS App that's built (partly) on Riak. 
+-> "Details and download here":https://twitter.com/#!/inakalabs/status/198084038551019520
+# We officially announced the first Riak Meetup in London. Dizzy Smith and Jon Meredith will be in attendance. 
+-> "Details and registration here":http://www.meetup.com/riak-london/events/62061262/  
+# There's a question up on StackOverflow about a Reference Error with custom JS with a MapReduce job. 
+-> Brave souls are encouraged to answer "here":http://stackoverflow.com/questions/10432761/riak-referenceerror-with-custom-javascript
+# We wrote a blog post about the new Basho office in Cambridge, MA. You should all come visit. 
+-> "Details here":http://basho.com/blog/technical/2012/04/30/Basho-office-in-Cambridge-is-all-new/
+# Shunichi Shinohara tweeted a photo of the Riak and Octocat logos spotted in the wild together. 
+-> "Picture here":https://twitter.com/#!/itawasa/status/198430879629058048
+
+*Jobs* 
+
+# Great opportunity to hack Riak, Erlang, and much more with the Diverseo team in Paris.
+-> "Details here":https://www.evernote.com/shard/s91/sh/ecff480c-9889-4b30-8159-9fe2e1f61724/05eb4d95ab506f17dfe9f02662bc3a86
