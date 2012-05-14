@@ -1,0 +1,44 @@
+--- 
+title: Riak Recap for May 04 - 13
+layout: newpost
+summary:
+---
+
+_Posted on May 14, 2012_
+
+Afternoon, Morning, Evening to All - 
+
+Here's a Recap for the last week or so: meetups in Paris and London, blog posts, a few issues, new code, and more.
+
+Happy Monday. 
+
+"Mark":https://twitter.com/pharkmillups 
+
+*Riak Recap for May 04 - May 13*
+
+# Another reminder about the first London Riak Meetup happening on May 30th. 
+-> Details "here":http://www.meetup.com/riak-london/events/62061262/
+# A few local Riak users are getting a Paris Riak Meetup off the ground. The première rencontre will be on June 7th, and will be at the ProcessOne offices. Mickaël Rémond and Eric Cestari deserve a big "Thanks!" for helping to get this off the ground. 
+-> Details "here":http://www.meetup.com/Paris-Riak-Meetup/events/64079822/
+# Network World wrote a short piece on Riak and Basho. 
+-> "Read here":http://www.networkworld.com/community/node/80486
+# We announced a Riak CS for Startups Program. 
+-> "Details here on the Basho Blog":http://basho.com/blog/technical/2012/05/14/Riak-CS-for-Startups/
+# Another reminder about the "Riak Community Release Notes" that we announced last week. 
+-> "Read here":http://basho.com/blog/technical/2012/05/09/Riak-Community-Release-Notes/   
+# Michael Bernstein is working on a Go API for Riak. 
+-> Some code and more info "here":https://twitter.com/#!/mrb_bk/status/201443147572723713   
+# We merged a small change to the PHP client from Gary Rafferty. 
+-> "Commit here":https://github.com/basho/riak-php-client/commit/9eecfbadf66eed640605d938fd4e95c27d9eb668
+# Some StackOverflow content to catch up on:
+-> "Is Riak recommended for storing and streaming large binary files?":http://stackoverflow.com/questions/10491156/is-riak-recommended-for-storing-and-streaming-large-binary-files
+-> "How Do I deploy Riak On DotCloud":http://stackoverflow.com/questions/10475394/how-do-i-deploy-riak-on-dotcloud  
+-> "Performance with Riak's MapReduce":http://stackoverflow.com/questions/6007833/riak-performance-unexpected-results   
+ 
+*Issues* 
+
+# New 
+-> "riak-admin incomplete regex for node name":https://github.com/basho/riak/issues/135
+-> "include/riak_object.hrl: "X-Riak-Deleted" MD key not present":https://github.com/basho/riak-erlang-client/issues/55   
+-> "Ensure ring_creation_size setting is in all app.config files":https://github.com/basho/riak/issues/139
+-> "Export functionality":https://github.com/basho/riaknostic/issues/35
