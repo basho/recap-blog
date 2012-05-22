@@ -1,0 +1,51 @@
+--- 
+title: Riak Recap for May 14 - 20
+layout: newpost
+summary:
+---
+
+_Posted on May 21, 2012_
+
+Evening, Morning, Afternoon to All - 
+
+Here's a Recap to catch up on the last few days: blog posts, conferences, code, and more.
+
+Enjoy. 
+
+"Mark":https://twitter.com/pharkmillups 
+
+*Riak Recap for May 14 - 20*
+
+# Matt Ranney and the team at Voxer released their production Node.js client for Riak. 
+-> "Details and code here on the Basho Blog":http://basho.com/blog/technical/2012/05/14/Voxers-NodeJS-Client-Now-Open-Source
+# David Dawson and Marcus Kern gave a talk in London a few weeks back called "Real Life Riak at MIG".
+-> "Watch here":http://skillsmatter.com/podcast/nosql/mobile-interactive-group-riak
+# Ian Plosker gave a "Introduction to Riak" talk at that same event. 
+-> "Watch here":http://skillsmatter.com/podcast/nosql/denormalised-riak
+# Tim Douglas and the team at Bump wrote a great blog post on how and why they made the transition to Riak from MongoDB. 
+-> "Read here":http://devblog.bu.mp/from-mongodb-to-riak-7138
+# Simon Buckle wrote his second piece on Riak for IBM developerWorks. This one is about using Riak as a cache. 
+-> "Read here":http://www.ibm.com/developerworks/opensource/library/os-riak2/index.html
+# This is a bit old but I'm including it because it's worthwhile (and I neglected to recap it when it was first published): Srdjan Pejic wrote a post called "Riak Search as a Means of Querying" that you should read. 
+-> "Blog here":http://batasrki.github.com/blog/2012/04/24/riak-search-as-a-means-of-querying/
+# Basho and Riak are going to have a big presence at Strange Loop in a few months (more to come on that soon)... To start things off, Sean Cribbs' "Eventually Consistent Data Structures" talk was accepted. (Pay special attention to this if you care about stricter consistency guarantees on top of Riak.) Also, go register for Strange Loop.
+-> "Talk details here":https://thestrangeloop.com/sessions/eventually-consistent-data-structures
+# Boundary hacker Dietrich Featherston gave a talk last week on one of their internal systems called Kobayashi and touches on how it makes use of Riak. (Also, if you're in/around San Francisco and aren't signed up for the Boundary Tech Talk Meetup Group, I "highly recommend you do so":http://www.meetup.com/Boundary-Tech-Talks/.)
+-> Slides from his talk "here":http://dl.dropbox.com/u/1133314/kobayashi/large-scale-olap-with-kobayashi.pdf
+# Steve Vinoski's "Objects, Anomalies, and Actors: The Next Revolution" talk from QConSF 2011 is now online. 
+-> "Watch here":http://www.infoq.com/presentations/Objects-Anomalies-and-Actors-The-Next-Revolution
+# Bradley Taylor and his team at Rails Machine are looking for a Web Operations Engineer. There's a non-trivial chance you'll get to do some ridiculous things with Riak. 
+-> "Details here":https://jobs.github.com/positions/327aceca-a04f-11e1-8feb-fd5ed15f1fe8
+# There are a few new pieces of Riak content up on SA. 
+-> "Best practices for MapReduce query on Secondary Indexes with AND conditions and ordering with the Java Client":http://stackoverflow.com/questions/10662221/riak-java-best-practices-for-mapreduce-query-on-secondary-indexes-with-and-con
+-> "ORM lirbary for Riak on Node.js":http://stackoverflow.com/questions/10608521/orm-lirbary-for-riak-on-node-js
+
+*Issues*
+
+# New 
+-> "solr indexing does not respect required fields":https://github.com/basho/riak_search/issues/106
+-> "bucket.get(None).exists() always returns True":https://github.com/basho/riak-python-client/issues/124
+-> "Can't set ulimit":https://github.com/basho/riak-chef-cookbook/issues/26
+# Closed/Fixed
+-> "Fixed early timeouts for some clients":https://github.com/basho/riak_control/pull/21
+-> "Change erlang_js driver to be compatible with R15 conventions":https://github.com/basho/erlang_js/pull/20
