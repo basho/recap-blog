@@ -1,0 +1,63 @@
+--- 
+title: Riak Recap for May 21 - June 6
+layout: newpost
+summary:
+---
+
+_Posted on June 07, 2012_
+
+Morning, Afternoon, Evening To All
+
+Here's a LONG overdue Recap (coming to you live from "dwelltime":http://dwelltimecambridge.com/ in Cambridge, MA; try the latte). As you can imagine, there's a lot of good stuff in here: new code, blog posts, meetups, slides, and more. 
+
+Enjoy. 
+
+"Mark":https://twitter.com/pharkmillups
+
+*Riak Recap for May 21 - June 6*
+
+# Tom Santero gave talk at GOTO Copenhagen a few weeks back called Riak in the Cloud. 
+->  "Slides here":http://www.slideshare.net/tsantero/riak-in-the-cloud
+# hexreel released bottle-riak, a plugin that integrates Riak with Bottle applications.
+->  "Code here":https://github.com/hexreel/bottle-riak
+# The team at QBranch put together a short blog post about how and why they are using Riak. 
+-> "Blog post":http://blog.frli.se/2012/05/riak-at-qbranch.html
+-> We also added them to the "production users page":http://basho.com/company/production-users#user-qbranch  (*You, too, could be on this page...*) 
+# Basho is sponsoring a round (or three) of drinks at Puppet Camp in Boston on June 22nd. 
+-> Details "here":http://puppetcampboston.eventbrite.com/
+# Thiago Avelino gave a presentation on Riak Search and released his slides. 
+-> Check them out "here":http://www.slideshare.net/avelinoo/nosql-for-search-riak
+# Just before heading on holiday, Mathias Meyer gave a great talk at NoSQL Matters called Designing for Concurrency with Riak. 
+-> Slides "here":https://speakerdeck.com/u/roidrage/p/designing-for-concurrency-with-riak
+# Nam Nguyen wrote a blog post about his first week working with Riak. 
+-> Read "here":http://techualization.blogspot.com/2012/05/one-week-with-riak.html
+# Michael Bernstein released a whole bunch of Go and Riak code. 
+-> "riakpbc: a Riak PBC client for GO":https://github.com/mrb/riakpbc
+-> "shoebox: a sample Riak application written in Go":https://github.com/mrb/shoebox
+# Matt Ranney and the Voxer crew will be talking about using Riak in Production at the Next SF Riak Meetup. 
+-> Details and registration "here":http://www.meetup.com/San-Francisco-Riak-Meetup/events/68028502/
+# Sean Cribbs gave a talk at Berlin Buzzwords on eventually consistent data structures and how they might work in Riak.
+-> Slides "here":http://berlinbuzzwords.de/sites/berlinbuzzwords.de/files/slides/Eventually-Consistent%20Data%20Structures%20(bbuzz12).pdf 
+# More new code: Andrea Luzzardi released a statsd plugin for Riak Python clients. 
+-> Code "here":https://github.com/aluzzardi/riak-statsd-python
+# Ulf Norell and John Hughes (with the help of Scott Lystig Fritchie, Jon Meredith, and Dave Smith) gave at talk at the recent Erlang User Conference about testing Riak (and eventual consistency) with QuickCheck. 
+-> Slides "here":http://www.erlang-factory.com/upload/presentations/593/ThePropertiesofRiak.pdf
+# George Reese wrote a piece for O'Reilly about using Riak with Dasein Persist.
+-> Read "here":http://broadcast.oreilly.com/2012/05/object-nosql-mapping-for-riak-with-dasein-persist.html 
+# Andy Gross' Riak Use Cases slides from GOTO Amsterdam are online. 
+-> Check them out "here":http://gotocon.com/dl/goto-amsterdam-2012/slides/AndyGross_RiakUseCasesDissectingTheSolutionsToHardProblems.pdf 
+# Ilya Bogunov gave a talk on Riak and the video made it online. 
+-> Watch "here":https://vimeo.com/42619422
+# Colin Alston moved over the Twisted Python code he and a few others at Praekelt are working on to a GitHub repo called riakasaurus. 
+-> Code "here":https://github.com/calston/riakasaurus 
+-> I also did some snooping on Colin's blog and it turns out he was "hiding a few posts about Riak":http://imcol.in/?s=riak+ 
+# The team at Rakuten released a slide deck about a storage system they wrote called LeoFS that uses Bitcask. 
+-> Slides "here":http://www.slideshare.net/rakutentech/rakuten-leofs-distributed-file-system
+# Carlo Scarioni wrote a blog post about using Java to talk to Riak, MongoDB, Cassandra, Redis and CouchDB.
+-> Read "here":http://cscarioni.blogspot.co.uk/2012/06/i-had-requirement-in-my-current-job-to.html
+# Some new StackOverflow Content to pass along:
+-> "Riak Search Strings all JSON":http://stackoverflow.com/questions/10893140/riak-search-json-properties-are-all-strings
+-> "Riak for Grails Plugin":http://stackoverflow.com/questions/10752381/riak-for-grails-plugin
+-> "Finding Maximum Value for Numeric Secondary Index in Riak":http://stackoverflow.com/questions/10793760/finding-maximum-value-for-numeric-secondary-index-in-riak
+# We released v0.3 of the Riak Community Release Notes. 
+-> Read "here":https://github.com/basho/the-riak-community/blob/master/release-notes/riak-community-0.3.md
