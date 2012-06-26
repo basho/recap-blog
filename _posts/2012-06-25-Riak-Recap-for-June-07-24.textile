@@ -1,0 +1,56 @@
+--- 
+title: Riak Recap for June 7 - June 24
+layout: newpost
+summary:
+---
+
+_Posted on June 25, 2012_
+
+Evening, Morning, Afternoon to All -
+
+Yet another LONG overdue Recap. Talks, code, and more.
+
+Also, if anyone is going to be at Velocity this week in Santa Clara, ping me. I'll be there.
+
+Enjoy.
+
+"Mark":twitter.com/pharkmillups
+
+*Riak Recap for June 7 - June 24*
+
+# Ward Bekker wrote up some instructions on using the riak_mongo code that Pavlo Baron started.
+-> "Read here":https://github.com/wardbekker/riak_mongo/wiki/OSX-Installation-Instructions
+# There are three new posts on the Basho Blog related to the 1.2 release.
+-> "Supporting Riak on *BSD":http://basho.com/blog/technical/2012/06/11/Supporting-Riak-on-BSD/ 
+-> "When API Compatible Isn't":http://basho.com/blog/technical/2012/06/18/When-API-Compatible-Isnt/
+-> "Better Visibility Into Partition Transfers In Riak 1.2":http://basho.com/blog/technical/2012/06/25/Riak-Admin-Transfers-in-1-2-Release/
+# Sean Cribbs' Eventually Consistent Data Structures talk from Berlin Buzzwords is now online.
+-> "Watch here":https://vimeo.com/album/1968418/video/43903960
+# Adrian Hills wrote a blog post about using Riak and .NET for Dzone.
+-> "Read here":http://architects.dzone.com/articles/playin-around-riak-and-net
+# Andrew Crute wrote an introductory Riak post for the Near Infinity blog.
+-> "Read here":http://www.nearinfinity.com/blogs/andrew_crute/2012/06/18/a-brief-introduction-to-riak.html
+# The Second London Riak Meetup is happening July 5th.
+-> "Details here":http://www.meetup.com/riak-london/events/69174012/
+# The first Riak Meetup in Chicago is happening July 11th. The team from Braintree is presenting at their offices on how they are using Riak and Ruby in production.
+-> "Details here":http://www.meetup.com/Chicago-Riak-Meetup/
+# Zachary Voase released rkQuery, a library for programmatically building Riak search queries.
+-> "Code here":https://github.com/zacharyvoase/rkquery 
+# Basho's Ian Plosker is on the OSCON schedule with a talk called "America's Next Top Data Model".
+-> Details "here":http://www.oscon.com/oscon2012/public/schedule/detail/24137
+# There's some work being doing to get Riak working with SimpleSAMLphp.
+-> Details "here":http://groups.google.com/group/simplesamlphp/browse_thread/thread/ced076b29a12514f
+# Some Q and A from various sources
+-> "How do I model a twitter clone with Riak?":http://www.quora.com/Riak/How-do-I-model-a-twitter-clone-with-Riak
+-> "Using a Riak Pre-Commit Hook to validate JSON":http://stackoverflow.com/questions/11011366/use-riak-pre-commit-hook-to-validate-json-schema
+-> "How to run an Erlang MapReduce function on Riak?":http://stackoverflow.com/questions/10985458/how-to-run-an-erlang-mapreduce-function-on-riak
+-> "Store the output of a MapReduce job directly on the Riak cluster?":http://stackoverflow.com/questions/11106333/store-the-output-of-a-mapreduce-job-directly-on-the-riak-cluster
+-> "Django and riak engine not found":http://stackoverflow.com/questions/11114789/django-and-riak-engine-not-found
+-> "riak content_type no method error":http://stackoverflow.com/questions/11184103/riak-content-type-no-method-error
+-> "RIAK: Mapping JSON response to an Object":http://forum.springsource.org/showthread.php?127536-RIAK-Mapping-JSON-response-to-an-Object
+# We added a few new production users.
+-> "Klarna":http://basho.com/company/production-users/#user-klarna
+-> "Brightbox":http://basho.com/company/production-users/#user-brightbox
+-> "Gatso":http://basho.com/company/production-users/#user-gatso
+# There's a new Perl library for Riak called Data-Riak
+-> "Code here":http://search.cpan.org/~anelson/Data-Riak-0.1/
