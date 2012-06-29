@@ -1,0 +1,34 @@
+--- 
+title: Riak Recap for June 25 - 28
+layout: newpost
+summary:
+---
+
+_Posted on June 29, 2012_
+
+Afternoon, Evening, Morning to All 
+
+Today's Recap comes to you live from "DevOpsDays in Mountain View":http://devopsdays.org/events/2012-mountainview/. We have new code, Q & A, slides, and more to take you into the weekend. 
+
+Enjoy and have a great weekend. 
+
+"Mark":https://twitter.com/pharkmillups
+
+*Riak Recap for June 25 - 28*
+
+# We just announced the next Riak Meetup in LA. This one will feature the OpenX team talking about using Riak in production and it's happening on July 18th. (Also, I'll be in LA for the meetup, so if anyone in the area wants to get together and talk Riak, let me know.)
+-> "Details here":http://www.meetup.com/Los-Angeles-Riak-Meetup/events/71281742/
+# John Vincent put together some code that adds Riak output support to logstash. (Rumor has it that John wrote this on a plane, so from now any Riak-related code written on a plane that I know about will get some special swag. This is your incentive to keep me informed.)
+-> "Details here":https://twitter.com/lusis/status/217463225657204736
+# There's a question on Quora about LevelDB vs. Bitcask
+-> "Read and respond here":http://www.quora.com/Riak/Which-is-better-bitcask-or-leveldb
+# Emily Rose has apparently been hacking on a new Node.js client for Riak, though, for some reason, she was hiding it from us :)
+-> "Code here":https://github.com/nexxy/riakstar
+# Mathias Meyer wrote a blog post about Riak and CRDTs. His posts are always a worthwhile read. 
+-> "Blog here":http://www.paperplanes.de//2012/6/27/playing-with-riak-and-crdts.html
+# Basho officially opened a new office in London. (If you're going to be in London and want to swing by, shoot a message to roder@basho.com.) 
+-> "Details here":http://www.streetinsider.com/Press+Releases/Basho+Opens+U.K.+Office+to+Anchor+European+Operations/7547187.html 
+# booo is working on a sqlite backend for Riak.
+-> "Code here":https://github.com/booo/riak_kv/tree/sqlite
+# Basho Hacker Chris Meiklejohn gave a talk at the EmberJS meetup yesterday in Boston. He shared some details on how he is using it in Riak Control. 
+-> "Slides here":https://speakerdeck.com/u/cmeiklejohn/p/emberjs-state-manager
