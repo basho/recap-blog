@@ -1,0 +1,65 @@
+--- 
+title: Riak Recap for June 29 - July 11
+layout: newpost
+summary:
+---
+
+_Posted on July 12, 2012_
+
+Morning, Afternoon, Evening to All 
+
+OK. A lot to cover today. Grab a glass/mug of your favorite $DRINK and settle in. 
+
+Happy Thursday. 
+
+"Mark":https://twitter.com/pharkmillups
+ 
+*Riak Recap for June 29 - July 11*
+
+# Basho Hacker Russell Brown wrote a blog post about the new stats code that will be in Riak 1.2.
+-> "Read here":http://basho.com/blog/technical/2012/07/02/folsom-backed-stats-riak-1-2/
+# Basho Hacker Bryce Kerley wrote some CRDT code called Hanover that will eventually target Riak. 
+-> "Code here":https://github.com/bkerley/hanover 
+# Data-Riak was bumped to v0.3 
+-> "Code here":http://search.cpan.org/~anelson/Data-Riak-0.3/
+# Mathias Meyer wrote a great blog post all about his experiences selling the Riak Handbook. 
+-> "Read here":http://www.paperplanes.de/2012/7/5/six-ish-months-of-ebook-sales-riak-handbook.html
+# Lots of great stuff coming via the team at Boundary:
+-> "Ray Jenkins wrote a blog post about how they use Scala with Riak":http://blog.boundary.com/2012/07/09/reusable-patterns-for-riak-in-scala/
+-> "He also released their Scala/Riak code (or at least made its existence known)":https://github.com/rjenkins/riak-scala-dao
+-> "AND they announced a new round of funding. Congrats to the team!":http://blog.boundary.com/2012/07/10/big-day-for-boundary-15m-in-new-funding/
+# GoGrid now has a Riak image built for their platform. They wrote a great blog post about how (and why) to use it. 
+-> "Read here":http://blog.gogrid.com/2012/07/09/create-a-basho-riak-cluster-on-gogrid/
+# OJ Reeves delivered the long-awaited 5th installment of his Riak, Webmachine, and ErlyDTL blog series. This one did not disappoint. 
+-> "Read here":http://buffered.io/posts/webmachine-erlydtl-and-riak-part-5/
+# Basho Hacker Reid Draper gave a talk at Clojure/West about Knockbox and it's now online for viewing. 
+-> "Watch here":http://www.infoq.com/presentations/Knockbox-an-Eventual-Consistency-Toolkit
+# We added a Riak/Couchbase comparison to the wiki. (h/t to Seth Benton and new-minted Basho Dev Eric Redmond for putting this together. )
+-> "Read here":http://wiki.basho.com/Riak-Compared-to-Couchbase.html 
+# mbk (from the Engine Yard crew) got started on some Ruby code called riak-shim that generates "sensible bucket names" based on config data. 
+-> "Code here":https://github.com/mkb/riak-shim 
+# We released the videos of Voxer's talk from the last Riak Meetup in San Francisco. 
+-> "Watch here":http://basho.com/blog/technical/2012/06/27/Riak-at-Voxer/
+# Sebastian Röbke shared a pretty amazing photo of what they do at they do at the Xing.com offices. 
+-> "Check it out here":https://twitter.com/boosty/status/220997388754632704 
+# We got started on a Riak Charm for Juju. 
+-> "Details here on Launchpad":https://bugs.launchpad.net/charms/+bug/1022591
+# Some Q & A from Stack Overflow 
+-> "Does Riak have any synchronization features to help sych. mobile and web apps?":http://stackoverflow.com/questions/11351866/does-riak-have-any-sychronization-features-to-help-sych-mobile-and-web-apps
+-> "Riak Failure Scenarios":http://stackoverflow.com/questions/11272276/riak-failure-scenarios 
+-> "LinkWalk in Riak":http://stackoverflow.com/questions/11384068/linkwalk-in-riak
+# We released the first of two talks from the last BashoChats meetup. This one of from Jeff Hodges and it's all about Go. 
+-> "Watch here":http://basho.com/blog/technical/2012/07/10/escape-hatches-in-go-basho-chats/
+
+*Contributions*
+
+-> "Add crash_log to TestServer app_config":https://github.com/basho/riak-python-client/pull/137
+-> "Throw an exception if the TestServer fails to start":https://github.com/basho/riak-python-client/pull/136
+-> "Test server fixes":https://github.com/basho/riak-python-client/pull/132
+-> "Allow commented out "-name" lines":https://github.com/basho/riak/pull/169
+->" Flatten MaxScore string so that it is consistent in all interfaces.":https://github.com/basho/riak_search/issues/118
+
+*Issues*
+
+-> "Compression unit test fails with latest eleveldb":https://github.com/basho/eleveldb/issues/31
+-> "Support the head parameter if pbc transport is used":https://github.com/basho/riak-python-client/issues/134
