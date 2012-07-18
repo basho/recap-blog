@@ -1,0 +1,52 @@
+--- 
+title: Riak Recap for July 12 - 16 
+layout: newpost
+summary:
+---
+
+_Posted on July 17, 2012_
+
+Evening, Morning, Afternoon to All - 
+
+For today's Recap: new code, blogs, docs, funding, and more. 
+
+Enjoy and thanks for being a part of Riak. 
+
+"Mark":http://twitter.com/pharkmillups 
+
+*Riak Recap for July 12 - 16*
+
+# Tom mentioned this on the list yesterday but it's worth relaying again: we announced the first annual RICON conference. This will be two days dedicated to Riak and distributed systems in production and it's taking place this October in San Francisco. 
+-> "Details here":http://basho.com/community/ricon2012/
+# Basho also announced an investment from Yahoo! JAPAN Subsidiary IDC Frontier. This would not have been possible without your testing, usage, and assistance in developing Riak alongside us. "Thanks" from all of us here at Basho. 
+-> "Coverage here on GigaOm":http://gigaom.com/cloud/nosql-startup-basho-raises-11-1m-and-storms-japan/
+-> "Write-up on TechCrunch":http://techcrunch.com/2012/07/17/big-in-japan-open-source-nosql-company-basho-lands-new-11-5-round 
+-> "On Reuters":http://www.reuters.com/article/2012/07/17/us-yahoo-japan-basho-idUSBRE86G0Z820120717
+# Some new documentation to share:
+-> "Riak and Hbase Comparison":http://wiki.basho.com/Riak-Compared-to-HBase.html
+-> "Riak and CouchDB Comparison":http://wiki.basho.com/Riak-Compared-to-CouchDB.html
+-> "Revamped Client Libraries page":http://wiki.basho.com/Client-Libraries.html (including a feature matrix for API compatibility)
+-> "Enhanced Docs on Search and Aggregation in Riak":http://wiki.basho.com/Searching-and-Aggregating-Data.html
+# Related to above, DevOps Angle posted a short write-up on our comparisons section. 
+-> "Read here":http://devopsangle.com/2012/07/12/nosql-database-religion-comparing-riak-to-others/
+# The Data-Riak Perl library just hit v0.5.
+-> "Code here":http://search.cpan.org/~anelson/Data-Riak-0.5/
+# Lei Gu of 2nd Screen Targeting posted some details on why they are going with Riak. 
+-> "Read here":http://2rdscreenretargeting.blogspot.com/2012/07/why-we-chose-riak-as-persistence.html
+# He also wrote a blog post on using the Java Client. 
+-> "Post here":http://2rdscreenretargeting.blogspot.com/2012/07/riak-java-client-distilled.html
+# The team at Trifork is working on a C client for Riak. 
+-> "Code here":https://github.com/trifork/riack
+# Shai Rosenfeld wrote a quick blog post on the riak-shim code he and a few other are working on at Engine Yard. 
+-> "Read here":http://shairosenfeld.com/blog/index.php/2012/07/riak-shim/
+# Scott Leberknight wrote A "Intro to Riak" blog post for Dzone. 
+-> "Read here":http://architects.dzone.com/articles/brief-introduction-riak 
+# Tom Arnfeld has some *very early* code started for a Fuel ORM for Riak 
+-> "I'm sure he's looking for contributors":https://github.com/tarnfeld/fuel-riak-orm
+# A huge congratulations to the Armon Dadgar, Mitchell Hashimoto, and the team at Kiip on the Series B funding they announced today. 
+-> "Blog post here":http://blog.kiip.me/post/27401788412/kiip-raises-a-series-b
+# Some Q & A:
+-> "How to model Cassandra's super column family using Riak?":http://stackoverflow.com/questions/11498082/how-to-model-cassandras-super-column-family-using-riak 
+-> "Best database for a timeline with multiple potential injectors":http://stackoverflow.com/questions/11511358/timeline-with-multiple-potential-injectors
+-> "Riak Map Reduce returns extra "struct" values":http://forums.pragprog.com/forums/202/topics/10881 
+-> "Riak Installation on Linux Mint 12":http://forums.pragprog.com/forums/202/topics/10883
