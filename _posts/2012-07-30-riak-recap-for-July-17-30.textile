@@ -1,0 +1,55 @@
+--- 
+title: Riak Recap for July 17 - 30 
+layout: newpost
+summary:
+---
+
+_Posted on July 30, 2012_
+
+Evening, Morning, Afternoon to All - 
+
+Long Recap today: Q & A, blog posts, new code, production users, and more.
+
+Enjoy. 
+
+"Mark":http://twitter.com/pharkmillups 
+
+*Riak Recap for July 17 - 30*
+
+# Andrew Nelson pushed his Data-Riak code past version 1.0. The latest release, 1.1, was official on July 26th. 
+-> "Code here":http://search.cpan.org/~anelson/Data-Riak-1.1/
+# Marius Ghita got started on a set of shell functions for Riak.
+-> "Code here":https://github.com/mhitza/riak-by-shell
+# Boundary's Dietrich Featherston tweeted a photo of some of the work he and the team have done with Riak and their custom OLAP engine. 
+-> "Check it out here":http://twitter.com/d2fn/status/228556585713143808
+# Rodrigo De Castro has been publishing a lot about Riak for Dzone.
+-> "How to use a Pre-commit hook":http://architects.dzone.com/articles/how-use-precommit-hook-riak
+-> "Why I Think Riak is a Great NoSQL Option":http://architects.dzone.com/articles/why-i-think-riak-great-nosql
+-> "Understanding Vector Clocks with Riak":http://architects.dzone.com/articles/understanding-vector-clocks
+# Congrats to Nate, Brandon, and the rest of the team at Zendcoder on becoming part of Brightcove. 
+-> "Read here":blog.zencoder.com/2012/07/26/brightcove-acquires-zencoder/
+# Jeremy Ong wrote up a quick post on using secondary indexes with the erlang client.  
+-> "Blog here":http://www.jeremyong.com/blog/2012/07/23/secondary-indices-in-riak-with-erlang/
+# James Governor of Redmonk wrote a blog post about Basho's new London office.
+-> "Read here":http://redmonk.com/jgovernor/2012/07/25/basho-comes-to-shoreditch-a-tech-city-and-redmonk-story/
+# We added some new Riak production users to the basho site.
+-> "EnStratus":http://basho.com/company/production-users/#user-enstratus
+-> "LoveIt":http://basho.com/company/production-users/#user-loveit
+-> "Payango":http://basho.com/company/production-users/#user-payango
+# Sean Cribbs wrote up some details on the changes coming to the Protocol Buffers interface in Riak 1.2. 
+-> "Read here":http://basho.com/blog/technical/2012/07/18/Protobuffs-in-Riak-1-2/
+# Tanya Cashorali, a member of the Basho team, wrote a blog post about how we analyze customer support data with R and Zendesk.
+-> "Read here":http://basho.com/blog/technical/2012/07/30/Analyzing-Customer-Support-at-Basho/
+# Tom Santero and I will be in NYC on August 15th to give a Riak Training at the General Assembly offices that is open to the public. 
+-> "Details here for those of you who might like to join":http://www.eventbrite.com/event/3986385386/ 
+# Q & A from Stack Overflow:
+-> "Are read operations expensive on Riak?":http://stackoverflow.com/questions/11593563/is-read-operations-expensive-on-riak
+-> "Is it possible (and wise) to add more data to the riak search index document, after the original riak object has been saved":http://stackoverflow.com/questions/11582015/is-it-possible-and-wise-to-add-more-data-to-the-riak-search-index-document-af 
+-> "Duplicates when link walking using the Ripple client":http://stackoverflow.com/questions/11575301/duplicates-when-linkswalking-riak-using-ripple 
+-> "How to Return Riak Objects Sorted by Key Value?":http://stackoverflow.com/questions/11573051/how-to-return-riak-objects-sorted-by-key-value 
+-> "Riak pid - where is it and is one created":http://stackoverflow.com/questions/11656960/riak-pid-where-is-it-and-is-one-created 
+-> "Riak and atomic increments":http://stackoverflow.com/questions/11640253/riak-and-atomic-increments 
+
+*Issues*  
+
+# "make: git: Command not found - worth reading if you don't have git available":https://github.com/basho/riak/issues/191
