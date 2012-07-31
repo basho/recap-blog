@@ -36,7 +36,7 @@ Happy Thursday.
 -> "Watch here":http://www.infoq.com/presentations/Knockbox-an-Eventual-Consistency-Toolkit
 # We added a Riak/Couchbase comparison to the wiki. (h/t to Seth Benton and new-minted Basho Dev Eric Redmond for putting this together. )
 -> "Read here":http://wiki.basho.com/Riak-Compared-to-Couchbase.html 
-# mbk (from the Engine Yard crew) got started on some Ruby code called riak-shim that generates "sensible bucket names" based on config data. 
+# mkb (from the Engine Yard crew) got started on some Ruby code called riak-shim that generates "sensible bucket names" based on config data. 
 -> "Code here":https://github.com/mkb/riak-shim 
 # We released the videos of Voxer's talk from the last Riak Meetup in San Francisco. 
 -> "Watch here":http://basho.com/blog/technical/2012/06/27/Riak-at-Voxer/
