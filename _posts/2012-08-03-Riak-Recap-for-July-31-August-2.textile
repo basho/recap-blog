@@ -1,0 +1,33 @@
+--- 
+title: Riak Recap for July 31 - August 02 
+layout: newpost
+summary:
+---
+
+_Posted on July 30, 2012_
+
+Morning, Afternoon, Evening to All -
+
+Short Friday Recap: videos, blog posts, production users, and more.
+
+Enjoy and have a great weekend.
+
+"Mark":http://twitter.com/pharkmillups
+
+*Riak Recap for July 31 - August 2*
+
+# We announced a few more RICON talks (and there are more speakers on the way...):
+-> "Keep CALM and Query On":http://basho.com/community/ricon2012/#joseph-hellerstein-talk
+-> "Rebuilding a Bird in Flight":http://basho.com/community/ricon2012/#dana-contreras-talk
+-> "Building a Transaction Logs-based Protocol on Riak":http://basho.com/community/ricon2012/#tim-will-talk
+-> "Data Structures in Riak":http://basho.com/community/ricon2012/#sean-russell-talk
+# The team a Boundary posted some details on a recent Riak-related issue they had with their service. (Also h/t to Boundary for setting a great precedent around outage transparency.)
+-> "Read here":http://blog.boundary.com/2012/08/01/riak-kobayashi-post-mortem/
+# Charles Gildawie posted a blog about his first impressions of Riak.
+-> "Read here":http://nosqlsolution.blogspot.com/2012/07/fun-with-riak.html
+Basho posted some details on ideeli's Riak usage.
+->  "Case study here":http://basho.com/assets/Basho-Case-Study-ideeli.pdf
+# Basho hacker Randy Secrist will giving a talk on Riak and PHP at the Utah PHP User Group on August 16th.
+->  "Details here":http://uphpu.org/2012/08/01/august-16th-meeting-randy-secrist-an-intro-to-riak-and-php/
+# InfoQ posted a video of Basho CTO Justin Sheehy and someone named Rich Hickey arguing about databases.
+->  "See who wins here":http://www.infoq.com/interviews/rich-Hickey-and-justin-sheehy-about-datastores,-nosql-and-cap
