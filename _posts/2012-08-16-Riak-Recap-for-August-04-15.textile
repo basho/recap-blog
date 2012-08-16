@@ -1,0 +1,48 @@
+--- 
+title: Riak Recap for August 4 - 15
+layout: newpost
+summary:
+---
+
+Morning, Afternoon, Evening to All.
+
+Today's Recap comes to you from the lovely couches at the "Paperlesspost":http://www.paperlesspost.com/ offices in NYC. We've got code, blogs, videos, and more.
+
+Enjoy. 
+
+Mark
+twitter.com/pharkmillups 
+
+*Riak Recap for August 4 - 15*
+
+# We added a whole mess of RICON talks (and we still have a few more to announce). Reminder that you should attend RICON an  ping me for a discount code. 
+-> "Talk descriptions here":http://lanyrd.com/2012/ricon2012/
+-> "Conference site here":http://ricon2012.com 
+-> "Buy tickets for you and your friends here":http://ricon2012.eventbrite.com
+# We posted the video of the Riak at Braintree talks that happened last month at the Chicago meetup. This one is well worth your 30 minutes. 
+-> "Watch here":http://basho.com/blog/technical/2012/08/14/riak-at-braintree/
+# The Riak Homebrew Recipe was updated for 1.2
+->"Details here":https://twitter.com/HomebrewUpdates/status/232898132076285952
+# Basho hacker Ryan Zezeski is fiddling with Riak and Solr. (It's worth noting that this code is inspired by work that John Muellerleile started some months ago. )
+-> "Code here":https://github.com/rzezeski/yokozuna
+# The H-Online wrote a piece about 1.2's official FreeBSD support. 
+-> "Read here":http://www.h-online.com/open/news/item/Riak-clustered-NoSQL-database-adds-official-FreeBSD-support-1662846.html
+# Brian McClain is working on a BOSH release for Riak. (This should be interesting to any of you Cloud Foundry fans out there.)
+-> "Code here":https://github.com/BrianMMcClain/riak-release
+# We announced the first Riak Boston Meetup. The team at Shareaholic will be sharing details on their live Mongo -> Riak migration. it's happening on August 30th at the Basho offices.  
+-> "Details here":http://www.meetup.com/Boston-Riak/events/77828202/
+# Basho released some Nagio scripts for Riak. 
+-> "Code here":https://github.com/basho/riak_nagios
+# Dan Ostrowski is has some new Python code up on Bitbucket for modeling Riak documents
+-> "Code here":https://bitbucket.org/danostrowski/riakdocs
+# Justin Sheehy was interviewed about, among other things, Riak and Eventual Consistency by odbms.org. 
+-> "Commit to memory here":http://www.odbms.org/blog/2012/08/on-eventual-consistency-an-interview-with-justin-sheehy/
+# TransactCharlie posted a video of a lightning talk called "The CAP Theorem, Riak and Beyonce". 
+-> "Watch here":http://vimeo.com/47379379
+# A video of Kresten Krab Thorup's "Bringing Riak to the Mobile Platform" talk from QCon London is now online an viewable. 
+-> "Watch here":http://www.infoq.com/presentations/Riak-BucketDB-Mobile
+# A bunch of Q & A from SA to pass along:
+-> "Riak Plugin for Grails failing":http://stackoverflow.com/questions/11837873/riak-for-grails-plugin-failing-to-work
+-> "Simple Search MapReduce throws exception":http://stackoverflow.com/questions/11921245/riak-simple-searchmapreduce-throws-ioexception
+-> "Avoiding duplication of Riak Key":http://stackoverflow.com/questions/11921001/avoiding-duplication-of-riakkey-in-baseentity-and-derived-classes 
+-> "Three node cluster start up on Mac":http://stackoverflow.com/questions/11879442/riak-3-node-cluster-start-up-on-mac-same-machine
