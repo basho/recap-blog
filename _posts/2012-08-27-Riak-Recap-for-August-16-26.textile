@@ -1,0 +1,63 @@
+--- 
+title: Riak Recap for August 16 - 27
+layout: newpost
+summary:
+---
+
+Morning, Evening, Afternoon to All -
+
+Big Recap for today: code, blogs, slides, meetups galore, and more.
+
+Enjoy. And go register for "RICON":http://ricon2012.com if you haven't already done so.
+
+"Mark":https://twitter.com/pharkmillups
+
+*Riak Recap for August 16 - 26*
+
+# Dave Parfitt got a little crazy and started tinkering with a Riak OCaml client.
+-> "Code here":https://github.com/metadave/riak-ocaml-client
+# Dave also spent some time hacking prelimary Riak support into YCSB.
+-> "Still very beta":https://github.com/metadave/YCSB/tree/master/riak
+# The crew at Puppet Labs is offering a bounty for a Riak module. We're also throwing in a RICON ticket for the eventual winner.
+-> "Details here":http://puppetlabs.com/blog/puppet-module-bounty-logstash-riak-and-graphite/
+# Sebastian Cohnen wrote a blog post on how to go about upgrading from 0.14 to 1.2
+-> "Read here":http://puppetlabs.com/blog/puppet-module-bounty-logstash-riak-and-graphite/
+# There's a new SF Riak Meetup on the calendar. This one is happening on September 5th and will feature Andy Gross and Shanley Kane going in-depth on Riak 1.2.
+->  "Details here":http://www.meetup.com/San-Francisco-Riak-Meetup/events/78766672/
+# We announced a Riak Meetup in London happening this Wednesday. (I'll be on hand for this one.)
+-> "Register here":http://www.meetup.com/riak-london/events/79190462/
+# There will be a Riak Meetup in Leeds on September 19th.
+->  "Details here":http://www.meetup.com/Leeds-Riak/events/78269232/
+# AND there's a Riak Meetup happening at the Basho offices in Cambridge, MA this Thursday. 
+-> "Details here":http://www.meetup.com/Boston-Riak/events/77828202/
+# Tom Santero gave a talk at the NYC Devops Meetup all about Riak and how Basho does DevOps.
+->  "Slides here":https://speakerdeck.com/u/tsantero/p/devops-at-basho (including a picture of our CEO shelling out cash for RAM)
+# Tom has been busy. He gave a talk called "The Persistence of Data" a few days before that at another NYC Meetup.
+->  "Slides here":https://speakerdeck.com/u/tsantero/p/the-persistence-of-data
+# We added Nimbuzz to the production users page:
+-> "Details here":http://basho.com/company/production-users/#user-nimbuzz
+# Casey Rosenthal has some experimental code on GitHub that uses Ripple to for calculating rolling averages.
+-> "Check it out here":https://github.com/clr/riak-rolling-average
+# Riak-shim just hit 0.12.
+->  "Latest here":https://twitter.com/rubygems/status/237731085201584128  
+# OJ Reeves releases version 0.2.3.0 of CorrugatedIron, the .NET Client that he, Jeremiah Peschka, and a few others hack on. Keep an
+eye on this code...
+->  "Details here":http://www.nuget.org/packages/CorrugatedIron
+# John Glick spent some time channeling Larry Wall and released a bit of experimental code that lets you work with Riak's configs from the command line.
+->  "Code here":https://github.com/glickbot/riak-conf
+# Rodrigo De Castro wrote his fourth piece on Riak for DZone. This one updates a few examples from "Seven Databases in Seven Weeks" to
+run against Riak 1.2.
+->  "Read here":http://java.dzone.com/articles/riak-updated-examples-seven
+# If all goes to plan, Riak will be shipping with Fedora 18.
+->  "Latest progress here":http://stg.fedoraproject.org/wiki/Features/Riak
+# Kaspar Tidemann wrote up a quick blog post on work coming to Riak-js.
+->  "Read here":http://www.kaspertidemann.com/future-development-of-riak-js/
+# Matthew Eernisse added Riak support to his "models" JavaScript ORM.
+->  "Start here":https://twitter.com/mde/status/239454007578468352
+# Lei Gu wrote up a Riak HTTP API cheat sheet on his blog.
+->  "Post here":http://2rdscreenretargeting.blogspot.com/2012/08/riak-http-api-cheat-sheet.html
+# Jean-Michel Lacroix has a proposal out for a Riak talk at ConFoo happening next year in Montreal.
+-> "He needs your votes":http://confoo.ca/fr/call-for-papers/speaker/jean-michel-lacroix
+# Some Q & A from Stack Overflow:
+-> "Riak search queries via the java client":http://stackoverflow.com/questions/12038307/riak-search-queries-via-the-java-client
+-> "Riak php client exiting on store()":http://stackoverflow.com/questions/12024710/riak-php-client-exiting-on-store
