@@ -1,0 +1,38 @@
+--- 
+title: Riak Recap for August 27 - September 01
+layout: newpost
+summary:
+---
+
+Evening, Morning, Afternoon to All -
+
+Today's Recap comes to you live from the "Gibson Hotel":http://www.thegibsonhotel.ie/ in lovely Dublin. (Protip - the Gibson has spectacular wifi and they don't require you to be a guest to use it.)
+
+A short Recap for today: code, slides, talks, and more.
+
+Enjoy.
+
+Mark
+twitter.com/pharkmillups
+ricon2012.com
+
+*Riak Recap for August 27 - September 01*
+
+# Some RICON News:
+-> "We announced a few more talks":http://lanyrd.com/2012/ricon2012/ 
+-> Joseph Blomstedt "wrote a few words":http://gist.io/3541459 on why he's excited about RICON (hint: it's about the future of Riak)
+->I "wrote a blog post":http://www.themarkphillips.com/2012/08/31/towards-a-community-of-distributed-systems-developers.html about why I'm excited for the distributed systems side of RICON and why people should be excited about it
+-> "Tickets are going fast":http://ricon2012.eventbrite.com
+# Sean Cribbs is giving a talk at Surge this September called "Scaling Riak in Production." Surge is amazing and you be there.
+-> "Details here":http://omniti.com/surge/2012/sessions/scaling-riak-in-production
+# We have our first entry to the Riak Puppet module bounty that was kicked off last week.
+-> "Henrik Feldt's puppet-riak code":https://github.com/haf/puppet-riak
+-> "Some context for those of you who aren't up to speed on the contest that Puppet is running":http://puppetlabs.com/blog/puppet-module-bounty-logstash-riak-and-graphite/
+# Some Q & A from SA.
+-> "How to do a group using keys efficiently":http://stackoverflow.com/questions/12192581/riak-and-map-reduce-how-to-do-a-group-using-keys-effiently
+-> "Riak and this transport is not available (no protobuf) error":http://stackoverflow.com/questions/12170635/riak-and-this-transport-is-not-available-no-protobuf-error
+# Robby Grossman christened the first Boston Riak Meetup with a great talk about how and why he and the team at Shareaholic are using Riak in production.
+-> "Slides here":http://blog.shareaholic.com/2012/08/migrating-to-riak-at-shareaholic/
+-> "Details on the Boston meetup":http://www.meetup.com/Boston-Riak/events/77828202/
+# Bip Thelin shared this on the list already but it's worth noting again: he and the team at Kivra released a Loggly backend for Lager.
+-> "Code here":https://github.com/kivra/lager_loggly
