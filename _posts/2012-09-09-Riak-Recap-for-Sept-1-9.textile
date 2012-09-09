@@ -1,0 +1,48 @@
+--- 
+title: Riak Recap for September 02 - 08
+layout: newpost
+summary:
+---
+
+_Posted on September 09, 2012_
+
+Happy Sunday to All,
+
+For today's Recap: new code, slides, videos, and more.
+
+Enjoy, and make sure to register for ricon2012.com.  :)
+
+"Mark":https://twitter.com/pharkmillups
+
+*Riak Recap for September 2 - September 8*
+
+# Dave Parfitt continues to do work on his OCaml client.
+-> "Latest here":https://github.com/metadave/riak-ocaml-client/commits/master
+# Andy Gross is giving a talk at GOTO Aarhus called "Riak and Dynamo, Five Years Later."
+-> "Details here":http://gotocon.com/aarhus-2012/presentation/Riak%20and%20Dynamo,%20Five%20Years%20Later
+# Pavlo Baron has been doing some crazy things with Riak, Disco, and MapReduce.
+-> "Pointers to code here":https://twitter.com/pavlobaron/status/243477658523013120
+# We added Shareaholic to the Production Users page. Are you on here yet?
+-> "Details here":http://basho.com/company/production-users/#user-shareaholic
+# Cloudshopper migrated from MongoDB to Riak.
+-> "Preliminary details here":https://twitter.com/petermartinez/status/244862912798261248
+# Carlos Nacianceno has been tinkering with a Riak caching layer for PHP.
+-> "Code here":https://github.com/igormx/Riak-Cache-Layer
+# Chris Meiklejohn is giving a talk about using Ember.js to build applications at the Web Unleashed event happening this November in Waltham, MA. He's been using Ember.js for his work on Riak Control.
+-> "Talk details here":http://www.fitc.ca/events/speakers/speaker.cfm?event=136&speaker_id=13519
+# Matt Nunogowa wrote a blog post about Riak, counters, and CRDTs.
+-> "Read here":http://amattn.com/2012/09/07/riak_and_its_two_contentions.html 
+# The Riak module from Henrik Feldt landed in the Puppet Forge.
+-> "Here":http://forge.puppetlabs.com/haf/riak
+# There's some new Node.js code on the block. This chunk comes from Nathan Lafreniere and it's a lightweight HTTP client for Riak.
+-> "Code here":https://github.com/nathan-lafreniere/node-simpleriak
+# Steve Vinoski's YOW talk on building distributed systems with Riak Core is now online.
+-> "Watch here":http://yow.eventer.com/YOW-2011-1004/Building-Distributed-Systems-with-Riak-Core-by-Steve-Vinoski-1050
+# Ian Plosker gave a talk at CERN about Erlang, NIFs, Riak, and Riak Core.
+-> "Watch here":http://cdsweb.cern.ch/record/1475686
+# Riak-users Voxer had a great writeup on nytimes.com
+-> "Read here":http://www.nytimes.com/2012/09/06/technology/personaltech/zello-heytell-and-voxer-make-your-smartphone-a-walkie-talkie-david-pogue.html
+# Some Q & A from Stack Overflow
+-> "How to store an object in Riak with the Java client?":http://stackoverflow.com/questions/2673894/how-to-store-an-object-in-riak-with-the-java-client
+-> "MapReduce sorting over fields":http://stackoverflow.com/questions/12298859/riak-mapreduce-sorting-over-fields
+-> "Ensure correctness in riak?":http://stackoverflow.com/questions/12331686/ensure-correctness-in-riak
