@@ -40,7 +40,7 @@ Enjoy
 -> "Details here":http://www.dataweek.co/index/allschedule/dateid/1348462800/weekday/1
 # Tommy "Boom Boom" Santero is giving a talk tomorrow night about Riak and Postgres at the New York PostgreSQL User Group.
 -> "Details here":http://www.nycpug.org/events/79012672/
-# Sam Elliot gave a presentation called "Riak: What's all the fuss about?" to the EdLamdba Meetup group that convenes in Edinburgh.
+# Sam Elliott gave a presentation called "Riak: What's all the fuss about?" to the EdLamdba Meetup group that convenes in Edinburgh.
 -> "Slides here":https://speakerdeck.com/u/lenary/p/riak-whats-all-the-fuss-about
 # Some Q&A from SA:
 -> "trouble with the riak_pb_client":http://stackoverflow.com/questions/12451852/codewhichriak-pb-client-non-existing
