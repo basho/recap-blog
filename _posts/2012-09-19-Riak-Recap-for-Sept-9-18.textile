@@ -1,0 +1,58 @@
+--- 
+title: Riak Recap for September 09 - 18
+layout: newpost
+summary:
+---
+
+_Posted on September 19, 2012_
+
+Evening, Morning, Afternoon to All -
+
+Here's a Recap from the last week or so: talks, slides, videos, and more.
+
+Also, one of your last RICON reminders: there are less than 30 tickets left. You're advised not to wait until the last minute :)
+
+Enjoy
+
+"Mark":http://twitter.com/pharkmillups
+"ricon2012":http://ricon2012.com
+
+
+*Riak Recap for September 9 - 18*
+
+# Both Steve Vinoski and Andy Gross are speaking on the "From Core to the Cloud" Track at GOTO Aarhus in October.
+-> "Details on their talks here":http://gotocon.com/aarhus-2012/tracks/show_track.jsp?trackOID=668
+# Sean Cribbs did a podcast with the Thougtbot crew all about music, Riak, and eventual consistency. This is well worth your time.
+-> "Listen here":http://robots.thoughtbot.com/post/31268983125/you-want-your-system-to-bend-not-to-break
+# A whole swarm of the Basho team will be at Strange Loop next week in St. Louis. Ping me if you're planning to be there and I'll force some stickers on you.
+# Simpleriak has been getting a fair amount of updates. v0.0.10 was released a few days back.
+-> "On NPM here":https://npmjs.org/package/simpleriak 
+# There has been a lot of good action on the Basho Blog of late:
+-> "Riak at Shareholic video from the recent Boston Riak Meetup":http://basho.com/blog/technical/2012/09/11/Riak-at-Shareaholic/
+-> "Video of Riak 1.2 presentation from the recent San Francisco Riak Meetup":http://basho.com/blog/technical/2012/09/12/in-depth-on-riak-1-2/
+-> "Details on the clustering improvements in Riak 1.2":http://basho.com/blog/technical/2012/09/13/Cluster-Management-Improvements-in-Riak-1-2/
+->Casey Rosenthal on "Rolling with Eventual Consistency":http://basho.com/blog/technical/2012/09/18/Rolling-with-Eventual-Consistency/
+# Kresten has slides up from a recent talk about some work he's doing with HanoiDB and Riak.
+-> "Peruse here":https://speakerdeck.com/u/krestenkrab/p/hanoidb-and-other-riak-hacks
+# There's some code available to plug Riak into the Qi4j Framework.
+-> "Read up here":http://www.qi4j.org/extension-es-riak.html
+# Shanley Kane is speaking about Riak on a panel next week in San Francisco at the DataWeek event.
+-> "Details here":http://www.dataweek.co/index/allschedule/dateid/1348462800/weekday/1
+# Tommy "Boom Boom" Santero is giving a talk tomorrow night about Riak and Postgres at the New York PostgreSQL User Group.
+-> "Details here":http://www.nycpug.org/events/79012672/
+# Sam Elliot gave a presentation called "Riak: What's all the fuss about?" to the EdLamdba Meetup group that convenes in Edinburgh.
+-> "Slides here":https://speakerdeck.com/u/lenary/p/riak-whats-all-the-fuss-about
+# Some Q&A from SA:
+-> "trouble with the riak_pb_client":http://stackoverflow.com/questions/12451852/codewhichriak-pb-client-non-existing
+-> "riak client runtime error":http://stackoverflow.com/questions/8634674/how-to-solve-this-error-riak-client-runtimeerror-the-nethttp-http-backend-can
+# InfoQ posted a talk from Thiago Avelino about Riak that he gave at the recent TDC2012 event. (This one is in Portuguese.)
+-> "Watch here":http://www.infoq.com/br/presentations/riak-nosql-buscas
+# The Riak Java Client Wiki got some updates in the "Fetching Data from Riak" section.
+-> "Read here":https://github.com/basho/riak-java-client/wiki/Fetching-Data-from-Riak
+# Anyone want to make $75 writing a M/R Job?
+-> "Request here":https://www.odesk.com/o/jobs/job/Write-Riak-Map-Reduce-Query-using-Python-API_~0146378a6d55dfab03/
+# The CloudShopper team posted a graphic detailing their Riak + New Relic setup.
+-> "Look here":https://twitter.com/CloudShopperGuy/status/245610120023769089
+# We published some use case information on a few production users today:
+-> "Comscast":http://basho.com/assets/basho-casestudy-comcast.pdf
+-> "EnStratus":http://on.mktw.net/NDbyFs
