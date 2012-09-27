@@ -1,0 +1,56 @@
+--- 
+title: Riak Recap for September 19 - 26
+layout: newpost
+summary:
+---
+
+_Posted on September 17, 2012_
+
+Morning, Afternoon, Evening to All - 
+
+First things first:  
+
+* If you're at Surge in Baltimore today and/or tomorrow, ping @tsantero, @seancribbs, and @rzezeski. They are in attendance. 
+* If you're at PuppetConf today and/or tomorrow, ping me. I'll be there. 
+
+For todays' Recap: code, more RICON talks (10 tickets left), blog posts, and more. 
+
+Enjoy and thanks for being part of Riak. 
+
+"Mark":http://twitter.com/pharkmillups
+
+*Riak Recap for September 19 - 26*
+
+# We announced a few more RICON talks:
+-> Basho Hacker and Mad Scientist Andrew Thomspon will be talking about why "Multi Data Center Replication is a hard problem":http://basho.com/community/ricon2012/#andrew-thompson-talk 
+->Ines Sombra and Michael Brodhead from Engine Yard are giving a first-hand account of "porting a MySQL backed application to Riak in the Cloud":http://basho.com/community/ricon2012/#engine-yard-talk
+# It looks like there is a new Griffon plugin for Riak. 
+-> "Code here":http://artifacts.griffon-framework.org/plugin/riak
+# We posted the slides from the recent webinar about Searching and Querying Data in Riak. 
+-> "Slides here":http://basho.com/blog/technical/2012/09/24/How-To-Search-And-Query-Data-In-Riak/
+# Shantu Roy wrote a great blog post about the work he and a few others have been doing to get Riak running on the Tier3 platform. 
+-> "Read and use here":http://www.shanturoy.com/riak-tier3-blueprints-awesome
+# The Talented Mr. Bailis wrote a blog post about the tradeoffs between redundancy and latency in distributed systems (featuring some Riak production data kindly donated by the smart people over at Yammer).
+-> "Read here":http://www.bailis.org/blog/doing-redundant-work-to-speed-up-distributed-queries/
+# Puppet Labs announced that Henrik Feldt won the bounty for the Riak Puppet Module. Congrats to haf! (Anyone using the code in production yet? We're big fans of it here at Basho and have started to contribute to it.)
+-> "Read here":http://puppetlabs.com/blog/puppet-module-bounty-winners-riak-graphite-and-logstash/
+# The Riak Java Client Wiki continues to grow. 
+-> "Updated details on storing data here":https://github.com/basho/riak-java-client/wiki/Storing-data-in-riak
+# Abu Sofiane wrote a post about why he and his team are digging into Riak for their production application.  
+-> "Read here":http://laouini.blogspot.com/2012/09/why-we-chose-riak.html
+# Lei Gu has been doing some great blogging about his experiences with Riak and pre-production testing. I highly recommend them. 
+-> "Sanity Check Part One":http://2rdscreenretargeting.blogspot.com/2012/09/riak-sanity-check-take-one.html
+-> "Sanity Check Part Two":http://2rdscreenretargeting.blogspot.com/2012/09/riak-cluster-sanity-check-part-two.html
+# An interview with Ian Plosker talking about Riak just surfaced from GOTO Copenhagen. 
+-> "Watch here":http://www.youtube.com/watch?v=zjBRnWY4MIc
+# Dietrich Featherston and the team at Boundary wrote a thorough piece about some of the work they did (and continue to do) to their Riak cluster. 
+-> "You're encouraged to read":http://boundary.com/blog/2012/09/26/incuriosity-killed-the-infrastructur/ 
+# Basho Japan has officially opened its doors. :) 
+-> "Announcement here":http://basho.com/news/basho_opens_tokyo_office/. (You're encouraged to visit if you find yourself in Tokyo. 
+# We also announced a partnership with the team over at Code Centric in Germany. 
+-> "Details here":http://www.codecentric.de/2012/09/27/codecentric-ag-vereinbart-referral-partnerschaft-mit-basho-technologie/
+# Stack Overflow Q & A
+-> "Implementing an efficient Post-Commit Hook":http://stackoverflow.com/questions/5380454/implementing-efficiently-a-riak-pre-commit-hook-that-does-get-and-put
+-> "How do you find the size of a bucket":http://stackoverflow.com/questions/9847221/how-do-you-find-the-size-of-a-bucket-in-riak-in-mb-and-ignoring-the-backups
+-> "Distributed Erlang for large clusters":http://stackoverflow.com/questions/12574338/distributed-erlang-and-riak-core-how-does-the-mesh-scale-for-large-clusters
+-> "Storing data in Riak with automatic id":http://stackoverflow.com/questions/12543527/storing-data-in-riak-with-automatic-id
