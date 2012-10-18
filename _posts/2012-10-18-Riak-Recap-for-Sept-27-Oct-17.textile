@@ -1,0 +1,88 @@
+--- 
+title: Riak Recap for September 27 - October 17 
+layout: newpost
+summary:
+---
+
+_Published on October 18, 2012_
+
+Afternoon, Evening, Morning to All -
+
+OK. Now that RICON is behind us (sadly), there is time for Recaps. :) It has been about three weeks, so we have a lot to cover. Grab a glass of coffee, Fanta, or Dom and settle in.
+
+And if I missed anything, I apologize. Send it my way.
+
+Off we go...
+
+"Mark":http://twitter.com/pharkmillups
+
+*Riak Recap for September 27 - October 17*
+
+# There are a good amount of RICON slides online already:
+-> All (or most) the talks from the Basho Devs who presented are "here":https://speakerdeck.com/u/basho/. 
+-> Other slides, code, and blogs are "here":http://basho.com/community/ricon2012_live/#resources
+# We are about two weeks out from all the RICON talk videos being online.
+-> "Sign up here to be notified":https://docs.google.com/a/basho.com/spreadsheet/viewform?formkey=dEc2TFNaQWdLa2RvSVBWVXAxVHVSVGc6MQ
+# The first Riak Stockholm meetup is happening on November 1st.
+-> "Details and sign up here":http://www.meetup.com/Stockholm-Riak-and-NoSQL-Meetup-Group
+# Thew crew at Xing has some code that will quickly build a Riak dev cluster on OS X.
+-> "On GitHub here":https://github.com/xing/riak-dev-cluster
+# Slides from Sean Cribbs' Surge talk "Scaling Riak in Production" are online.
+-> "Browse here":https://speakerdeck.com/u/basho/p/sean-cribbs-on-scaling-ria
+# Matt Snyder wrote a blog post about an issue he and his team hit using 2i with Nginx.
+-> "Read here":http://www.cranialpulse.com/2012/10/why-nginx-kept-riaks-secondary.html
+# Andrew Stopford and a few others are working on getting a Riak Meetup off the ground in Manchester, UK.
+-> "Get involved here":https://twitter.com/andystopford/status/252862855844593664
+# Some Riak cookbooks from the higan-works crew are on GitHub.
+-> "Code here":https://github.com/higanworks-cookbooks/riak-cluster
+# Chris Meiklejohn gave a talk a few weeks back about using Ember.js to build Riak Control.
+-> "Slides here":https://speakerdeck.com/u/cmeiklejohn/p/a-brief-introduction-to-ember-dot-js
+# It looks like John Hughes will be talking (to some extent) about Riak in his QConSF talk next month.
+-> "Details here":http://qconsf.com/sf2012/speaker/John+Hughes
+# Someone else is working on a Riak YCSB plugin.
+-> "Code here":https://github.com/Altoros/YCSB/tree/master/src/riak
+# There's a new release of the Riak Smartmachine offered by Joyent.
+-> "Details here":http://wiki.joyent.com/wiki/display/jpc2/Riak+SmartMachine+Release+Notes
+# There is a plethora of new posts on the Basho Blog announcing a lot of good news and code:
+-> "Riak Puppet Module is official":http://basho.com/blog/technical/2012/10/17/Riak-Puppet-Module-Now-Official/
+-> "Riak Package Repos are now online":http://basho.com/blog/technical/2012/10/16/Basho-Package-Repos-Now-Online/
+-> "Riak is now available on the MSFT Azure platform":http://basho.com/blog/technical/2012/10/09/Riak-on-Microsoft-Azure/ 
+-> "The Azure team also wrote a post about this":http://blogs.msdn.com/b/windowsazure/archive/2012/10/09/riak-is-now-available-on-windows-azure.aspx
+-> "The Riak Docs are all new":http://basho.com/blog/technical/2012/10/08/new-basho-documenation/
+# Tom Santero and Sean Carey are bringing Riak to the ATL DevOps Meetup Tonight.
+-> "Details here":http://www.meetup.com/DevOpsATL/events/82032472/
+# A lot of Node.js code from the community:
+-> Nathan Aschbacher and the Coradine team "released 0.0.7 of nodiak":https://npmjs.org/package/nodiak
+-> Nathan Lafreniere's "simple-riak":https://npmjs.org/package/simpleriak continues to get more solid
+-> Basho's fork of riak-js is coming along quite nicely. Latest "here":https://github.com/basho-labs/riak-js. 
+# Joe Devivo et al released Riak Test at RICON. This is what we use to test Riak internally, and you should find this *quite-> useful for your own purposes.
+-> "Riak Test Code here":https://github.com/basho/riak_test
+-> There's also a front end for this called "giddyup":https://github.com/basho/giddyup
+# Sean Cribbs and Russell Brown announced the availability of the riak_dt code (a.k.a "CRDTs") at RICON.
+-> riak_dt "code here":https://github.com/basho/riak_dt
+-> "Bryce Kerley rolled it into a gem":https://github.com/bkerley/riak-dt-ruby
+# Ken Perkins stepped off the mound for a few minutes to film a video about Clipboard and was spotted wearing a Riak shirt.
+-> Details "here":http://www.youtube.com/watch?feature=player_embedded&v=BAAhf8Xt-yA&t=2m50s
+# Randy Secrist is giving a Riak talk tomorrow night at the Utah Hadoop User Group.
+-> "Details here":http://www.uhug.org/tags/riak/
+# The team at Equal Experts wrote a Intro blog post about Riak.
+-> "Read here":http://equalexperts.com/home/Introduction_to_Riak_DeNormalised_NoSQL_Conference.html
+# The team at Cloudability is working on a Ruby client.
+-> "Code here":https://github.com/cloudability/better-riak-client
+# Ryan Zezeski has been up to all sorts of goodness with Yokozuna, his Riak and Solr integration.
+-> "Dig around here for the latest":https://github.com/rzezeski/yokozuna
+# Dave Parfitt's Ocaml Client for Riak is coming along at a good clip (and he officially added his first contributor!).
+-> "Latest here":https://github.com/metadave/riak-ocaml-client/
+# Uenishi Kota is doing some work to integrate Riak with the Fluent logging framework.
+-> "Code here":https://github.com/kuenishi/fluent-plugin-riak
+# A few blog posts from the community about RICON
+-> "Dan Ostrowski liked it":http://danostrowski.blogspot.com/2012/10/post-ricon-2012-idea-fragment-embed.html
+-> "Adron Hall liked it":http://compositecode.com/2012/10/10/coders-vacation-ricon2012-shreds-the-house/
+# A video of Casey Rosenthal talking about Erlang and Riak popped up from EF Lite in Vancouver a few months back.
+-> "Watch here":http://www.youtube.com/watch?v=xz33cLfYog4
+# The team at Validas is working on some code that complements Ripple when indexing your Riak documents.
+-> "Code here":https://github.com/validas/Ripplr
+# There's a Riak plugin for Hyperion
+-> "Code here":http://rubygems.org/gems/hyperion-riak
+# Aphyr wrote a blog post about burning libraries.
+-> "Read Here":http://aphyr.com/posts/254-burn-the-library
