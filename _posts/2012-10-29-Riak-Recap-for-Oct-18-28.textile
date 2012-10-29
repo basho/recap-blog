@@ -1,0 +1,72 @@
+--- 
+title: Riak Recap for October 18 - 28
+layout: newpost
+summary:
+---
+
+_Published on October 29, 2012_
+
+Morning, Afternoon, Evening to All -
+
+A lot in today's Recap: blog posts, jobs, code, and a healthy backlog of Stack Overflow Q & A.
+
+Enjoy. And to all of you in Hurricane Sandy's path: stay safe.
+
+"Mark":http://twitter.com/pharkmillups
+
+*October 18 - October 28*
+
+# Callixte put together some instructions on running Riak on SmartOS.
+-> "Try it out here":http://callixte.wordpress.com/2012/10/19/riak-on-smartos-outside-joyent-sdc/
+# Dan Ostrowski continues to do good work on riakdocs, a python module for modeling Riak docs and then providing common operations.
+-> "Code here":https://bitbucket.org/danostrowski/riakdocs
+# There are a few new posts on the Basho Blog worth reading.
+-> "Getting your hands on Riak CS":http://basho.com/blog/technical/2012/10/18/try-riak-cs/
+-> "Basho in Rails Rumble":http://basho.com/blog/technical/2012/10/19/Rails-Rumble-with-Riak-and-Ripple/
+-> "How Basho Pulled Off RICON2012":http://basho.com/blog/technical/2012/10/25/how-we-did-ricon/
+# Nathan Lafreniere released protobuf.js, a pure javascript protocol buffer encoding implementation, written specifically for Riak.
+-> "Details and code here":https://npmjs.org/package/protobuf.js
+-> He's also "working on a client":https://github.com/nathan-lafreniere/riakpbc that wraps this encoding called riakpbc 
+# The first Riak Manchester meetup is happening on November 13th.
+-> "Details here":http://www.meetup.com/riak-manchester/
+# Vonstark gave a presentation called "Beautiful Riak".
+-> "Slides here":https://speakerdeck.com/vonstark/beautiful-riak
+# deepakmdas wrote a blog post about using Riak with Logstash.
+-> "Read here":http://beingasysadmin.wordpress.com/2012/10/25/using-riak-with-logstash/
+# Siculars wrote a great post about RICON.
+-> "Read here":http://siculars.posterous.com/ricon-2012-recap
+# Ticket Evolution is hiring people who want to work with Riak and Erlang in NYC.
+-> "Details here":http://ticketevolution.com/our-story/careers/
+# Meteor Entertainment in San Francisco is hiring a Data Systems Engineer who wants to hack on Riak.
+-> "Details here":http://meteor-ent.com/jobs/#2
+# The Python User Group in Princeton is doing and Riak with Python meetup on November 12th.
+-> "Register here":http://www.meetup.com/pug-ip/events/83683262/
+# Myles Megyesi is making progress of his Riak support in the Hyperion Framework.
+-> "Gem here":http://rubygems.org/gems/hyperion-riak
+# Andrei Savu gave a presentation at a recent hackathon in which he demo'd Riak's beta counters functionality.
+-> "Slides here":http://www.slideshare.net/savu.andrei/counters-with-riak-on-amazon-ec2 
+# Shrikar Archak wrote up a quick post about installing and configuring Riak 1.2.1.
+-> "Read here":http://shrikar.com/blog/2012/10/28/riak-installation-and-configuration
+# Christian Dahlqvist just released a library packed with Erlang MapReduce functions.
+-> "Code here":https://github.com/whitenode/riak_mapreduce_utils
+# There's a whole mess of Stack Overflow questions I've failed to pass on. Here's the backlog.
+-> "http://stackoverflow.com/questions/13055149/copy-data-between-buckets-riak":http://stackoverflow.com/questions/13055149/copy-data-between-buckets-riak
+-> "http://stackoverflow.com/questions/12963965/using-secondary-index-and-key-filter-together-in-riak-mapred":http://stackoverflow.com/questions/12963965/using-secondary-index-and-key-filter-together-in-riak-mapred
+-> "http://stackoverflow.com/questions/12669650/atomic-operations-in-riak":http://stackoverflow.com/questions/12669650/atomic-operations-in-riak
+-> "http://stackoverflow.com/questions/12660172/riak-mapreduce-not-found-output":http://stackoverflow.com/questions/12660172/riak-mapreduce-not-found-output
+-> "http://stackoverflow.com/questions/12712268/how-to-format-the-returned-data-in-a-riak-map-reduce":http://stackoverflow.com/questions/12712268/how-to-format-the-returned-data-in-a-riak-map-reduce
+-> "http://programmers.stackexchange.com/questions/tagged/riak":http://programmers.stackexchange.com/questions/tagged/riak
+-> "http://stackoverflow.com/questions/12734629/how-do-you-specify-the-row-or-document-id-riak-or-any-key-value-data-strore":http://stackoverflow.com/questions/12734629/how-do-you-specify-the-row-or-document-id-riak-or-any-key-value-data-strore
+-> "http://stackoverflow.com/questions/12748154/riak-riak-kv-vnode-worker-pool-crashed":http://stackoverflow.com/questions/12748154/riak-riak-kv-vnode-worker-pool-crashed
+-> "http://stackoverflow.com/questions/12747780/riak-connection-pool-silent-disconnection":http://stackoverflow.com/questions/12747780/riak-connection-pool-silent-disconnection
+-> "http://stackoverflow.com/questions/12747259/riak-mapreduce-function-map-object-value-return-empty-result-on-erlang-pb-client":http://stackoverflow.com/questions/12747259/riak-mapreduce-function-map-object-value-return-empty-result-on-erlang-pb-client
+-> "http://dba.stackexchange.com/questions/25343/riak-in-sass-application":http://stackoverflow.com/questions/12747259/riak-mapreduce-function-map-object-value-return-empty-result-on-erlang-pb-client
+-> "http://stackoverflow.com/questions/7601997/how-to-sort-order-data-in-riak":http://stackoverflow.com/questions/7601997/how-to-sort-order-data-in-riak
+-> "http://stackoverflow.com/questions/12867941/creating-riak-bucket-over-curl":http://stackoverflow.com/questions/12867941/creating-riak-bucket-over-curl
+-> "http://stackoverflow.com/questions/12863175/rebar-generated-start-up-script-not-loading-dependencies":http://stackoverflow.com/questions/12863175/rebar-generated-start-up-script-not-loading-dependencies
+-> "http://stackoverflow.com/questions/12820170/erlang-api-for-bigquery":http://stackoverflow.com/questions/12820170/erlang-api-for-bigquery
+-> "http://stackoverflow.com/questions/12747780/riak-connection-pool-silent-disconnection":http://stackoverflow.com/questions/12747780/riak-connection-pool-silent-disconnection
+-> "http://stackoverflow.com/questions/12885237/differance-riak-mapvaluesjson-and-json-parse":http://stackoverflow.com/questions/12885237/differance-riak-mapvaluesjson-and-json-parse
+-> "http://stackoverflow.com/questions/12875126/php-riak-list-buckets":http://stackoverflow.com/questions/12885237/differance-riak-mapvaluesjson-and-json-parse
+-> "http://stackoverflow.com/questions/13106831/f-webrequest-throws-webexception-protocol-error-instead-of-404-status-code":http://stackoverflow.com/questions/12885237/differance-riak-mapvaluesjson-and-json-parse
+
