@@ -1,0 +1,41 @@
+--- 
+title: Riak Recap for November 1 - 5
+layout: newpost
+summary:
+---
+
+_Posted on November 6, 2012_
+
+Evening, Morning, Afternoon to All  -
+
+For today's Recap: slides, talks, meetup, blogs, and more.
+
+Enjoy.
+
+"Mark":http://twitter.com/pharkmillups
+
+*Riak Recap for November 1 - 5*
+
+# Dataomic announced Riak support.
+-> "Details here":http://blog.datomic.com/2012/11/riak-and-couchbase-support.html
+-> "And here":https://groups.google.com/forum/#!msg/datomic/zSpKRRPow_M/qn9rzt_nN5UJ
+# Andrew Stopford is hiring people to hack on Riak with he and his team.
+-> "Info here":https://twitter.com/andystopford/status/264447581319487488
+# There's now a Snaplet for the Riak.
+-> "Code and details here":http://hackage.haskell.org/package/snaplet-riak-0.2.0.0
+# Basho Hacker Steve Vinoski wrote a piece on Concurrency and Message Passing in Erlang for IEEE.
+-> "Details here":http://steve.vinoski.net/blog/2012/11/05/concurrency-and-message-passing-in-erlang/
+# Tom Santero will be talking about Riak on Nov 27 at the DevOps Meetup in Philly.
+-> "Full Details here":http://anyvite.com/events/home/ex0h0lo6qw
+# Chinood just hit version 0.0.7.
+-> "Details here on NPM":https://npmjs.org/package/chinood 
+# Basho Hacker Chris "Kells" Meiklejohn gave a presentation a few weeks back on Ember.js and how he is using it as part of Riak Control.
+-> "Slides here":https://speakerdeck.com/cmeiklejohn/architecting-ember-dot-js-applications
+# We have Riak Meetups happening in Boston, Philly, and DC in the coming weeks.
+-> "November 14th in DC":http://www.meetup.com/Riak-DC/events/84352982/
+-> "November 20th in Boston":http://www.meetup.com/Boston-Riak/events/90211332/
+-> "November 28h in Philly":http://www.meetup.com/Philly-Riak-Meetup/events/90212932/
+# I wrote a blog post about what Technical Evangelists at Basho do during their first month on the job. (Also, we're hiring...)
+-> "Details here":http://www.themarkphillips.com/2012/11/06/Month-One-For-Basho-TEs.html
+# Basho is also hiring a Technical Marketing Manager (with an emphasis on all things "Riak" and "technical").
+-> "Details here":https://docs.google.com/a/basho.com/document/d/1-Cto6N1vwy3ytZYNA5VHQh3hTc0QfkVQL7JNdr-RPvo/edit
