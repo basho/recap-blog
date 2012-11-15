@@ -1,0 +1,53 @@
+--- 
+title: Riak Recap for November 6 - 14
+layout: newpost
+summary:
+---
+
+_Posted on November 15, 2012_
+
+Morning, Afternoon, Evening To All -
+
+Here's a Recap for the last week or so: meetups, code, slides, and more.
+
+Enjoy, and thanks for being a part of Riak.
+
+"Mark":http://twitter.com/pharkmillups
+
+*Riak Recap for November 6 - 14*
+
+# Telefonica is now offering Riak machines on their cloud platform.
+-> "Details here":http://cloud.telefonica.com/instantservers/product-overview.html
+# Chinood just hit 0.0.10.
+-> "Code here":https://npmjs.org/package/chinood
+# We announced a Portland Riak Meetup. This is happening on November 19th at the AppFog offices, and there are two great talks on the calendar.
+-> "Details and RSVP here":http://www.meetup.com/Portland-Riak/events/90416062/
+# Wildcard.com wrote up some instructions about installing Riak on Ubuntu Precise.
+-> "Read here":http://www.wildcardcorp.com/blog/the-great-adventure-of-installing-riak-on-ubuntu-precise
+# There's a Riak CS talk happening at the CloudDC Meetup in Arlington, VA on December 3rd.
+-> "Details and RSVP here":http://www.meetup.com/CloudDC/events/90432962/
+# Sean Cribbs' "Fear No More: Embrace Eventual Consistency" slides from QConSF are now online.
+-> "Peruse here":https://speakerdeck.com/basho/fear-no-more-embrace-eventual-consistency 
+# Sean's StrangeLoop talk on CRDTs is also now online.
+-> "Watch here":http://www.infoq.com/presentations/CRDT
+# Andy Gross gave a talk at QConSF called "Dynamo, Five Years Later".
+-> "Slides here":https://speakerdeck.com/argv0/dynamo-five-years-later
+# Also from QConSF, Shanley Kane's slides from her "Dynamo: Theme and Variations" talk are now online.
+-> "Slides here":http://www.slideshare.net/ShanleyKane/dynamo-15150045
+# Ivan Blinkov wrote a lengthy post on Riak (in Russian).
+-> "Read here":http://www.insight-it.ru/programmirovanie/erlang/obzor-riak/
+# Mark Steele released a Riak PHP client with protocol buffers support.
+-> "Code here (he's looking for testers)":https://github.com/marksteele/riak-php
+# I stumbled onto a few Riak-related gists that Ben Murphy made public.
+-> "Riak to librato metrics cron job":https://gist.github.com/4064937
+-> "Riak to graphite cron job":https://gist.github.com/4064990
+# An implementation of Bitcask in Go is in the works.
+-> "Code here":https://github.com/jeremytregunna/go-bitcask
+# We posted Rusty Sears' "Stasis" talk from BashoChats on the blog.
+-> "Read and watch here":http://basho.com/blog/technical/2012/11/14/Rusty-Sears-bashochats-005/
+# Some Q & A (mostly from Stack Overflow)
+-> "HornetQ with RIAK backing":https://community.jboss.org/message/776123?_sscc=t
+-> "http://stackoverflow.com/questions/13377174/find-node-partition-where-specific-data-is-stored":http://stackoverflow.com/questions/13377174/find-node-partition-where-specific-data-is-stored
+-> "http://stackoverflow.com/questions/13322240/get-an-object-from-a-bucket-in-riak-without-knowing-its-key":http://stackoverflow.com/questions/13322240/get-an-object-from-a-bucket-in-riak-without-knowing-its-key
+-> "http://stackoverflow.com/questions/13274420/riak-mapreduce-javascript-weird-output":http://stackoverflow.com/questions/13274420/riak-mapreduce-javascript-weird-output
+-> "http://stackoverflow.com/questions/13273977/how-does-one-upgrade-riak-if-it-was-initially-downloaded-from-source":http://stackoverflow.com/questions/13273977/how-does-one-upgrade-riak-if-it-was-initially-downloaded-from-source
