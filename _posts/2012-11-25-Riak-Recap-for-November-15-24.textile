@@ -1,0 +1,34 @@
+--- 
+title: Riak Recap for November 15 - 24
+layout: newpost
+summary:
+---
+
+_Posted on November 15, 2012_
+
+Afternoon, Evening, Morning to All -
+
+Here's a short Recap for the last few days: new code, blog posts, and more.
+
+Enjoy.
+
+"Mark":http://twitter.com/pharkmillups
+
+*Riak Recap for November 15 - 24*
+
+# nlf's "simple-riak" hit 0.1.3 a few days back.
+-> "Code here":https://npmjs.org/package/simpleriak
+# Suvash Thapaliya wrote a blog post about using Vagrant and Riak.
+-> "Read here":http://suvashthapaliya.com/blog/2012/11/riak-multi-node-cluster-setup-for-development-environment-with-vagrant/
+# RiakOn, "hosted Riak that rocks", was just announced.
+-> "Site here":http://riakon.com/
+-> "Blog post from the team about the service":http://riakon.com/blog#2012_11_10
+# Logstash has experimental Riak support.
+-> "Details here":http://logstash.net/docs/1.1.5/outputs/riak 
+# I just stumbled onto a few blogs from deepakmdass that should be worthwhile to some of you.
+-> "Hiera-HTTP and Riak":http://beingasysadmin.wordpress.com/2012/11/24/hiera-http-and-riak/
+-> "Logstash and Riak":http://beingasysadmin.wordpress.com/2012/10/25/using-riak-with-logstash/
+# Gideon de Kok just released Raiku, "a non-blocking - Akka IO driven - Riak client for Scala with a cute DSL". This looks quite useful.
+-> "Code here":https://github.com/gideondk/Raiku
+# CarrotCornCat wrote some code to make Riak usable with the Sprockets library.
+-> "Code here":https://github.com/CarrotCornCat/sprockets-cache-riak
