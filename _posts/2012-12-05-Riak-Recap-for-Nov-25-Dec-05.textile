@@ -1,0 +1,52 @@
+--- 
+title: Riak Recap for November 25 - December 05
+layout: newpost
+summary:
+---
+
+_Posted on December 05, 2012_
+
+
+Afternoon, Morning, Evening to All
+
+Here's a Recap for the last 10 days or so.
+
+Also, Tom Santero and I will be in Chicago tonight through Friday afternoon for a "Riak Drinkup and Training":http://lists.basho.com/pipermail/riak-users_lists.basho.com/2012-November/010314.html (a few seats are still
+available). If anyone wants to get together, shoot me an email or find me on twitter.
+
+"Mark":http://twitter.com/pharkmillups
+
+*Riak Recap for November 25 - December 4*
+
+# Basho hacker Bryce Kerley wrote a Riak adapter for dcdll registries a few days back.
+-> "Details here":https://twitter.com/bonzoesc/status/273258735047151616
+# silasistefan started work on a PHP Admin panel for Riak.
+->  "Code here":https://github.com/silasistefan/riak-admin
+# A Riak connector for the Paperclip storage module just appeared.
+->  "Code here":https://github.com/xinuc/paperclip-riak
+# Basho is sponsoring a few upcoming conferences in the US and the EU.
+->  "ErlangDC":http://erlangdc.com/?year=2013
+->  "TakeOff":http://takeoffconf.com/
+->  "Railsberry":http://railsberry.com/#sponsors
+# Basho Hacker Eric Redmond's "Little Riak Book" has been coming along quite nicely.
+->  "Read and contribute here":https://github.com/coderoshi/little_riak_book
+# Basho Hacker Tom "The Greek" Santero gave a talk at the Philly DevOps meetup last week called "DevOps: A Cognitive Bias."
+->  "Slides here":https://speakerdeck.com/tsantero/devops-a-cognitive-bias
+# Basho Hacker Matt Roder was caught in public talking about Riak, eventual consistency, and tradeoffs.
+->  "Excellent talk. Watch here":http://skillsmatter.com/podcast/home/riak-3631/ac-6052
+# We have a few new posts up on the Basho Blog about the new work going into Riak CS.
+->  "Read here":http://basho.com/blog/technical/2012/11/30/Citrix-CloudPlatform-Partnership-MDC-CloudStack-Collaboration-Conference/
+-> "And here":http://basho.com/blog/technical/2012/11/30/Riak-CS-with-MDC-Replication/
+-> We're also doing "a live Webcast tomorrow":http://info.basho.com/IntroToRiakCSDec6.html about this if anyone is interested.
+# Basho Hacker Dave Parfitt has been spending some time on his Riak OCaml client.
+-> "Latest here":https://github.com/metadave/riak-ocaml-client/commits/master
+# nlf and contributors continue to make simpleriak a more robust library.
+->  "Latest here":https://github.com/nathan-lafreniere/node-simpleriak/commits/master
+# Roidrage et al continue to do good work on riak-js. (I've heard protocol buffers support is in the works...)
+->  "Latest here":https://github.com/mostlyserious/riak-js/commits/master
+# There are a few new RICON2012 videos live on the site.
+-> "The most recent are at the top":http://ricon2012.com
+->  You'll definitely want to watch Ryan Zezeski's "talk on Yokozuna":https://vimeo.com/54266574 (He also bought "a new motorcycle":https://twitter.com/rzezeski/status/274965230700883968)
+# Some Q & A from SO
+-> "http://stackoverflow.com/questions/13575070/riak-all-partitions-belong-to-one-node":http://stackoverflow.com/questions/13575070/riak-all-partitions-belong-to-one-node
+-> "http://stackoverflow.com/questions/13685384/how-must-i-use-the-java-api-to-facilitate-failover":http://stackoverflow.com/questions/13685384/how-must-i-use-the-java-api-to-facilitate-failover
