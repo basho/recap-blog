@@ -1,0 +1,60 @@
+--- 
+title: Riak Recap for December 16 - January 1
+layout: newpost
+summary:
+---
+
+_Posted on January 2, 2013_
+
+Happy New Year to All -
+
+Here's a Recap to cover the last few weeks. There's a lot of good stuff in here.
+
+Enjoy. And here's to putting more Riak into production in 2013. :)
+
+"Mark":https://twitter.com/pharkmillups
+
+*Riak Recap for December 16 - Jan 1* 
+
+
+# Brian Roach is getting ready to tag the 1.0.7 release of the Riak Java Client.
+->  "The latest commits are here":https://github.com/basho/riak-java-client/commits/master
+# Riakasaurus, the Riak Twisted Client that Colin Alston and the Praekelt team use and maintain, just added basic Protocol Buffers Support.
+->  "Latest here":https://github.com/calston/riakasaurus
+# Mark Steele released a Riak plugin for collectd.
+-> "Code here":https://github.com/marksteele/collectd-plugins
+# Basho is sponsoring SyncConf happening in Norwich, UK this February.
+-> "Details here":https://twitter.com/SyncNorwich/status/280699800117202944
+# Christopher Biscardi started work on a Riak -> Elastic Search River a few weeks back.
+-> "Code here":https://github.com/ChristopherBiscardi/mau5
+# We released a new white paper that some of you might find useful. This one is all about making the transition from a relation DB to Riak.
+-> "Details here":http://basho.com/blog/technical/2012/12/19/From-Relational-to-Riak/
+-> "We're also doing a live Webcast tomorrow all about this":http://info.basho.com/RelationalToRiakJan3.html
+# Jakob Sievers' "MeshUp and other Riak hacks" talk from London Erlang Factory Lite was just released.
+-> "Watch here":http://www.youtube.com/watch?v=grbQujKcjro
+# Yurii Rashkovskii announced that he and his team are working on a "concurrency-oriented k/v database" based on Riak Core.
+-> "Teaser here":http://genomu.com/
+# InfoQ finally got around to posting Jesse Newland's Erlang Factory San Francisco talk from last year on Riak Core, Webmachine, and GitHub Pages.
+-> "Watch here":http://www.infoq.com/presentations/GitHub-Pages-Riak-Webmachine
+# Matthew Revell is giving a "Intro to Riak" talk at Erlang Factor Lite in Munich next month.
+-> "Details here":https://www.erlang-factory.com/conference/Munich2013/speakers/MatthewRevell
+# Dave Parfitt has been getting all sorts of ambitious on his Riak OCaml client development.
+-> "Latest here":https://twitter.com/metadave/status/286188589577035778
+# Last reminder about the Riak Meetup in Dublin on January 8th.
+-> "RSVP here":http://www.meetup.com/Dublin-Riak/events/91521922/
+# There's a new Riak Perl Client in town.
+-> "On GitHub":https://github.com/myfinder/p5-data-riak-fast
+-> "On CPAN":http://search.cpan.org/~myfinder/Data-Riak-Fast-0.03/
+# Eric Redmond's "Little Riak Book" is looking better by the day.
+-> "Latest here":https://twitter.com/coderoshi/status/286483152925499392
+# Von Stark released a Ruby event machine client for Riak along with a blog post about it.
+-> "Code here":https://github.com/vonstark/em-riak
+-> "Blog post":http://tech.vonstark.co/post/38952977628/emriak
+# Casey Rosenthal took some time to hook Redis up to Riak (by wrapping the Redis C client in an NIF)
+-> "Code here":https://github.com/clr/riak_kv_redis_backend
+# Some Q & A to finish things off.
+-> "Riak for a CRUD Application":http://stackoverflow.com/questions/14097832/is-riak-database-suitable-for-building-crud-application 
+-> "Riak Fails To Start":http://stackoverflow.com/questions/13942633/riak-fails-to-start
+-> "How to Send parameters to a m/r query":http://stackoverflow.com/questions/13969952/how-to-send-parameters-to-a-map-reduce-query
+-> "RJC Failed to compile":http://stackoverflow.com/questions/14035202/riak-java-client-failed-to-compile
+-> "Riak key spaces and indexes":http://dba.stackexchange.com/questions/30812/riak-key-spaces-and-indexes
