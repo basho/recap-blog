@@ -1,0 +1,51 @@
+--- 
+title: Riak Recap for January 2 - 7
+layout: newpost
+summary:
+---
+
+_Posted on January 8, 2013_
+
+Evening, Morning, Afternoon to All -
+
+For today's Recap: new code, blogs, meetups, and more.
+
+Enjoy, and thanks for being a part of Riak.
+
+"Mark":https://twitter.com/pharkmillups
+
+*Riak Recap for January 2 - 7*
+
+
+# Romulka released a json editor for Riak that runs as a Chrome extension.
+-> "Code here":https://github.com/romulka/riak_json_editor
+# Theo Bot released some code to connect Riak to the Perl Catalyst framework.
+-> "Latest here":https://metacpan.org/release/Catalyst-Model-Riak
+# We added some documentation about things you might do after you've installed Riak.
+-> "Read here":http://docs.basho.com/riak/1.2.1/tutorials/installation/Post-Installation/
+# It looks like Riak will be officially supported in the upcoming Fedora 18 release.
+-> "Details here":https://fedoraproject.org/wiki/Features/Riak
+# Eric Redmond whipped up a new Riak downloads page for docs.basho.com
+-> "Take it for a spin here":http://docs.basho.com/riak/latest/downloads/
+# You still have a few more days to register for the Riak Meetup in NYC next week.
+-> "Details here":http://www.meetup.com/NYC-Riak-Meetup/events/97496612/
+# The smart people over at enStratus are hiring hackers to work with Riak, Chef, Puppet, and something called "Open Stack."
+-> "Details here for anyone interested":https://twitter.com/botchagalupe/status/288697580865605632
+# Slides from Shanley Kane's "From Relational To Riak" webinar are now online.
+-> "Consume here":https://speakerdeck.com/basho/from-relational-to-riak
+# Rémi Alvade wrote a blog post about the work he and Shopping Adventure are doing with Riak, PHP, and Symfony2.
+-> "Read here":http://blog.shoppingadventure.fr/developers/2013/01/04/riakbundle-manipuler-riak-au-travers-dun-bundle-symfony-pret-a-lemploi/
+# Riak and CRDTs were part of the latest Mostly Latest podcast. (The good stuff starts around 41:55.)
+-> "Listen here":http://mostlylazy.com/2013/01/04/episode-9-with-kevin-lynagh-and-paul-degrandis-web-dev-ennui-crdts-and-core-logic/
+# Christopher Biscardi wrote a quick blog post about why he's looking into Riak, Elastic Search, and Riak Core.
+-> "Read here":http://christopherbiscardi.tumblr.com/post/39747397606/riak-erlang
+# Tom "Bishop" Santero's "Adventures With Eventual Consistency" slides from a recent talk he gave in Philadelphia are now online.
+-> "Consume here":http://emergingtech.chariotsolutions.com/big-data-seminar/
+# Basho opened up our Riak CS Test Harness to the public.
+-> "Details and sign up here":http://basho.com/blog/technical/2013/01/07/Try-Riak-Cloud-Storage/
+# Basho is sponsoring the inaugural Monitorama in Boston this March.
+-> "Details here":http://monitorama.com/#sponsors
+# There's a Riak adapter in the works for the Node.js document storage ODM courtesy of Jonas Grimfelt.
+-> "Code here":https://npmjs.org/package/node-document-storage-riak
+# There's a "Intro to Riak" talk happening in Boulder on January 23rd.
+-> "Register here":http://www.meetup.com/Boulder-Denver-Big-Data/events/95909782/
