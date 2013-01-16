@@ -1,0 +1,51 @@
+--- 
+title: Riak Recap for January 8 - 14
+layout: newpost
+summary:
+---
+
+_Posted on January 16, 2013_
+
+Evening, Morning, Afternoon to All -
+
+For today's Recap: copious meetups, some new code, and more.
+
+Enjoy. 
+
+"Mark":http://twitter.com/pharkmillups
+
+
+*Riak Recap for January 8 - 14*
+	
+# We started a new series of blog posts comparing Riak to different aspects of relational databases.
+-> "High Availability":http://basho.com/blog/technical/2013/01/10/Relational-to-Riak-Availability/
+-> "Operational Cost of Scaling":http://basho.com/blog/technical/2013/01/14/Relational-to-Riak-Scaling/
+-> "There's a webcast all about this happening on January 24th that you should join":http://info.basho.com/RelationalToRiakJan24.html
+-> "We also posted details on the enStratus talk from RICON2012 about switching for MySQL to Riak":http://basho.com/blog/technical/2013/01/15/Riak-Powers-enStratus/
+# Riak images are now available on the VM Depot that MSFT Open Techlaunched a few days back.
+-> "Blog post":http://basho.com/blog/technical/2013/01/09/Riak-on-VM-Depot-from-MS-Open-Tech/
+-> "Direct Link":http://vmdepot.msopentech.com/List/Index?sort=Date&search=riak
+# We added a new case study to basho.com. This one is about how Synacor uses Riak for their TV Everywhere platform.
+-> "Blog post and link here":http://basho.com/blog/technical/2013/01/09/Synacor-Riak-Case-Study/
+# A few Basho hackers have started tinkering with a *very* experimental R Client for Riak.
+-> "Check it out here":https://github.com/basho/riak-r-client
+# Erlang Factory SF is fast approaching. A few members of the Basho team are lined up for talks.
+-> The Joe Devivo™ will be going deep on our "approach to testing distributed systems":https://www.erlang-factory.com/conference/SFBay2013/speakers/JosephDeVivo.
+-> The Professor™ Andrew Thompson "is talking about Lager":https://www.erlang-factory.com/conference/SFBay2013/speakers/AndrewThompson.
+# Basho EMEA Hacker Chris Molozian is giving a Riak Training at Erlang Factory Lite in Munich on February 19th.
+-> "Details here":http://www.erlang-factory.com/conference/Munich2013/university/RiakTraining
+# A lot of meetups to announce:
+-> "There's a Riak DC meetup tonight":http://www.meetup.com/Riak-DC/events/94513602/
+-> "Riak Manchester is happening January 23rd":http://www.meetup.com/riak-manchester/events/99543462/
+-> "Riak Stockholm is happening February 4th":http://www.meetup.com/Stockholm-Riak-and-NoSQL-Meetup-Group/events/99691392/
+-> "Riak San Francisco is happening February 13th":http://www.meetup.com/San-Francisco-Riak-Meetup/events/99631952/
+-> "The first Silicon Valley Riak Meetup is also February 13th":http://www.meetup.com/Silicon-Valley-Riak/events/99739632/
+# Basho is sponsoring PyCon. Tom Santero (tom@basho.com) will be in attendance. Ping him if you'll be there and want to chat Riak.
+-> "Our logo is somewhere on this page":https://us.pycon.org/2013/sponsors/
+# Basho Hacker James Martin did some work to make Riak easier to use with AWS CloudFormation.
+-> "Details here":http://basho.com/blog/technical/2013/01/14/riak-and-cloudformation/
+# Some Q & A
+-> "http://stackoverflow.com/questions/14282226/riak-nodes-reachable-but-transfer-failed-with-ehost-unreach":http://stackoverflow.com/questions/14282226/riak-nodes-reachable-but-transfer-failed-with-ehost-unreach
+-> "http://stackoverflow.com/questions/14140363/why-some-people-say-riak-is-eventual-consistent":http://stackoverflow.com/questions/14140363/why-some-people-say-riak-is-eventual-consistent
+-> "http://stackoverflow.com/questions/14258230/best-software-for-large-databases":http://stackoverflow.com/questions/14258230/best-software-for-large-databases
+-> "http://stackoverflow.com/questions/14295818/storing-or-fetching-multiple-values-at-once-from-riak-with-python-and-flask":http://stackoverflow.com/questions/14295818/storing-or-fetching-multiple-values-at-once-from-riak-with-python-and-flask
