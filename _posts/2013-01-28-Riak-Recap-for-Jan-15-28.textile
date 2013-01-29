@@ -1,0 +1,67 @@
+--- 
+title: Riak Recap for January 15 - 28 
+layout: newpost
+summary:
+---
+
+Evening, Morning, Afternoon to All -
+
+Sorry for the delay in Recaps. It has been a hectic few weeks.
+
+We've got all sorts of goodness in here. Enjoy, and thanks for being a part of Riak.  Also, just a heads up, but clear your calendar for the 2nd week of May, especially if you're on the East Coast of the US (or
+plan to be)...
+
+Lastly, "I'll be San Diego tomorrow night":http://www.eventbrite.com/event/5174472988/ and LA the day after for a few hours. If anyone wants to chat Riak, let me know and I'll try to make some time.
+
+"Mark":http://twitter.com/pharkmillups
+
+
+*Riak Recap for January 15 - 28*
+
+# Basho is sponsoring the ErlangDC event that's happening February 9th.  You should go.
+-> "Details and tickets here":http://erlangdc.com/
+# myfinder released some new Perl code for testing Riak.
+-> "Code here":https://github.com/myfinder/p5-test-riak
+# Matt Snyder wrote a blog post about 2i vs. Key Filters and is looking for feedback on which query method is faster for his use case.
+-> "Read here":http://www.cranialpulse.com/2013/01/riak-whats-faster-2i-or-key-filters.html
+# The team at Klarna just released some Riak-flavored code.
+->  "Klarna Riak Client":https://github.com/klarna/krc
+->  "Riak implementations of MeshUp interfaces":https://github.com/klarna/rimu
+# Christopher Biscardi wrote his second blog post about Riak. This one is all about Consistent Hashing.
+-> "Read here":http://www.christopherbiscardi.com/2013/01/16/consistant-hash-routing-in-riak-core/
+# The 451Group is doing a survey on database usage. If you're using (or testing) Riak, don't be scared to help us out. We appreciate it.
+-> "Survey here":http://www.surveymonkey.com/s/9JT6MRH
+# Myles Megyesi from 8th Light wrote a quick post about some JavaScript issues they ran into when using large numbers with MapReduce.
+->  "Read here":http://blog.8thlight.com/myles-megyesi/2013/01/18/riak-mapreduce.html
+# Theo Bot's Catalyst Riak Model just hit 0.4.
+-> "Code here on CPAN":http://search.cpan.org/~nltbo/Catalyst-Model-Riak-0.04/
+# We added a few Riak use cases to the Basho Blog that are well worth the read if you're interested in Riak being used in production.
+-> "Mad Mimi":http://basho.com/blog/technical/2013/01/21/Riak-Mad-Mimi/
+-> "Alert Logic":http://basho.com/blog/technical/2013/01/24/Alert-Logic-Riak/
+-> "Copious":http://basho.com/blog/technical/2013/01/28/Copious-Uses-Riak/
+# A few Riak Meetups on the horizon.
+-> "Riak Portland (OR) is happening tonight":http://www.meetup.com/Portland-Riak/events/95049492/
+-> "The first Riak Munich meetup is now on the calendar":http://www.meetup.com/Riak-Munchen/events/100799492/
+-> "Riak London is tomorrow night":http://www.meetup.com/riak-london/events/94949812/
+-> "The next Riak NYC was just announced":http://www.meetup.com/NYC-Riak-Meetup/events/101793192/
+# The crew at OmnitTI wrote a post about how they support Viggle.Riak gets a nice mention.
+->  "Read here":http://omniti.com/remembers/2013/omniti-provides-high-performance-support-for-viggle-television-loyalty-program
+# Basho is sponsoring flatMap(Oslo) this coming May in Norway.
+-> "Details here":http://2013.flatmap.no/about.html
+# We added a bunch of functions for manipulating user metadata and secondary indexes to the Riak Erlang Client (courtesy of newly-minted
+Basho Hacker Christian Dahlqvist).
+-> "Code here":https://github.com/basho/riak-erlang-client/pull/81
+# Basho Hacker Marcel Neuhausler added support to Yokozuna for storing and retrieving schemas via http
+-> "Commit here":https://github.com/rzezeski/yokozuna/commit/7cb90fd2dba7cfc3241384a09bc6c097472924f3
+# Nathan Aschbacher (also now a Basho dev) bumped Nodiak up to version 0.1.1.
+-> "Code here":https://github.com/nathanaschbacher/nodiak
+# A WIP branch for Protocol Buffers support in riak-js just landed.
+->  "Take it for a spin here":https://github.com/mostlyserious/riak-js/pull/138
+# Riak is now available on the Engine Yard cloud. And they're giving away 500 free hours on their platform to try it out. (Congrats to Ines, Tasha, and the EY crew for shipping this.)
+-> "Details here":http://basho.com/blog/technical/2013/01/25/Riak-at-Engine-Yard/
+# Chlu wrote a Riak cache backend for TYPO3 Flow
+-> "Code here":https://github.com/chlu/TYPO3.Riak
+# Some Q & A.
+-> "http://stackoverflow.com/questions/14531708/how-can-i-delete-a-riak-bucket-in-python":http://stackoverflow.com/questions/14531708/how-can-i-delete-a-riak-bucket-in-python
+->  "http://stackoverflow.com/questions/14555602/riak-not-starting":http://stackoverflow.com/questions/14555602/riak-not-starting
+->  "http://stackoverflow.com/questions/14464847/writing-date-objects-to-riak-with-python-and-flask-with-overly-complex-jsonific":http://stackoverflow.com/questions/14464847/writing-date-objects-to-riak-with-python-and-flask-with-overly-complex-jsonific
