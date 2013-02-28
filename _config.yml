@@ -1,6 +1,8 @@
 
-markdown: rdiscount
+markdown: redcarpet
 pygments: true
 paginate: 8
 permalink: /:year/:month/:day/:title
 
+redcarpet:
+  extensions: [autolink]
